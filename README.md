@@ -9,3 +9,5 @@ https://networkx.org/
 https://networkx.org/documentation/stable/auto_examples/index.html#examples-gallery
 
 https://igraph.org/
+
+http://networksciencebook.com/
