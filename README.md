@@ -19,6 +19,18 @@ https://cambridge-intelligence.com/keylines-faqs-social-network-analysis/
 
 https://cambridge-intelligence.com/social-network-analysis/
 
+https://medium.com/@tushar_aggarwal/networkx-a-comprehensive-guide-to-mastering-network-analysis-with-python-fd7e5195f6a0
+
+https://github.com/tushar2704?tab=repositories
+
+https://github.com/sna-unipi/SNA_lectures_notebooks.git
+
+https://networkx.org/documentation/stable/reference/algorithms/assortativity.html
+
+https://towardsdatascience.com/computing-assortativity-coefficients-on-a-social-network-dataset-7f65796feb70
+
+https://ona-book.org/gitbook/
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
