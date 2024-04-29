@@ -1,6 +1,6 @@
 # complex_networks_2024_1
 
-Doc's examples
+## Doc's examples
 
 - https://snap.stanford.edu/data/
 
@@ -52,7 +52,11 @@ Doc's examples
 
 
 
-%%%%%%%%%%%%% Datasets %%%%%%%%%%%%%%%%%%%%
+## Datasets
+
+- https://snap.stanford.edu/data/
+
+- https://www.kaggle.com/datasets
 
 - https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos
 
@@ -67,6 +71,4 @@ Doc's examples
 - https://www.kaggle.com/datasets/wyattowalsh/basketball
 
 - https://www.kaggle.com/datasets/stackoverflow/stack-overflow-tag-network
-
-
 
