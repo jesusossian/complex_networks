@@ -1,85 +1,72 @@
 # complex_networks_2024_1
-Codes developed in the Complex Networks 2024.1
 
-https://snap.stanford.edu/data/
+Doc's examples
 
-https://networkx.org/
+- https://snap.stanford.edu/data/
 
-https://networkx.org/documentation/stable/auto_examples/index.html#examples-gallery
+- https://networkx.org/
 
-https://igraph.org/
+- https://networkx.org/documentation/stable/auto_examples/index.html#examples-gallery
 
-http://networksciencebook.com/
+- https://networkx.org/documentation/stable/reference/algorithms/centrality.html
 
-https://diegomariano.com/networkx/
+- https://igraph.org/
 
-https://www.kaggle.com/code/flaviagg/grafos-em-python
+- http://networksciencebook.com/
 
-https://cambridge-intelligence.com/keylines-faqs-social-network-analysis/
+- https://diegomariano.com/networkx/
 
-https://cambridge-intelligence.com/social-network-analysis/
+- https://www.kaggle.com/code/flaviagg/grafos-em-python
 
-https://medium.com/@tushar_aggarwal/networkx-a-comprehensive-guide-to-mastering-network-analysis-with-python-fd7e5195f6a0
+- https://cambridge-intelligence.com/keylines-faqs-social-network-analysis/
 
-https://github.com/tushar2704?tab=repositories
+- https://cambridge-intelligence.com/social-network-analysis/
 
-https://github.com/sna-unipi/SNA_lectures_notebooks.git
+- https://medium.com/@tushar_aggarwal/networkx-a-comprehensive-guide-to-mastering-network-analysis-with-python-fd7e5195f6a0
 
-https://networkx.org/documentation/stable/reference/algorithms/assortativity.html
+- https://github.com/tushar2704?tab=repositories
 
-https://towardsdatascience.com/computing-assortativity-coefficients-on-a-social-network-dataset-7f65796feb70
+- https://github.com/sna-unipi/SNA_lectures_notebooks.git
 
-https://ona-book.org/gitbook/
+- https://networkx.org/documentation/stable/reference/algorithms/assortativity.html
+
+- https://towardsdatascience.com/computing-assortativity-coefficients-on-a-social-network-dataset-7f65796feb70
+
+- https://ona-book.org/gitbook/
+
+- https://andreh-gustavo.medium.com/como-realizar-uma-an%C3%A1lise-de-rede-em-grafos-com-networkx-5401669757ab
+
+- https://medium.com/computando-arte/uma-breve-introdu%C3%A7%C3%A3o-%C3%A0s-redes-complexas-63db41b4a9a6
+
+- https://medium.com/computando-arte/an%C3%A1lise-de-redes-complexas-em-python-com-networkx-e-pyvis-bd8d67889918
+
+- https://www.kirenz.com/blog/posts/2019-08-13-network-analysis/
+
+- https://medium.com/data-reply-it-datatech/an-introduction-to-graph-analysis-and-networkx-b76e4a387c6c
+
+- https://www.datacamp.com/tutorial/social-network-analysis-python
+
+- https://walkenho.github.io/graph-theory-and-networkX-part3/
+
+- https://www.kaggle.com/code/rahulgoel1106/network-centrality-using-networkx
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Rascunho
+%%%%%%%%%%%%% Datasets %%%%%%%%%%%%%%%%%%%%
 
-# círculo com 6 nós
-CG = nx.circulant_graph(6 ,[1])
-nx.draw_kamada_kawai(CG, with_labels = True)
+- https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos
 
-# grafo regular com 6 nós e 3 arestas por nó
-RRG = nx.random_regular_graph(3, 6)
-nx.draw_kamada_kawai(RRG, with_labels = True)
+- https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=18835b0d-233e-4857-b454-1fa34a81b4fa
 
-# grafo completo com 6 nós
-CG6 = nx.complete_graph(6)
-nx.draw_kamada_kawai(CG6, with_labels = True)
+- https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=19e96c3f-c932-4e14-82e2-58e170454e3d
 
-# karate club graph
-KCG = nx.karate_club_graph()
-nx.draw_kamada_kawai(KCG, with_labels = True)
+- https://github.com/jfjelstul/englishfootball
 
-# Grafo direcionado
-DIG = nx.DiGraph ()
+- https://www.kaggle.com/datasets/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting
 
-# Lista de nós
-DIG.add_nodes_from(['a', 'b', 'c', 'd', 'e', 'f'])
+- https://www.kaggle.com/datasets/wyattowalsh/basketball
 
-# Arestas
-DIG.add_edge('a', 'c')
-DIG.add_edge('b', 'c')
-DIG.add_edge('c', 'e') 
-DIG.add_edge( 'c', 'f')
-DIG.add_edge('d', 'e')
-DIG.add_edge('d', 'f')
+- https://www.kaggle.com/datasets/stackoverflow/stack-overflow-tag-network
 
-pos = nx . circular_layout (DIG)
-pos['a'] = [ -1 ,0]
-pos['b'] = [+0 ,0]
-pos['c'] = [ -0.5 , -0.5]
-pos['d'] = [+1.5 , -0.5]
-pos['e'] = [+0.0 , -1.0]
-pos[ 'f'] = [+1.0 , -1.0]
-
-#larg = [(0.5*DIG[u][v]['peso']) for u , v in DIG.edges]
-nx.draw_networkx(DIG , 
-                 pos = pos, 
-                 node_size = 1000, 
-                 with_labels = True, 
-                 arrows = True)
-#nx.draw_kamada_kawai(DIG, with_labels = True)
 
 
