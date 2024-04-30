@@ -64,11 +64,21 @@
 
 - https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=19e96c3f-c932-4e14-82e2-58e170454e3d
 
+- https://www.kaggle.com/datasets/stackoverflow/stack-overflow-tag-network
+
+
+
 - https://github.com/jfjelstul/englishfootball
 
 - https://www.kaggle.com/datasets/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting
 
 - https://www.kaggle.com/datasets/wyattowalsh/basketball
 
-- https://www.kaggle.com/datasets/stackoverflow/stack-overflow-tag-network
+- https://www.kaggle.com/datasets/profdavidsonsantana/campeonato-paulista-de-futebol-placares-e-odds?rvi=1
+
+- https://www.kaggle.com/datasets/kishan305/la-liga-results-19952020?rvi=1
+
+- https://www.kaggle.com/datasets/lucmouneyres/ligue-1-saison-20202021?rvi=1
+
+- https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro
 
