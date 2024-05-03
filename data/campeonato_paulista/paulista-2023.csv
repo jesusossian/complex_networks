@@ -1,0 +1,110 @@
+nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
+BRAZIL;PAULISTA;ROUND 1;2023;14.01.2023;Inter de Limeira;Sao Bernardo;0;1;0;3;2.64;2.96;2.75;2.52;https://www.flashscore.com/match/zytdqkfS/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;14.01.2023;Portuguesa;Botafogo SP;0;1;0;2;2.55;3.01;2.82;2.45;https://www.flashscore.com/match/dpshpVvM/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;14.01.2023;Santo Andre;Guarani;1;0;1;0;2.82;2.93;2.62;2.52;https://www.flashscore.com/match/SSXNv92q/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;14.01.2023;Palmeiras;Sao Bento;0;0;0;0;1.11;9.08;19.9;1.6;https://www.flashscore.com/match/lrMWxmXe/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;14.01.2023;Santos;Mirassol;1;1;2;1;1.66;3.65;4.82;2.04;https://www.flashscore.com/match/GlEI0jP2/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;15.01.2023;Agua Santa;Ferroviaria;0;0;1;3;2.7;2.99;2.61;2.36;https://www.flashscore.com/match/6JWRwTHk/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;15.01.2023;Bragantino;Corinthians;0;0;1;0;2.57;2.99;2.82;2.34;https://www.flashscore.com/match/2oQzx7n2/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2023;15.01.2023;Sao Paulo;Ituano;0;0;0;0;1.42;4.03;6.92;2.09;https://www.flashscore.com/match/fuDMaAv9/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;17.01.2023;Sao Bento;Santo Andre;1;0;2;1;2.72;2.76;2.9;2.85;https://www.flashscore.com/match/zFC6kQG1/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;17.01.2023;Mirassol;Inter de Limeira;0;1;0;1;1.5;3.78;6.84;2.25;https://www.flashscore.com/match/6u82j61e/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;18.01.2023;Sao Bernardo;Bragantino;1;1;1;1;3.24;2.98;2.31;2.32;https://www.flashscore.com/match/E5BAlpW7/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;18.01.2023;Corinthians;Agua Santa;2;0;3;0;1.32;4.56;10.4;2.1;https://www.flashscore.com/match/EsTNcl9L/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;18.01.2023;Ituano;Portuguesa;0;0;1;1;1.9;3.12;4.3;2.33;https://www.flashscore.com/match/Sl9binnk/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;18.01.2023;Guarani;Santos;1;0;2;0;3.35;2.88;2.33;2.55;https://www.flashscore.com/match/pQJghSWr/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;19.01.2023;Ferroviaria;Sao Paulo;1;0;1;2;4.99;3.28;1.75;2.29;https://www.flashscore.com/match/84SRd8OR/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2023;19.01.2023;Botafogo SP;Palmeiras;0;1;0;1;9.04;4.04;1.38;2.13;https://www.flashscore.com/match/ziUJbUgF/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;21.01.2023;Agua Santa;Sao Bento;1;0;1;1;2.27;2.95;3.31;2.49;https://www.flashscore.com/match/prVTgu8m/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;21.01.2023;Portuguesa;Bragantino;2;0;3;0;3.86;3.22;1.94;2.23;https://www.flashscore.com/match/GAkgDT88/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;21.01.2023;Guarani;Ituano;0;0;0;0;2.09;2.96;3.73;2.47;https://www.flashscore.com/match/tAOxhJx0/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;21.01.2023;Inter de Limeira;Corinthians;0;0;0;0;5.95;3.53;1.6;2.32;https://www.flashscore.com/match/Ee8dCmOE/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;22.01.2023;Palmeiras;Sao Paulo;0;0;0;0;1.67;3.49;5.09;2.17;https://www.flashscore.com/match/zXNtiwh6/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;22.01.2023;Sao Bernardo;Santos;1;0;1;1;3.19;3.0;2.32;2.28;https://www.flashscore.com/match/lzSpjc7C/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;22.01.2023;Ferroviaria;Santo Andre;1;0;1;2;2.17;2.98;3.49;2.52;https://www.flashscore.com/match/2JPYhaNg/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2023;22.01.2023;Botafogo SP;Mirassol;1;1;1;1;2.31;3.01;3.17;2.43;https://www.flashscore.com/match/6iWPfLhs/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;24.01.2023;Corinthians;Guarani;1;1;2;1;1.41;3.93;8.36;2.28;https://www.flashscore.com/match/WbHkkHMI/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;25.01.2023;Bragantino;Ferroviaria;2;0;2;0;1.55;3.75;5.75;2.17;https://www.flashscore.com/match/MTu87bxm/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;25.01.2023;Ituano;Palmeiras;0;1;1;3;4.21;3.32;1.83;2.22;https://www.flashscore.com/match/xd4yDKEP/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;25.01.2023;Santo Andre;Botafogo SP;1;1;1;1;2.21;2.87;3.52;2.83;https://www.flashscore.com/match/AkGglyxP/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;25.01.2023;Santos;Agua Santa;0;0;0;0;1.49;3.86;6.62;2.16;https://www.flashscore.com/match/zXqC6Iig/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;26.01.2023;Sao Bento;Inter de Limeira;1;0;1;0;2.3;2.89;3.36;2.58;https://www.flashscore.com/match/UgqG5x7a/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;26.01.2023;Mirassol;Sao Bernardo;2;0;4;1;2.07;3.08;3.67;2.47;https://www.flashscore.com/match/v5j38vNt/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2023;26.01.2023;Sao Paulo;Portuguesa;1;0;4;1;1.36;4.38;8.95;2.14;https://www.flashscore.com/match/8prK4dM5/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;28.01.2023;Santos;Ferroviaria;0;1;1;1;1.57;3.68;5.93;2.11;https://www.flashscore.com/match/x0hu66Iu/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;28.01.2023;Bragantino;Santo Andre;0;0;0;1;1.54;3.97;5.84;2.01;https://www.flashscore.com/match/A9vy1ELU/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;28.01.2023;Botafogo SP;Guarani;2;0;3;2;2.36;2.95;3.19;2.58;https://www.flashscore.com/match/E1chq4CI/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;29.01.2023;Agua Santa;Portuguesa;0;0;2;1;2.22;3.03;3.32;2.52;https://www.flashscore.com/match/4CyT2ziI/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;29.01.2023;Sao Bernardo;Sao Bento;0;0;2;0;2.03;3.08;3.81;2.52;https://www.flashscore.com/match/Gjiq5QXo/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;29.01.2023;Inter de Limeira;Ituano;1;0;1;0;2.65;2.85;2.83;2.71;https://www.flashscore.com/match/QLxP3GyC/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;29.01.2023;Sao Paulo;Corinthians;0;2;1;2;2.11;3.09;3.56;2.55;https://www.flashscore.com/match/pQem4pmh/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2023;01.02.2023;Mirassol;Palmeiras;0;0;0;2;4.5;3.38;1.78;2.13;https://www.flashscore.com/match/bZzX1f6O/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;04.02.2023;Sao Bento;Mirassol;0;1;1;1;3.45;3.09;2.15;2.42;https://www.flashscore.com/match/MR4Wg0Pp/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;04.02.2023;Guarani;Bragantino;0;0;0;1;3.22;3.01;2.27;2.4;https://www.flashscore.com/match/U9uu774P/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;04.02.2023;Ferroviaria;Sao Bernardo;0;0;0;1;2.93;2.92;2.45;2.53;https://www.flashscore.com/match/E5m402nH/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;04.02.2023;Palmeiras;Santos;2;0;3;1;1.37;4.42;8.62;2.02;https://www.flashscore.com/match/KII4btHT/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;05.02.2023;Ituano;Agua Santa;0;2;0;3;1.98;3.06;3.97;2.56;https://www.flashscore.com/match/hdn8aM1N/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;05.02.2023;Santo Andre;Sao Paulo;0;0;0;1;5.08;3.55;1.66;2.28;https://www.flashscore.com/match/Krl01rXA/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;05.02.2023;Corinthians;Botafogo SP;2;0;2;0;1.39;4.17;8.03;2.22;https://www.flashscore.com/match/6upd2OH4/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2023;05.02.2023;Portuguesa;Inter de Limeira;0;1;0;1;2.03;2.99;3.91;2.68;https://www.flashscore.com/match/OGfi342b/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;07.02.2023;Mirassol;Ferroviaria;2;0;4;1;1.63;3.56;5.43;2.22;https://www.flashscore.com/match/AmoRFsn4/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;08.02.2023;Bragantino;Sao Paulo;0;0;2;1;2.87;3.17;2.4;2.08;https://www.flashscore.com/match/IDlZDLGG/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;08.02.2023;Guarani;Portuguesa;2;1;2;1;1.8;3.24;4.71;2.44;https://www.flashscore.com/match/WdnNGNWc/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;08.02.2023;Botafogo SP;Ituano;1;2;2;3;2.18;2.9;3.6;2.7;https://www.flashscore.com/match/zVhEIq2o/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;08.02.2023;Santos;Sao Bento;0;0;1;0;1.53;3.67;6.4;2.21;https://www.flashscore.com/match/0xvvDuWM/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;09.02.2023;Santo Andre;Agua Santa;0;1;0;2;2.42;2.72;3.36;2.56;https://www.flashscore.com/match/lYdIH3Hi/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;09.02.2023;Palmeiras;Inter de Limeira;2;0;2;0;1.13;7.31;17.44;1.62;https://www.flashscore.com/match/vNkVE11A/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2023;09.02.2023;Sao Bernardo;Corinthians;1;0;2;0;3.94;3.12;2.0;2.46;https://www.flashscore.com/match/CCsrCaoT/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;11.02.2023;Ferroviaria;Botafogo SP;0;1;1;2;2.81;2.98;2.57;2.35;https://www.flashscore.com/match/OjB0Ut1c/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;11.02.2023;Sao Bento;Guarani;0;1;0;1;2.99;2.97;2.45;2.56;https://www.flashscore.com/match/Eu4DRvoG/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;11.02.2023;Bragantino;Mirassol;0;0;0;0;1.82;3.38;4.27;2.1;https://www.flashscore.com/match/WGE8SKV9/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;12.02.2023;Agua Santa;Palmeiras;0;0;0;1;7.91;4.15;1.41;1.88;https://www.flashscore.com/match/p0CdVMoi/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;12.02.2023;Portuguesa;Corinthians;0;0;0;0;8.5;4.13;1.38;2.16;https://www.flashscore.com/match/UiU97Jgp/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;12.02.2023;Sao Paulo;Santos;2;0;3;1;1.69;3.52;5.06;2.17;https://www.flashscore.com/match/j5RtACFr/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;12.02.2023;Inter de Limeira;Santo Andre;0;0;0;1;2.36;2.93;3.12;2.58;https://www.flashscore.com/match/8rTD6w9j/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;14.02.2023;Botafogo SP;Sao Bento;0;0;1;0;1.99;3.09;3.91;2.35;https://www.flashscore.com/match/xMPl8jpe/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;15.02.2023;Agua Santa;Bragantino;1;0;1;0;3.37;3.26;2.11;2.21;https://www.flashscore.com/match/ni7uVDi8/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;15.02.2023;Guarani;Sao Bernardo;1;4;1;5;2.4;2.95;3.13;2.62;https://www.flashscore.com/match/Qs6qUX6E/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;15.02.2023;Portuguesa;Ferroviaria;1;0;1;1;2.13;3.14;3.47;2.26;https://www.flashscore.com/match/bVQp9WUl/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;15.02.2023;Sao Paulo;Inter de Limeira;2;1;5;1;1.29;4.73;10.71;1.92;https://www.flashscore.com/match/M9ahSByR/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;16.02.2023;Mirassol;Ituano;1;0;1;0;1.94;3.1;4.05;2.27;https://www.flashscore.com/match/rJ0lTiMK/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;16.02.2023;Santo Andre;Santos;0;0;1;1;3.62;3.08;2.11;2.43;https://www.flashscore.com/match/YmJc6UE7/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2023;16.02.2023;Corinthians;Palmeiras;1;1;2;2;3.66;3.16;2.07;2.38;https://www.flashscore.com/match/KpFg7Aa1/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;18.02.2023;Inter de Limeira;Agua Santa;0;1;0;1;2.87;2.91;2.58;2.64;https://www.flashscore.com/match/vknKNVqr/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;18.02.2023;Ferroviaria;Guarani;0;0;1;0;2.47;2.89;2.99;2.54;https://www.flashscore.com/match/KbfSL9Ef/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;19.02.2023;Sao Bernardo;Botafogo SP;0;1;2;1;1.9;3.03;4.53;2.63;https://www.flashscore.com/match/MNvRtBjK/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;19.02.2023;Santos;Portuguesa;3;0;4;0;1.48;3.8;6.81;2.13;https://www.flashscore.com/match/6FdvJ7bD/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;19.02.2023;Corinthians;Mirassol;2;0;3;0;1.44;3.98;7.75;2.15;https://www.flashscore.com/match/xz5NMkal/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;19.02.2023;Ituano;Santo Andre;2;0;2;0;2.12;2.99;3.61;2.55;https://www.flashscore.com/match/bkgWKTT0/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;21.02.2023;Sao Bento;Sao Paulo;0;1;0;3;7.56;4.06;1.43;2.12;https://www.flashscore.com/match/8KzNsiyE/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2023;22.02.2023;Ituano;Sao Bernardo;0;2;0;2;3.13;2.96;2.36;2.63;https://www.flashscore.com/match/IDA4T0G3/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2023;22.02.2023;Palmeiras;Bragantino;1;0;2;0;1.29;5.26;9.63;1.7;https://www.flashscore.com/match/SOczKmq7/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;25.02.2023;Agua Santa;Botafogo SP;0;0;1;0;2.07;2.98;3.77;2.58;https://www.flashscore.com/match/xdtbZSrf/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;25.02.2023;Inter de Limeira;Guarani;0;2;0;5;3.15;2.96;2.31;2.47;https://www.flashscore.com/match/IgQdykEs/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;25.02.2023;Bragantino;Ituano;3;0;5;1;1.46;3.98;6.58;2.02;https://www.flashscore.com/match/pMq6X6D6/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;25.02.2023;Sao Paulo;Sao Bernardo;0;1;0;1;1.52;3.89;6.27;2.07;https://www.flashscore.com/match/6yYEVprJ/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;26.02.2023;Santos;Corinthians;1;1;2;2;2.69;2.93;2.75;2.42;https://www.flashscore.com/match/SpZAWQSC/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;26.02.2023;Palmeiras;Ferroviaria;1;0;2;1;1.13;7.79;17.08;1.48;https://www.flashscore.com/match/WIu2Ynb0/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;26.02.2023;Portuguesa;Sao Bento;0;0;0;0;2.27;2.92;3.33;2.46;https://www.flashscore.com/match/GpvVuV5Q/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2023;27.02.2023;Santo Andre;Mirassol;0;1;0;1;3.03;3.14;2.33;2.26;https://www.flashscore.com/match/b5sfz9Tm/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;04.03.2023;Corinthians;Santo Andre;1;1;3;1;1.32;4.78;9.2;1.98;https://www.flashscore.com/match/YsQ0glzQ/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Sao Bernardo;Agua Santa;0;0;0;1;1.91;3.21;4.16;2.23;https://www.flashscore.com/match/KvblppcC/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Sao Bento;Bragantino;0;2;0;3;3.79;3.22;1.98;2.18;https://www.flashscore.com/match/tlapoQs6/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Mirassol;Portuguesa;1;1;1;2;1.7;3.58;4.77;2.22;https://www.flashscore.com/match/OC4un6Sa/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Ituano;Santos;2;0;3;0;3.45;3.22;2.1;2.18;https://www.flashscore.com/match/pM5ymnDg/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Guarani;Palmeiras;0;0;0;0;9.37;4.6;1.33;2.08;https://www.flashscore.com/match/ja6XmScm/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Ferroviaria;Inter de Limeira;0;0;0;0;1.96;3.18;3.91;2.28;https://www.flashscore.com/match/vP2Tl8rs/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2023;05.03.2023;Botafogo SP;Sao Paulo;1;0;1;3;5.63;3.67;1.6;2.2;https://www.flashscore.com/match/fiRdfUKJ/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2023;10.03.2023;Guarani;Portuguesa;1;0;2;1;1.8;3.13;4.84;2.67;https://www.flashscore.com/match/xIg6K9bC/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2023;11.03.2023;Santo Andre;Inter de Limeira;0;0;0;0;1.86;3.03;4.53;2.62;https://www.flashscore.com/match/fglBJTDI/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;11.03.2023;Palmeiras;Sao Bernardo;1;0;1;0;1.3;5.03;9.51;1.82;https://www.flashscore.com/match/dMnEe0Aa/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;12.03.2023;Corinthians;Ituano;1;1;1;1;1.42;4.24;7.08;2.1;https://www.flashscore.com/match/IVmAdteg/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;12.03.2023;Bragantino;Botafogo SP;1;0;2;0;1.41;4.17;8.21;2.03;https://www.flashscore.com/match/M3f1b2Qt/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;13.03.2023;Sao Paulo;Agua Santa;0;0;0;0;1.38;4.29;8.02;2.09;https://www.flashscore.com/match/0fg5cMum/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2023;16.03.2023;Sao Bernardo;Inter de Limeira;1;0;1;0;1.49;3.72;6.69;2.31;https://www.flashscore.com/match/GQRArrXI/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2023;17.03.2023;Mirassol;Guarani;0;0;1;0;1.84;3.18;4.37;2.46;https://www.flashscore.com/match/xzT6qOHC/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;19.03.2023;Palmeiras;Ituano;0;0;1;0;1.17;6.91;13.9;1.64;https://www.flashscore.com/match/OILSDpkQ/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;20.03.2023;Agua Santa;Bragantino;0;1;1;1;3.67;3.13;2.06;2.41;https://www.flashscore.com/match/Uabe94cs/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2023;26.03.2023;Sao Bernardo;Mirassol;0;0;0;0;2.14;3.04;3.36;2.29;https://www.flashscore.com/match/8EBSOjvs/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;02.04.2023;Agua Santa;Palmeiras;1;0;2;1;9.11;4.33;1.35;2.15;https://www.flashscore.com/match/SfCdCYeR/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2023;09.04.2023;Palmeiras;Agua Santa;3;0;4;0;1.18;6.55;12.53;1.78;https://www.flashscore.com/match/pzaO7h4r/#/match-summary

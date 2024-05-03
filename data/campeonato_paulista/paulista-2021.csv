@@ -1,0 +1,110 @@
+nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
+BRAZIL;PAULISTA;ROUND 1;2021;27.02.2021;Sao Bento;Mirassol;1;1;1;2;4.21;3.4;1.81;2.04;https://www.flashscore.com/match/ryjiDQXc/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;27.02.2021;Novorizontino;Ponte Preta;0;1;1;1;2.74;3.12;2.52;2.22;https://www.flashscore.com/match/WdMYfqIT/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;28.02.2021;Bragantino;Corinthians;0;0;0;0;1.97;3.29;3.72;2.14;https://www.flashscore.com/match/n9drFn3o/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;28.02.2021;Sao Paulo;Botafogo SP;0;0;1;1;1.27;4.8;10.12;1.87;https://www.flashscore.com/match/MRleCpm4/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;28.02.2021;Santo Andre;Santos;1;2;2;2;2.99;3.2;2.3;2.24;https://www.flashscore.com/match/0C0nE6Ii/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;28.02.2021;Ferroviaria;Inter de Limeira;0;0;1;0;2.25;3.14;3.14;2.34;https://www.flashscore.com/match/zVSPd5mH/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;01.03.2021;Guarani;Ituano;0;2;0;3;2.66;2.84;2.83;2.48;https://www.flashscore.com/match/ELRTeP2N/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;02.03.2021;Mirassol;Novorizontino;1;1;1;1;2.09;3.07;3.6;2.26;https://www.flashscore.com/match/MkTw4Mfp/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;03.03.2021;Santos;Ferroviaria;1;0;1;1;2.53;3.02;2.85;2.32;https://www.flashscore.com/match/xbBQRPni/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;03.03.2021;Inter de Limeira;Sao Paulo;0;1;0;4;7.19;4.15;1.45;2.04;https://www.flashscore.com/match/j7x89rXM/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;03.03.2021;Sao Caetano;Bragantino;0;2;0;2;9.71;4.74;1.3;1.89;https://www.flashscore.com/match/GlAUQq2c/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;03.03.2021;Corinthians;Palmeiras;1;2;2;2;3.89;3.09;2.0;2.48;https://www.flashscore.com/match/8rm3AOHG/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;04.03.2021;Ituano;Sao Bento;1;0;1;0;1.67;3.41;5.24;2.37;https://www.flashscore.com/match/4AtC82nT/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;04.03.2021;Botafogo SP;Guarani;0;0;0;1;2.17;3.02;3.44;2.64;https://www.flashscore.com/match/UilaB42A/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2021;04.03.2021;Ponte Preta;Santo Andre;0;0;0;1;1.94;3.22;3.9;2.18;https://www.flashscore.com/match/0tSs3tAj/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;06.03.2021;Inter de Limeira;Novorizontino;1;0;1;0;3.16;3.1;2.28;2.37;https://www.flashscore.com/match/UBGpN11M/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;06.03.2021;Sao Paulo;Santos;0;0;4;0;1.67;3.47;5.19;2.17;https://www.flashscore.com/match/dM0PFJgd/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;07.03.2021;Ituano;Mirassol;0;1;1;1;3.0;2.94;2.41;2.66;https://www.flashscore.com/match/boLlMLGS/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;07.03.2021;Corinthians;Ponte Preta;1;1;2;1;2.09;3.11;3.52;2.38;https://www.flashscore.com/match/AB9YP3H3/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;07.03.2021;Guarani;Bragantino;1;1;1;1;6.49;3.76;1.48;2.13;https://www.flashscore.com/match/jLHtOsnG/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;08.03.2021;Santo Andre;Sao Caetano;0;0;0;0;1.6;3.6;5.57;2.25;https://www.flashscore.com/match/0f7GHuPq/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;08.03.2021;Ferroviaria;Botafogo SP;3;0;5;0;1.9;3.04;4.38;2.81;https://www.flashscore.com/match/8dSyPNW9/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2021;11.03.2021;Palmeiras;Sao Caetano;3;0;3;0;1.19;5.67;16.14;1.87;https://www.flashscore.com/match/Y580j3Qp/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;13.03.2021;Novorizontino;Sao Paulo;1;0;2;1;4.79;3.53;1.71;2.12;https://www.flashscore.com/match/8I3Cy1GF/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;13.03.2021;Guarani;Sao Bento;0;0;0;0;1.95;3.21;4.0;2.41;https://www.flashscore.com/match/lGmBwNo3/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;13.03.2021;Santos;Ituano;2;1;2;1;1.79;3.39;4.6;2.24;https://www.flashscore.com/match/MPqmVbgq/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;13.03.2021;Botafogo SP;Ponte Preta;0;1;0;1;3.37;3.17;2.17;2.42;https://www.flashscore.com/match/APl7v3Wd/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;14.03.2021;Mirassol;Inter de Limeira;0;0;1;0;1.81;3.43;4.33;2.26;https://www.flashscore.com/match/UR48xs19/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;14.03.2021;Palmeiras;Ferroviaria;0;0;2;0;1.51;3.92;6.41;2.13;https://www.flashscore.com/match/2u3GzLVL/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;14.03.2021;Sao Caetano;Corinthians;0;1;0;1;8.59;4.49;1.34;1.86;https://www.flashscore.com/match/0GriUI8k/#/match-summary
+BRAZIL;PAULISTA;ROUND 4;2021;14.03.2021;Bragantino;Santo Andre;1;0;2;1;1.32;4.45;10.88;2.19;https://www.flashscore.com/match/Gr7KZvoS/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;23.03.2021;Mirassol;Corinthians;0;1;0;1;4.21;3.19;1.9;2.54;https://www.flashscore.com/match/MLToj0V8/#/match-summary
+BRAZIL;PAULISTA;ROUND 3;2021;24.03.2021;Sao Bento;Palmeiras;1;1;1;1;11.2;5.76;1.22;1.78;https://www.flashscore.com/match/rJdLGavj/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;10.04.2021;Sao Paulo;Sao Caetano;4;1;5;1;1.19;6.28;13.25;1.67;https://www.flashscore.com/match/EHmqMFHL/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;10.04.2021;Sao Bento;Bragantino;1;1;1;2;10.8;4.35;1.32;2.2;https://www.flashscore.com/match/OANQ7PdB/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;10.04.2021;Santos;Botafogo SP;0;0;0;0;1.69;3.6;4.8;2.06;https://www.flashscore.com/match/pKOM85s5/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;11.04.2021;Guarani;Corinthians;0;0;0;1;5.01;3.43;1.7;2.36;https://www.flashscore.com/match/UTDu2fQk/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;12.04.2021;Sao Paulo;Bragantino;0;0;1;0;1.89;3.58;3.75;1.73;https://www.flashscore.com/match/8buzaUDt/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;13.04.2021;Santo Andre;Sao Bento;0;0;0;0;1.92;3.17;4.0;2.39;https://www.flashscore.com/match/AqoOWBUm/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;13.04.2021;Ferroviaria;Corinthians;0;1;2;1;3.13;2.9;2.45;2.68;https://www.flashscore.com/match/tSR5Cmrt/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;14.04.2021;Sao Caetano;Novorizontino;0;0;0;2;5.47;3.66;1.6;2.2;https://www.flashscore.com/match/lzpSVVqf/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;14.04.2021;Sao Paulo;Guarani;1;1;3;2;1.6;3.67;5.52;2.26;https://www.flashscore.com/match/4KVY53RN/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;14.04.2021;Ituano;Botafogo SP;0;0;1;2;1.81;3.24;4.55;2.45;https://www.flashscore.com/match/AoQsitG2/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;15.04.2021;Inter de Limeira;Bragantino;0;0;0;2;5.45;3.63;1.6;2.07;https://www.flashscore.com/match/8tnaSdw2/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;16.04.2021;Ponte Preta;Santos;3;0;3;0;3.19;3.1;2.26;2.3;https://www.flashscore.com/match/h8jJXiFs/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;16.04.2021;Corinthians;Sao Bento;0;1;1;1;1.4;4.23;7.87;2.16;https://www.flashscore.com/match/OUJ4qkEg/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;16.04.2021;Palmeiras;Sao Paulo;0;0;0;1;3.33;3.1;2.28;2.18;https://www.flashscore.com/match/GrTkkKpF/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;17.04.2021;Bragantino;Mirassol;1;1;2;1;1.81;3.28;4.56;2.25;https://www.flashscore.com/match/WWvQjXLJ/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;17.04.2021;Novorizontino;Ferroviaria;2;1;3;1;2.28;3.04;3.31;2.64;https://www.flashscore.com/match/vPxuTTTC/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;18.04.2021;Santos;Inter de Limeira;1;1;2;1;1.84;3.42;4.05;2.03;https://www.flashscore.com/match/ANwUkiyQ/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;18.04.2021;Botafogo SP;Palmeiras;0;0;0;0;4.76;3.51;1.75;2.12;https://www.flashscore.com/match/rcqWUka0/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;18.04.2021;Corinthians;Ituano;1;0;2;0;1.7;3.49;4.8;2.13;https://www.flashscore.com/match/d0mzU9E6/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;19.04.2021;Bragantino;Ponte Preta;1;0;2;0;1.61;3.69;5.47;1.96;https://www.flashscore.com/match/vaeWOHX2/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;19.04.2021;Sao Bento;Sao Caetano;1;1;1;1;1.73;3.29;5.41;2.51;https://www.flashscore.com/match/G4GdoBqs/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;20.04.2021;Novorizontino;Santo Andre;0;0;2;0;1.64;3.54;5.89;2.25;https://www.flashscore.com/match/fVV9B7cn/#/match-summary
+BRAZIL;PAULISTA;ROUND 5;2021;20.04.2021;Ferroviaria;Guarani;1;1;1;2;2.38;3.03;3.07;2.48;https://www.flashscore.com/match/UkmeTxOe/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;21.04.2021;Inter de Limeira;Ituano;1;0;1;0;3.09;3.06;2.33;2.42;https://www.flashscore.com/match/bmCHtmbC/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;21.04.2021;Mirassol;Botafogo SP;1;1;2;1;1.64;3.44;5.46;2.45;https://www.flashscore.com/match/hABLu7DI/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;22.04.2021;Sao Caetano;Ponte Preta;1;1;1;2;5.48;3.47;1.65;2.33;https://www.flashscore.com/match/6kg83A5P/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;23.04.2021;Sao Paulo;Santo Andre;1;0;2;0;1.35;4.26;8.77;1.95;https://www.flashscore.com/match/U7K0pVbm/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;23.04.2021;Guarani;Palmeiras;1;1;1;2;4.63;3.36;1.79;2.19;https://www.flashscore.com/match/KdDDsTr6/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;23.04.2021;Novorizontino;Santos;0;0;1;0;2.28;3.17;3.07;2.14;https://www.flashscore.com/match/4pFPvRSO/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;25.04.2021;Santos;Corinthians;0;2;0;2;3.15;2.95;2.39;2.7;https://www.flashscore.com/match/QFidhpcO/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;25.04.2021;Palmeiras;Mirassol;0;1;1;2;1.99;3.29;3.71;2.15;https://www.flashscore.com/match/bmYndSca/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;25.04.2021;Bragantino;Ferroviaria;0;0;0;0;1.82;3.18;4.66;2.24;https://www.flashscore.com/match/6Dyef6SB/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;25.04.2021;Ituano;Sao Paulo;0;2;0;3;5.5;3.77;1.59;2.04;https://www.flashscore.com/match/GOrrc8rg/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;25.04.2021;Botafogo SP;Sao Caetano;1;1;1;1;1.55;3.73;6.01;2.22;https://www.flashscore.com/match/xYqvblTn/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;26.04.2021;Ponte Preta;Inter de Limeira;0;1;0;1;1.62;3.78;4.97;1.95;https://www.flashscore.com/match/CjxienD5/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;26.04.2021;Santo Andre;Guarani;0;1;0;1;3.27;3.11;2.2;2.33;https://www.flashscore.com/match/p4zagQsI/#/match-summary
+BRAZIL;PAULISTA;ROUND 8;2021;27.04.2021;Sao Bento;Novorizontino;0;0;1;1;4.07;3.1;1.94;2.33;https://www.flashscore.com/match/46j0i4CU/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;28.04.2021;Sao Caetano;Ituano;0;0;0;1;4.9;3.19;1.8;2.61;https://www.flashscore.com/match/6ZCV6qCH/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;29.04.2021;Ponte Preta;Mirassol;0;1;1;2;2.73;3.07;2.56;2.23;https://www.flashscore.com/match/GpKI9oSb/#/match-summary
+BRAZIL;PAULISTA;ROUND 9;2021;29.04.2021;Palmeiras;Inter de Limeira;0;0;0;1;1.38;4.4;8.42;1.9;https://www.flashscore.com/match/xfLEARCh/#/match-summary
+BRAZIL;PAULISTA;ROUND 7;2021;29.04.2021;Ferroviaria;Santo Andre;1;0;2;2;2.0;3.3;3.62;2.06;https://www.flashscore.com/match/2LI8r9Ta/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;01.05.2021;Bragantino;Santos;1;0;1;1;1.98;3.31;3.68;2.09;https://www.flashscore.com/match/6mh4LrRA/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;02.05.2021;Santo Andre;Palmeiras;0;1;0;1;5.59;3.42;1.64;2.47;https://www.flashscore.com/match/pvi8K2tH/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;02.05.2021;Guarani;Novorizontino;1;0;2;1;2.58;2.89;2.91;2.64;https://www.flashscore.com/match/x80mPQRo/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;02.05.2021;Ituano;Ponte Preta;1;1;2;1;2.8;3.06;2.56;2.26;https://www.flashscore.com/match/ALbeN4db/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;02.05.2021;Corinthians;Sao Paulo;1;1;2;2;3.78;3.21;2.0;2.34;https://www.flashscore.com/match/0jH40sko/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;03.05.2021;Mirassol;Ferroviaria;1;2;1;3;1.92;3.28;4.01;2.11;https://www.flashscore.com/match/OO2aMOB4/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;03.05.2021;Inter de Limeira;Sao Caetano;0;0;1;0;1.5;3.89;6.74;2.2;https://www.flashscore.com/match/GbaiOpsh/#/match-summary
+BRAZIL;PAULISTA;ROUND 10;2021;03.05.2021;Botafogo SP;Sao Bento;1;0;2;0;2.15;3.06;3.62;2.38;https://www.flashscore.com/match/bsVx5NtU/#/match-summary
+BRAZIL;PAULISTA;ROUND 6;2021;05.05.2021;Ponte Preta;Guarani;1;0;3;1;2.82;3.02;2.54;2.24;https://www.flashscore.com/match/IFyqSmqJ/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;06.05.2021;Sao Bento;Inter de Limeira;1;1;2;1;2.76;2.94;2.69;2.81;https://www.flashscore.com/match/zRluNe2F/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;06.05.2021;Novorizontino;Botafogo SP;1;0;2;2;1.73;3.35;4.93;2.44;https://www.flashscore.com/match/Ch3p1Eud/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;06.05.2021;Santo Andre;Mirassol;0;1;2;1;3.0;3.15;2.39;2.06;https://www.flashscore.com/match/IkfzOym9/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;06.05.2021;Palmeiras;Santos;2;1;3;2;2.13;3.31;3.27;2.0;https://www.flashscore.com/match/Qe7l0Yf2/#/match-summary
+BRAZIL;PAULISTA;ROUND 11;2021;06.05.2021;Ferroviaria;Ituano;0;0;1;0;1.99;3.03;4.21;2.52;https://www.flashscore.com/match/jwFy3zBq/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Sao Caetano;Ferroviaria;0;3;0;3;3.92;3.3;1.94;2.4;https://www.flashscore.com/match/OjBSCgfE/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Santos;Sao Bento;2;0;2;0;1.41;4.2;7.99;1.96;https://www.flashscore.com/match/Am7ODZv8/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Ponte Preta;Palmeiras;0;2;0;3;4.99;3.76;1.62;1.92;https://www.flashscore.com/match/CCVVCBv8/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Mirassol;Sao Paulo;1;1;1;1;3.89;3.42;1.89;2.02;https://www.flashscore.com/match/YLWRDiP1/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Ituano;Santo Andre;0;0;0;1;2.74;2.92;2.71;2.48;https://www.flashscore.com/match/4nSNEX9e/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Inter de Limeira;Guarani;0;0;1;0;2.78;3.07;2.56;2.41;https://www.flashscore.com/match/QeTJFDfk/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Corinthians;Novorizontino;1;0;2;1;3.96;3.24;1.94;2.22;https://www.flashscore.com/match/rXwFGguq/#/match-summary
+BRAZIL;PAULISTA;ROUND 12;2021;09.05.2021;Botafogo SP;Bragantino;0;1;1;1;3.78;3.27;1.97;2.2;https://www.flashscore.com/match/8vmmLZWR/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;11.05.2021;Corinthians;Inter de Limeira;1;0;4;1;1.42;4.16;7.78;2.16;https://www.flashscore.com/match/I9CTLzJf/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;12.05.2021;Mirassol;Guarani;0;0;0;0;1.97;3.31;3.81;2.16;https://www.flashscore.com/match/vP0xKEm7/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2021;13.05.2021;Ituano;Santo Andre;4;0;5;1;2.27;3.02;3.25;2.47;https://www.flashscore.com/match/8fXtzjaP/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2021;13.05.2021;Ponte Preta;Botafogo SP;0;0;0;0;1.66;3.51;5.23;2.09;https://www.flashscore.com/match/A3J8V97t/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;14.05.2021;Bragantino;Palmeiras;0;0;0;1;2.82;3.16;2.44;2.34;https://www.flashscore.com/match/lz8PMG3l/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;14.05.2021;Sao Paulo;Ferroviaria;2;1;4;2;1.27;5.26;10.12;1.67;https://www.flashscore.com/match/d0BXKfY0/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;16.05.2021;Corinthians;Palmeiras;0;1;0;2;4.01;3.3;1.9;2.3;https://www.flashscore.com/match/QPzEs1mQ/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2021;16.05.2021;Bragantino;Ponte Preta;1;0;1;1;2.08;3.21;3.55;2.28;https://www.flashscore.com/match/6XiBsWkQ/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;16.05.2021;Sao Paulo;Mirassol;1;0;4;0;1.31;5.0;9.29;1.7;https://www.flashscore.com/match/nZyArsYJ/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2021;17.05.2021;Novorizontino;Ituano;2;0;4;0;1.98;3.22;3.87;2.34;https://www.flashscore.com/match/8tvwwjbs/#/match-summary
+BRAZIL;PAULISTA;TROFÉU INTERIOR;2021;20.05.2021;Novorizontino;Ponte Preta;1;0;2;0;2.24;3.04;3.25;2.36;https://www.flashscore.com/match/rcqMrJUI/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;20.05.2021;Palmeiras;Sao Paulo;0;0;0;0;2.26;2.97;3.4;2.67;https://www.flashscore.com/match/4zbEdvCT/#/match-summary
+BRAZIL;PAULISTA;PLAY OFFS;2021;23.05.2021;Sao Paulo;Palmeiras;1;0;2;0;2.8;2.92;2.66;2.77;https://www.flashscore.com/match/MFpthbKp/#/match-summary
