@@ -1,0 +1,6 @@
+Carlos Daniel: brasileirao_a_2003_2012.csv, 47 e 801
+Yvens Alves: libertadores_2013_2022, 114 e 563
+Davi Pereira: paulista_2013_2023.csv, 33 e 429
+Gabriel Dimitri: copa_do_brasil_2020_2023, 179 e 323
+Helano Pessoa: englishfootball_1888_2023.csv, 48 e 825
+José Robério: wourldcup_1930_2014.csv, 83 e 578

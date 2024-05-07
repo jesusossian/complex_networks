@@ -1,0 +1,685 @@
+home,away,home_goals,away_goals,home_win,away_win,draw,weights1,weights2
+Santos,Linense,10,4,2.0,0.0,0.0,4,0.0
+Santo Andre,Ituano,3,5,0.0,1.0,3.0,5,6.0
+Sao Bento,Corinthians,2,3,0.0,1.0,2.0,3,5.0
+Novorizontino,Sao Bernardo,3,2,1.0,0.0,0.0,2,0.0
+Mirassol,RB Brasil,9,3,4.0,1.0,0.0,3,3.0
+Palmeiras,Botafogo SP,5,0,4.0,0.0,0.0,0,0.0
+Audax-SP,Sao Paulo,8,3,2.0,0.0,0.0,3,0.0
+Ponte Preta,Ferroviaria,5,3,2.0,0.0,2.0,3,2.0
+RB Brasil,Santo Andre,1,1,0.0,0.0,1.0,1,1.0
+Linense,Audax-SP,2,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Mirassol,6,6,1.0,1.0,2.0,6,5.0
+Botafogo SP,Novorizontino,7,3,3.0,0.0,0.0,3,0.0
+Corinthians,Santo Andre,4,4,1.0,1.0,1.0,4,4.0
+RB Brasil,Santos,4,3,1.0,1.0,1.0,3,4.0
+Sao Paulo,Ponte Preta,7,3,2.0,0.0,1.0,3,1.0
+Sao Bernardo,Sao Bento,4,1,2.0,0.0,1.0,1,1.0
+Ituano,Palmeiras,6,13,2.0,3.0,1.0,13,10.0
+Mirassol,Linense,7,2,2.0,0.0,1.0,2,1.0
+Ferroviaria,Audax-SP,1,1,0.0,0.0,1.0,1,1.0
+Ituano,Sao Bento,4,0,3.0,0.0,0.0,0,0.0
+Corinthians,Novorizontino,6,1,3.0,0.0,0.0,1,0.0
+Botafogo SP,Ponte Preta,4,6,1.0,3.0,2.0,6,11.0
+Santos,Sao Paulo,9,9,3.0,2.0,2.0,9,8.0
+Palmeiras,Sao Bernardo,10,0,5.0,0.0,0.0,0,0.0
+Novorizontino,Ituano,8,2,3.0,0.0,1.0,2,1.0
+Audax-SP,Corinthians,0,2,0.0,2.0,0.0,2,6.0
+Sao Paulo,Mirassol,14,6,3.0,1.0,1.0,6,4.0
+Sao Bento,Botafogo SP,0,0,0.0,0.0,2.0,0,2.0
+Santos,Ferroviaria,7,4,2.0,1.0,2.0,4,5.0
+Ponte Preta,RB Brasil,2,1,1.0,0.0,1.0,1,1.0
+Santo Andre,Sao Bernardo,1,1,1.0,1.0,0.0,1,3.0
+Linense,Palmeiras,0,4,0.0,1.0,0.0,4,3.0
+Sao Paulo,Sao Bento,5,2,3.0,0.0,0.0,2,0.0
+Ituano,Santos,11,3,4.0,2.0,1.0,3,7.0
+Sao Bernardo,Mirassol,1,2,0.0,1.0,2.0,2,5.0
+RB Brasil,Novorizontino,8,1,3.0,0.0,0.0,1,0.0
+Linense,Ponte Preta,6,6,0.0,0.0,4.0,6,4.0
+Ferroviaria,Santo Andre,6,6,1.0,1.0,2.0,6,5.0
+Botafogo SP,Audax-SP,5,3,1.0,0.0,2.0,3,2.0
+Corinthians,Palmeiras,13,12,3.0,2.0,6.0,12,12.0
+Santo Andre,Linense,0,2,0.0,1.0,0.0,2,3.0
+Palmeiras,Ferroviaria,10,5,3.0,1.0,1.0,5,4.0
+Sao Bento,RB Brasil,1,0,1.0,0.0,0.0,0,0.0
+Santos,Botafogo SP,12,2,4.0,1.0,2.0,2,5.0
+Audax-SP,Ituano,5,0,2.0,0.0,0.0,0,0.0
+Ponte Preta,Sao Bernardo,4,1,2.0,0.0,1.0,1,1.0
+Novorizontino,Sao Paulo,4,6,1.0,1.0,1.0,6,4.0
+Mirassol,Corinthians,3,6,0.0,3.0,1.0,6,10.0
+Botafogo SP,Mirassol,4,8,1.0,1.0,1.0,8,4.0
+RB Brasil,Palmeiras,4,4,1.0,1.0,1.0,4,4.0
+Linense,Novorizontino,7,7,1.0,1.0,1.0,7,4.0
+Sao Bernardo,Audax-SP,6,5,1.0,1.0,1.0,5,4.0
+Corinthians,Santos,9,5,4.0,1.0,2.0,5,5.0
+Sao Paulo,Santo Andre,7,1,3.0,0.0,0.0,1,0.0
+Ituano,Ponte Preta,7,6,2.0,1.0,2.0,6,5.0
+Ferroviaria,Sao Bento,2,3,0.0,1.0,1.0,3,4.0
+Sao Bento,Linense,2,3,0.0,1.0,2.0,3,5.0
+Novorizontino,Ferroviaria,6,2,2.0,0.0,1.0,2,1.0
+Santo Andre,Botafogo SP,2,3,0.0,1.0,2.0,3,5.0
+Palmeiras,Sao Paulo,14,1,5.0,1.0,4.0,1,7.0
+Audax-SP,RB Brasil,4,4,1.0,1.0,0.0,4,3.0
+Ponte Preta,Corinthians,5,10,2.0,2.0,1.0,10,7.0
+Sao Bernardo,Santos,3,9,0.0,3.0,1.0,9,10.0
+Mirassol,Ituano,3,4,1.0,2.0,2.0,4,8.0
+RB Brasil,Sao Bernardo,2,1,1.0,0.0,0.0,1,0.0
+Linense,Botafogo SP,1,0,1.0,0.0,1.0,0,1.0
+Sao Paulo,Ituano,6,5,2.0,1.0,3.0,5,6.0
+Mirassol,Santo Andre,5,5,1.0,1.0,1.0,5,4.0
+Ponte Preta,Novorizontino,6,3,2.0,1.0,1.0,3,4.0
+Audax-SP,Sao Bento,2,2,1.0,1.0,0.0,2,3.0
+Ferroviaria,Corinthians,6,4,2.0,0.0,2.0,4,2.0
+Santos,Palmeiras,10,9,3.0,2.0,3.0,9,9.0
+Santo Andre,Ponte Preta,3,3,0.0,0.0,1.0,3,1.0
+Novorizontino,Audax-SP,5,4,1.0,0.0,1.0,4,1.0
+Ituano,Linense,7,2,2.0,0.0,2.0,2,2.0
+Sao Bernardo,Ferroviaria,0,0,0.0,0.0,1.0,0,1.0
+Sao Bento,Santos,0,6,0.0,2.0,0.0,6,6.0
+Palmeiras,Mirassol,6,3,2.0,1.0,0.0,3,3.0
+Botafogo SP,Sao Paulo,6,9,2.0,3.0,1.0,9,10.0
+Corinthians,RB Brasil,5,3,1.0,1.0,2.0,3,5.0
+Santo Andre,Santos,3,4,0.0,1.0,2.0,4,5.0
+Palmeiras,Audax-SP,3,3,0.0,0.0,2.0,3,2.0
+Linense,Sao Bernardo,3,7,1.0,2.0,0.0,7,6.0
+Novorizontino,Mirassol,4,2,1.0,0.0,3.0,2,3.0
+Ferroviaria,Ituano,7,3,3.0,0.0,1.0,3,1.0
+Sao Paulo,Corinthians,7,9,3.0,4.0,4.0,9,16.0
+Sao Bento,Ponte Preta,5,6,1.0,3.0,0.0,6,9.0
+RB Brasil,Botafogo SP,4,3,2.0,1.0,0.0,3,3.0
+Sao Bernardo,Sao Paulo,2,4,0.0,2.0,1.0,4,7.0
+Santos,Novorizontino,5,4,1.0,1.0,1.0,4,4.0
+Ponte Preta,Palmeiras,5,6,2.0,3.0,1.0,6,10.0
+Mirassol,Sao Bento,2,2,1.0,1.0,1.0,2,4.0
+Ituano,RB Brasil,1,0,1.0,0.0,1.0,0,1.0
+Corinthians,Linense,7,1,2.0,0.0,0.0,1,0.0
+Botafogo SP,Ferroviaria,2,3,0.0,1.0,2.0,3,5.0
+Audax-SP,Santo Andre,1,2,0.0,1.0,0.0,2,3.0
+Ponte Preta,Santos,11,6,4.0,2.0,0.0,6,6.0
+Botafogo SP,Corinthians,1,7,0.0,3.0,3.0,7,12.0
+Santo Andre,RB Brasil,3,1,1.0,0.0,1.0,1,1.0
+Linense,Sao Paulo,2,5,0.0,2.0,1.0,5,7.0
+Novorizontino,Palmeiras,2,9,0.0,3.0,1.0,9,10.0
+Palmeiras,Novorizontino,13,0,3.0,0.0,0.0,0,0.0
+Sao Paulo,Linense,11,0,3.0,0.0,0.0,0,0.0
+Sao Bento,Mirassol,3,4,0.0,1.0,2.0,4,5.0
+RB Brasil,Ferroviaria,4,4,1.0,1.0,1.0,4,4.0
+Ituano,Santo Andre,9,3,3.0,1.0,2.0,3,5.0
+Corinthians,Botafogo SP,9,2,4.0,0.0,0.0,2,0.0
+Santos,Ponte Preta,6,3,2.0,1.0,0.0,3,3.0
+Santo Andre,Sao Bento,1,1,0.0,0.0,2.0,1,2.0
+Ituano,Ferroviaria,8,8,2.0,1.0,2.0,8,5.0
+Palmeiras,Ponte Preta,9,3,5.0,1.0,0.0,3,3.0
+Corinthians,Sao Paulo,14,9,5.0,1.0,2.0,9,5.0
+Corinthians,Ponte Preta,12,5,5.0,2.0,1.0,5,7.0
+Rio Claro,Botafogo SP,3,2,1.0,1.0,1.0,2,4.0
+Bragantino,Sao Bernardo,6,3,3.0,0.0,0.0,3,0.0
+Audax-SP,Palmeiras,3,4,1.0,1.0,0.0,4,3.0
+Capivariano,RB Brasil,0,3,0.0,2.0,0.0,3,6.0
+Piracicaba,Mogi Mirim,0,1,0.0,1.0,0.0,1,3.0
+Penapolense,Sao Paulo,1,5,0.0,2.0,0.0,5,6.0
+Corinthians,Marilia,3,0,1.0,0.0,0.0,0,0.0
+Santos,Ituano,11,4,5.0,0.0,1.0,4,1.0
+Ponte Preta,Portuguesa,2,3,0.0,1.0,0.0,3,3.0
+Sao Bernardo,Piracicaba,3,6,1.0,2.0,0.0,6,6.0
+Portuguesa,Sao Bento,2,2,0.0,0.0,2.0,2,2.0
+Ituano,Bragantino,5,0,3.0,0.0,0.0,0,0.0
+Sao Paulo,Capivariano,4,2,1.0,0.0,0.0,2,0.0
+RB Brasil,Penapolense,1,1,0.0,0.0,1.0,1,1.0
+Marilia,Rio Claro,1,2,0.0,1.0,0.0,2,3.0
+Mogi Mirim,Santos,3,6,0.0,1.0,2.0,6,5.0
+Sao Bernardo,Capivariano,1,1,0.0,0.0,1.0,1,1.0
+Sao Bento,Marilia,3,0,1.0,0.0,0.0,0,0.0
+Penapolense,Ituano,3,0,1.0,0.0,1.0,0,1.0
+Sao Paulo,Piracicaba,2,1,1.0,1.0,0.0,1,3.0
+Mogi Mirim,Bragantino,6,2,2.0,0.0,0.0,2,0.0
+Rio Claro,Linense,3,1,1.0,1.0,0.0,1,3.0
+Palmeiras,Corinthians,4,5,2.0,3.0,1.0,5,10.0
+Santos,RB Brasil,4,1,2.0,0.0,0.0,1,0.0
+Audax-SP,Portuguesa,5,3,1.0,0.0,1.0,3,1.0
+Penapolense,Sao Bernardo,4,1,2.0,1.0,0.0,1,3.0
+Capivariano,Mogi Mirim,3,4,0.0,1.0,1.0,4,4.0
+Bragantino,RB Brasil,2,3,0.0,1.0,0.0,3,3.0
+Botafogo SP,Sao Bento,5,2,2.0,0.0,2.0,2,2.0
+Audax-SP,Linense,1,2,0.0,1.0,2.0,2,5.0
+Palmeiras,Rio Claro,6,0,2.0,0.0,0.0,0,0.0
+Piracicaba,Ituano,2,6,0.0,2.0,0.0,6,6.0
+Ponte Preta,Marilia,2,0,1.0,0.0,0.0,0,0.0
+Bragantino,Sao Paulo,8,11,3.0,2.0,0.0,11,6.0
+Sao Bento,Palmeiras,1,2,0.0,1.0,1.0,2,4.0
+Ituano,Capivariano,2,1,1.0,0.0,1.0,1,1.0
+Mogi Mirim,Penapolense,5,1,2.0,0.0,0.0,1,0.0
+RB Brasil,Piracicaba,2,3,0.0,1.0,0.0,3,3.0
+Portuguesa,Rio Claro,4,3,1.0,0.0,1.0,3,1.0
+Marilia,Audax-SP,1,1,0.0,0.0,1.0,1,1.0
+Sao Paulo,Audax-SP,8,0,2.0,0.0,0.0,0,0.0
+Capivariano,Marilia,3,0,1.0,0.0,0.0,0,0.0
+RB Brasil,Sao Bento,9,6,2.0,0.0,3.0,6,3.0
+Linense,Piracicaba,2,1,1.0,0.0,0.0,1,0.0
+Botafogo SP,Bragantino,5,2,3.0,0.0,1.0,2,1.0
+Portuguesa,Santos,1,3,0.0,1.0,0.0,3,3.0
+Ituano,Corinthians,3,5,0.0,2.0,1.0,5,7.0
+Rio Claro,Mogi Mirim,0,2,0.0,1.0,0.0,2,3.0
+Penapolense,Palmeiras,0,2,0.0,1.0,0.0,2,3.0
+Linense,Corinthians,2,7,1.0,2.0,0.0,7,6.0
+Sao Bento,Ituano,3,5,0.0,2.0,2.0,5,8.0
+Audax-SP,Sao Bernardo,3,0,1.0,0.0,0.0,0,0.0
+Palmeiras,Capivariano,6,1,2.0,0.0,0.0,1,0.0
+Bragantino,Portuguesa,1,2,0.0,1.0,0.0,2,3.0
+Marilia,Penapolense,1,2,0.0,1.0,0.0,2,3.0
+Rio Claro,Sao Paulo,0,0,0.0,0.0,1.0,0,1.0
+Corinthians,Mogi Mirim,5,1,2.0,0.0,0.0,1,0.0
+Piracicaba,Botafogo SP,7,3,2.0,0.0,1.0,3,1.0
+RB Brasil,Audax-SP,1,6,0.0,1.0,0.0,6,3.0
+Marilia,Piracicaba,1,1,0.0,0.0,1.0,1,1.0
+Ituano,Rio Claro,4,2,2.0,0.0,0.0,2,0.0
+Palmeiras,Bragantino,9,1,5.0,0.0,1.0,1,1.0
+Mogi Mirim,Ponte Preta,2,2,0.0,0.0,1.0,2,1.0
+Portuguesa,Penapolense,1,1,0.0,0.0,1.0,1,1.0
+Linense,Capivariano,6,2,1.0,1.0,0.0,2,3.0
+Botafogo SP,Santos,4,3,1.0,1.0,1.0,3,4.0
+Rio Claro,RB Brasil,0,1,0.0,1.0,0.0,1,3.0
+Piracicaba,Portuguesa,3,1,2.0,0.0,0.0,1,0.0
+Penapolense,Linense,3,1,1.0,0.0,0.0,1,0.0
+Bragantino,Marilia,1,0,1.0,0.0,0.0,0,0.0
+Capivariano,Botafogo SP,1,2,0.0,1.0,0.0,2,3.0
+Audax-SP,Mogi Mirim,2,0,1.0,0.0,0.0,0,0.0
+Corinthians,Sao Bernardo,6,1,3.0,1.0,0.0,1,3.0
+Ponte Preta,Ituano,5,6,1.0,1.0,2.0,6,5.0
+Marilia,Santos,1,4,0.0,1.0,0.0,4,3.0
+Linense,Bragantino,2,0,2.0,0.0,0.0,0,0.0
+Portuguesa,Capivariano,1,2,0.0,1.0,0.0,2,3.0
+Palmeiras,Piracicaba,1,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Sao Paulo,6,5,3.0,2.0,0.0,5,6.0
+Sao Bernardo,Rio Claro,5,6,0.0,1.0,1.0,6,4.0
+Ituano,Audax-SP,1,2,0.0,1.0,0.0,2,3.0
+Sao Bento,Mogi Mirim,1,1,0.0,0.0,1.0,1,1.0
+Botafogo SP,Penapolense,6,5,3.0,1.0,0.0,5,3.0
+Penapolense,Rio Claro,1,0,1.0,0.0,0.0,0,0.0
+Santos,Audax-SP,4,1,3.0,0.0,0.0,1,0.0
+Mogi Mirim,Portuguesa,1,1,0.0,0.0,1.0,1,1.0
+Piracicaba,Sao Bento,1,2,0.0,1.0,0.0,2,3.0
+Bragantino,Ponte Preta,7,4,3.0,2.0,2.0,4,8.0
+Sao Paulo,Marilia,3,0,1.0,0.0,0.0,0,0.0
+Capivariano,Corinthians,2,3,0.0,1.0,0.0,3,3.0
+Sao Bernardo,Palmeiras,1,2,0.0,1.0,1.0,2,4.0
+Rio Claro,Piracicaba,4,1,1.0,0.0,1.0,1,1.0
+Corinthians,Portuguesa,2,0,1.0,0.0,0.0,0,0.0
+Botafogo SP,Ituano,7,6,2.0,2.0,2.0,6,8.0
+Marilia,RB Brasil,0,2,0.0,1.0,0.0,2,3.0
+Linense,Mogi Mirim,2,2,1.0,1.0,0.0,2,3.0
+Audax-SP,Capivariano,3,0,1.0,0.0,0.0,0,0.0
+Sao Bento,Bragantino,2,5,1.0,2.0,1.0,5,7.0
+Corinthians,Penapolense,6,4,1.0,0.0,1.0,4,1.0
+Sao Bernardo,Botafogo SP,4,1,3.0,0.0,0.0,1,0.0
+Ituano,Portuguesa,1,1,0.0,0.0,3.0,1,3.0
+Mogi Mirim,Marilia,2,0,1.0,0.0,0.0,0,0.0
+Capivariano,Rio Claro,1,1,0.0,0.0,1.0,1,1.0
+Bragantino,Corinthians,6,7,2.0,2.0,2.0,7,8.0
+Santos,Sao Bento,8,5,3.0,1.0,1.0,5,4.0
+Piracicaba,Ponte Preta,7,3,2.0,0.0,1.0,3,1.0
+Penapolense,Audax-SP,3,0,1.0,0.0,0.0,0,0.0
+Portuguesa,Sao Bernardo,0,0,0.0,0.0,1.0,0,1.0
+Sao Bento,Capivariano,2,1,1.0,0.0,0.0,1,0.0
+Audax-SP,Piracicaba,0,1,0.0,1.0,0.0,1,3.0
+Portuguesa,RB Brasil,0,2,0.0,1.0,0.0,2,3.0
+Palmeiras,Mogi Mirim,3,1,1.0,0.0,0.0,1,0.0
+Marilia,Ituano,1,2,0.0,1.0,0.0,2,3.0
+Rio Claro,Bragantino,2,1,1.0,0.0,0.0,1,0.0
+Ponte Preta,Penapolense,8,3,3.0,0.0,0.0,3,0.0
+Mogi Mirim,Botafogo SP,7,3,1.0,1.0,0.0,3,3.0
+Sao Paulo,Portuguesa,7,1,2.0,0.0,1.0,1,1.0
+Sao Bernardo,Marilia,4,0,1.0,0.0,0.0,0,0.0
+Santos,Rio Claro,2,0,1.0,0.0,0.0,0,0.0
+RB Brasil,Linense,2,2,1.0,1.0,0.0,2,3.0
+Piracicaba,Corinthians,3,3,0.0,0.0,2.0,3,2.0
+Penapolense,Sao Bento,0,1,0.0,1.0,0.0,1,3.0
+Capivariano,Ponte Preta,3,0,1.0,0.0,1.0,0,1.0
+Bragantino,Audax-SP,1,2,0.0,1.0,0.0,2,3.0
+Sao Paulo,RB Brasil,6,1,2.0,0.0,1.0,1,1.0
+Santos,Piracicaba,6,1,3.0,0.0,0.0,1,0.0
+Palmeiras,Santos,11,6,5.0,1.0,3.0,6,6.0
+Paulista,Audax-SP,0,0,0.0,0.0,1.0,0,1.0
+Palmeiras,Linense,7,6,2.0,1.0,1.0,6,4.0
+Rio Claro,Atl. Sorocaba,1,0,1.0,0.0,0.0,0,0.0
+Mogi Mirim,Comercial,2,1,1.0,0.0,0.0,1,0.0
+Portuguesa,Corinthians,1,2,0.0,1.0,1.0,2,4.0
+Oeste,Penapolense,3,0,2.0,0.0,0.0,0,0.0
+Linense,Rio Claro,0,0,0.0,0.0,1.0,0,1.0
+Audax-SP,Santos,2,2,0.0,0.0,2.0,2,2.0
+Atl. Sorocaba,Oeste,2,1,1.0,0.0,1.0,1,1.0
+Piracicaba,Sao Bernardo,1,2,0.0,1.0,0.0,2,3.0
+Penapolense,Bragantino,0,2,0.0,1.0,0.0,2,3.0
+Sao Paulo,Mogi Mirim,6,0,2.0,0.0,0.0,0,0.0
+Corinthians,Paulista,1,0,1.0,0.0,0.0,0,0.0
+Comercial,Palmeiras,0,2,0.0,1.0,0.0,2,3.0
+Rio Claro,Penapolense,0,1,0.0,1.0,0.0,1,3.0
+Ponte Preta,Audax-SP,1,0,1.0,0.0,0.0,0,0.0
+Botafogo SP,Paulista,4,2,1.0,0.0,0.0,2,0.0
+Sao Paulo,Oeste,7,4,3.0,0.0,0.0,4,0.0
+Atl. Sorocaba,Palmeiras,1,4,0.0,1.0,0.0,4,3.0
+Bragantino,Comercial,1,3,0.0,1.0,0.0,3,3.0
+Paulista,Ituano,4,6,0.0,2.0,0.0,6,6.0
+Mogi Mirim,Atl. Sorocaba,3,3,0.0,0.0,1.0,3,1.0
+Portuguesa,Botafogo SP,1,4,0.0,2.0,0.0,4,6.0
+Oeste,Comercial,1,1,0.0,0.0,1.0,1,1.0
+Sao Paulo,Rio Claro,7,3,2.0,0.0,0.0,3,0.0
+Santos,Corinthians,12,7,3.0,1.0,4.0,7,7.0
+Palmeiras,Penapolense,3,3,1.0,1.0,0.0,3,3.0
+Oeste,Linense,0,1,0.0,1.0,0.0,1,3.0
+Ituano,Sao Bernardo,0,2,0.0,1.0,1.0,2,4.0
+Comercial,Rio Claro,1,2,0.0,1.0,0.0,2,3.0
+Bragantino,Atl. Sorocaba,3,2,1.0,1.0,0.0,2,3.0
+Penapolense,Mogi Mirim,2,1,1.0,0.0,0.0,1,0.0
+Paulista,Piracicaba,0,0,0.0,0.0,1.0,0,1.0
+Rio Claro,Ituano,1,1,0.0,0.0,1.0,1,1.0
+Botafogo SP,Oeste,6,2,2.0,0.0,1.0,2,1.0
+Comercial,Ponte Preta,0,1,0.0,1.0,0.0,1,3.0
+Atl. Sorocaba,Portuguesa,1,3,0.0,1.0,0.0,3,3.0
+Piracicaba,Palmeiras,5,9,0.0,2.0,1.0,9,7.0
+Corinthians,Bragantino,3,2,2.0,1.0,0.0,2,3.0
+Sao Paulo,Paulista,2,0,1.0,0.0,0.0,0,0.0
+Mogi Mirim,Audax-SP,4,3,1.0,1.0,0.0,3,3.0
+Linense,Santos,3,7,0.0,2.0,1.0,7,7.0
+Oeste,Ituano,2,2,1.0,1.0,0.0,2,3.0
+Bragantino,Botafogo SP,10,2,4.0,0.0,2.0,2,2.0
+Portuguesa,Linense,4,0,1.0,0.0,0.0,0,0.0
+Mogi Mirim,Corinthians,1,1,0.0,0.0,1.0,1,1.0
+Sao Bernardo,Atl. Sorocaba,5,3,1.0,0.0,1.0,3,1.0
+Santos,Comercial,2,0,1.0,0.0,0.0,0,0.0
+Paulista,Penapolense,1,2,0.0,1.0,0.0,2,3.0
+Botafogo SP,Mogi Mirim,7,1,3.0,0.0,0.0,1,0.0
+Piracicaba,Oeste,3,2,1.0,0.0,0.0,2,0.0
+Audax-SP,Rio Claro,0,0,0.0,0.0,1.0,0,1.0
+Comercial,Sao Bernardo,0,0,0.0,0.0,1.0,0,1.0
+Atl. Sorocaba,Ponte Preta,1,0,1.0,0.0,0.0,0,0.0
+Penapolense,Santos,4,1,1.0,0.0,0.0,1,0.0
+Linense,Paulista,4,0,2.0,0.0,0.0,0,0.0
+Mogi Mirim,Piracicaba,5,3,1.0,0.0,2.0,3,2.0
+Audax-SP,Bragantino,1,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Linense,2,1,2.0,1.0,0.0,1,3.0
+Penapolense,Portuguesa,2,1,1.0,0.0,0.0,1,0.0
+Palmeiras,Ituano,7,3,4.0,1.0,0.0,3,3.0
+Oeste,Corinthians,1,4,0.0,2.0,0.0,4,6.0
+Santos,Atl. Sorocaba,2,1,1.0,0.0,0.0,1,0.0
+Comercial,Paulista,3,0,1.0,0.0,0.0,0,0.0
+Penapolense,Ponte Preta,1,2,0.0,1.0,1.0,2,4.0
+Audax-SP,Oeste,1,0,1.0,0.0,0.0,0,0.0
+Mogi Mirim,Ituano,0,2,0.0,2.0,0.0,2,6.0
+Bragantino,Piracicaba,1,0,1.0,0.0,0.0,0,0.0
+Corinthians,Rio Claro,3,2,1.0,0.0,0.0,2,0.0
+Sao Paulo,Santos,9,3,3.0,1.0,1.0,3,4.0
+Portuguesa,Comercial,2,1,1.0,0.0,0.0,1,0.0
+Paulista,Atl. Sorocaba,5,4,1.0,1.0,0.0,4,3.0
+Botafogo SP,Palmeiras,3,5,1.0,3.0,1.0,5,10.0
+Portuguesa,Mogi Mirim,2,0,1.0,0.0,0.0,0,0.0
+Piracicaba,Sao Paulo,1,3,0.0,1.0,0.0,3,3.0
+Corinthians,Comercial,3,0,1.0,0.0,0.0,0,0.0
+Santos,Bragantino,5,1,1.0,1.0,1.0,1,4.0
+Atl. Sorocaba,Audax-SP,2,2,0.0,0.0,1.0,2,1.0
+Rio Claro,Paulista,2,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Oeste,5,1,3.0,0.0,1.0,1,1.0
+Oeste,Paulista,2,1,1.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Botafogo SP,2,3,0.0,1.0,1.0,3,4.0
+Comercial,Ituano,2,0,1.0,0.0,0.0,0,0.0
+Penapolense,Piracicaba,2,2,1.0,1.0,0.0,2,3.0
+Palmeiras,Portuguesa,1,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Rio Claro,2,1,1.0,0.0,0.0,1,0.0
+Ituano,Atl. Sorocaba,1,1,0.0,0.0,2.0,1,2.0
+Botafogo SP,Comercial,1,0,1.0,0.0,0.0,0,0.0
+Sao Bernardo,Mogi Mirim,3,4,0.0,1.0,2.0,4,5.0
+Santos,Oeste,7,3,2.0,0.0,0.0,3,0.0
+Paulista,Palmeiras,1,3,0.0,1.0,0.0,3,3.0
+Piracicaba,Linense,4,2,1.0,0.0,2.0,2,2.0
+Audax-SP,Penapolense,2,0,1.0,0.0,0.0,0,0.0
+Portuguesa,Bragantino,6,1,2.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Piracicaba,1,2,0.0,1.0,1.0,2,4.0
+Penapolense,Corinthians,0,0,0.0,0.0,1.0,0,1.0
+Rio Claro,Santos,3,3,0.0,0.0,2.0,3,2.0
+Oeste,Portuguesa,1,0,1.0,0.0,0.0,0,0.0
+Mogi Mirim,Paulista,6,4,1.0,0.0,1.0,4,1.0
+Comercial,Audax-SP,0,3,0.0,1.0,0.0,3,3.0
+Sao Bernardo,Oeste,6,2,2.0,0.0,0.0,2,0.0
+Ponte Preta,Mogi Mirim,0,5,0.0,2.0,1.0,5,7.0
+Piracicaba,Comercial,1,1,0.0,0.0,1.0,1,1.0
+Paulista,Bragantino,1,1,0.0,0.0,1.0,1,1.0
+Ituano,Penapolense,1,0,1.0,0.0,0.0,0,0.0
+Corinthians,Atl. Sorocaba,5,0,2.0,0.0,0.0,0,0.0
+Sao Paulo,Penapolense,1,0,1.0,0.0,1.0,0,1.0
+Santos,Penapolense,5,3,2.0,0.0,0.0,3,0.0
+Agua Santa,Ferroviaria,3,3,2.0,1.0,0.0,3,3.0
+Santos,Sao Bernardo,2,2,0.0,0.0,2.0,2,2.0
+RB Brasil,Sao Paulo,1,1,0.0,0.0,1.0,1,1.0
+Oeste,Ponte Preta,5,3,1.0,0.0,1.0,3,1.0
+Rio Claro,Capivariano,2,2,0.0,0.0,1.0,2,1.0
+Corinthians,Piracicaba,1,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Mogi Mirim,2,1,1.0,0.0,0.0,1,0.0
+Novorizontino,Botafogo SP,4,5,1.0,1.0,2.0,5,5.0
+Palmeiras,Sao Bento,2,2,0.0,0.0,2.0,2,2.0
+Sao Paulo,Agua Santa,6,0,2.0,0.0,1.0,0,1.0
+Sao Bento,Novorizontino,2,1,1.0,0.0,1.0,1,1.0
+Oeste,Palmeiras,1,4,0.0,2.0,1.0,4,7.0
+Ferroviaria,Rio Claro,3,1,1.0,0.0,0.0,1,0.0
+Botafogo SP,Sao Bernardo,4,1,2.0,0.0,1.0,1,1.0
+Piracicaba,Agua Santa,0,0,0.0,0.0,1.0,0,1.0
+Corinthians,Capivariano,2,1,1.0,0.0,0.0,1,0.0
+Ituano,Oeste,2,2,1.0,1.0,0.0,2,3.0
+Rio Claro,Audax-SP,0,2,0.0,1.0,0.0,2,3.0
+Novorizontino,Santos,9,6,3.0,0.0,1.0,6,1.0
+Sao Bento,Sao Bernardo,3,0,1.0,0.0,0.0,0,0.0
+Agua Santa,Capivariano,4,1,1.0,0.0,0.0,1,0.0
+Ponte Preta,Botafogo SP,4,3,2.0,1.0,2.0,3,5.0
+Piracicaba,Rio Claro,1,2,0.0,1.0,0.0,2,3.0
+Mogi Mirim,Linense,5,4,1.0,1.0,0.0,4,3.0
+Sao Bernardo,Linense,3,1,1.0,0.0,1.0,1,1.0
+Piracicaba,RB Brasil,2,1,1.0,0.0,0.0,1,0.0
+Ponte Preta,Sao Bento,0,0,0.0,0.0,1.0,0,1.0
+Audax-SP,Agua Santa,1,2,0.0,1.0,0.0,2,3.0
+Novorizontino,Oeste,3,1,1.0,0.0,1.0,1,1.0
+Linense,Agua Santa,4,0,1.0,0.0,0.0,0,0.0
+Capivariano,Sao Bernardo,2,0,1.0,0.0,0.0,0,0.0
+Sao Paulo,Novorizontino,3,1,1.0,0.0,2.0,1,2.0
+Botafogo SP,RB Brasil,0,2,0.0,1.0,0.0,2,3.0
+Oeste,Rio Claro,1,2,0.0,1.0,0.0,2,3.0
+Audax-SP,Ponte Preta,1,3,0.0,1.0,0.0,3,3.0
+Santos,Mogi Mirim,6,3,1.0,0.0,1.0,3,1.0
+Agua Santa,Sao Bento,3,3,0.0,0.0,2.0,3,2.0
+Corinthians,Oeste,7,0,3.0,0.0,0.0,0,0.0
+Sao Paulo,Sao Bernardo,5,5,1.0,2.0,0.0,5,6.0
+Oeste,Agua Santa,1,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Piracicaba,0,1,0.0,1.0,0.0,1,3.0
+Ferroviaria,Novorizontino,1,2,0.0,1.0,1.0,2,4.0
+Linense,RB Brasil,0,3,0.0,1.0,0.0,3,3.0
+Sao Bento,Rio Claro,3,0,1.0,0.0,0.0,0,0.0
+Santos,Agua Santa,4,2,2.0,0.0,1.0,2,1.0
+Sao Paulo,Palmeiras,5,5,2.0,3.0,2.0,5,11.0
+Capivariano,Novorizontino,2,2,0.0,0.0,1.0,2,1.0
+Mogi Mirim,Oeste,1,0,1.0,0.0,1.0,0,1.0
+Piracicaba,Santos,0,1,0.0,1.0,0.0,1,3.0
+Agua Santa,Botafogo SP,2,1,1.0,0.0,1.0,1,1.0
+Novorizontino,Piracicaba,1,1,0.0,0.0,1.0,1,1.0
+RB Brasil,Oeste,2,3,0.0,1.0,0.0,3,3.0
+Mogi Mirim,Sao Bento,0,3,0.0,1.0,0.0,3,3.0
+Ituano,Sao Paulo,3,6,1.0,2.0,1.0,6,7.0
+Ferroviaria,Sao Bernardo,0,3,0.0,2.0,0.0,3,6.0
+Oeste,Capivariano,1,2,0.0,1.0,0.0,2,3.0
+Sao Bento,Ferroviaria,1,0,1.0,0.0,1.0,0,1.0
+Sao Bernardo,Corinthians,2,3,1.0,1.0,0.0,3,3.0
+Sao Paulo,Botafogo SP,6,2,3.0,0.0,1.0,2,1.0
+Palmeiras,RB Brasil,3,3,1.0,1.0,0.0,3,3.0
+Novorizontino,Agua Santa,4,0,1.0,0.0,0.0,0,0.0
+Rio Claro,Sao Bernardo,1,4,0.0,1.0,0.0,4,3.0
+Ferroviaria,Oeste,4,1,2.0,0.0,0.0,1,0.0
+Corinthians,Ituano,8,4,3.0,0.0,2.0,4,2.0
+Sao Bento,Piracicaba,1,0,1.0,0.0,0.0,0,0.0
+Agua Santa,Palmeiras,6,3,2.0,1.0,0.0,3,3.0
+RB Brasil,Ponte Preta,0,3,0.0,1.0,2.0,3,5.0
+Mogi Mirim,Novorizontino,0,3,0.0,1.0,0.0,3,3.0
+Agua Santa,Ituano,3,3,0.0,0.0,3.0,3,3.0
+Oeste,Audax-SP,1,3,0.0,1.0,0.0,3,3.0
+Capivariano,Sao Bento,1,1,0.0,0.0,1.0,1,1.0
+Ponte Preta,Agua Santa,7,3,1.0,1.0,0.0,3,3.0
+Sao Bernardo,RB Brasil,3,2,1.0,0.0,0.0,2,0.0
+Novorizontino,Rio Claro,2,0,1.0,0.0,0.0,0,0.0
+Ituano,Mogi Mirim,0,1,0.0,1.0,0.0,1,3.0
+Ferroviaria,Botafogo SP,8,5,2.0,3.0,0.0,5,9.0
+Capivariano,Santos,3,5,0.0,1.0,0.0,5,3.0
+Sao Bento,Sao Paulo,3,3,2.0,1.0,0.0,3,3.0
+Rio Claro,Ponte Preta,0,1,0.0,1.0,0.0,1,3.0
+RB Brasil,Ituano,3,4,1.0,1.0,0.0,4,3.0
+Oeste,Piracicaba,4,1,1.0,0.0,1.0,1,1.0
+Mogi Mirim,Palmeiras,3,4,0.0,1.0,1.0,4,4.0
+Linense,Ferroviaria,1,2,0.0,1.0,1.0,2,4.0
+Botafogo SP,Capivariano,2,0,1.0,0.0,0.0,0,0.0
+Agua Santa,Sao Bernardo,0,2,0.0,2.0,0.0,2,6.0
+Corinthians,Audax-SP,2,2,0.0,0.0,1.0,2,1.0
+Novorizontino,Ponte Preta,3,1,1.0,0.0,2.0,1,2.0
+Ferroviaria,Inter de Limeira,4,3,2.0,1.0,2.0,3,5.0
+Guarani,Ituano,1,4,0.0,1.0,2.0,4,5.0
+Mirassol,Novorizontino,1,1,0.0,0.0,2.0,1,2.0
+Inter de Limeira,Sao Paulo,0,4,0.0,1.0,0.0,4,3.0
+Sao Caetano,Bragantino,5,8,0.0,2.0,1.0,8,7.0
+Botafogo SP,Guarani,8,4,3.0,1.0,0.0,4,3.0
+Ponte Preta,Santo Andre,2,4,0.0,2.0,0.0,4,6.0
+Inter de Limeira,Novorizontino,1,1,1.0,1.0,0.0,1,3.0
+Ituano,Mirassol,3,3,1.0,1.0,1.0,3,4.0
+Guarani,Bragantino,2,5,0.0,2.0,1.0,5,7.0
+Santo Andre,Sao Caetano,0,0,0.0,0.0,1.0,0,1.0
+Palmeiras,Sao Caetano,3,1,1.0,1.0,0.0,1,3.0
+Guarani,Sao Bento,0,0,0.0,0.0,1.0,0,1.0
+Mirassol,Inter de Limeira,1,1,1.0,1.0,0.0,1,3.0
+Sao Caetano,Corinthians,0,5,0.0,2.0,0.0,5,6.0
+Bragantino,Santo Andre,3,2,2.0,1.0,0.0,2,3.0
+Sao Paulo,Sao Caetano,7,1,2.0,0.0,0.0,1,0.0
+Guarani,Corinthians,2,3,1.0,2.0,0.0,3,6.0
+Sao Paulo,Bragantino,6,3,3.0,1.0,0.0,3,3.0
+Sao Caetano,Novorizontino,0,2,0.0,1.0,0.0,2,3.0
+Sao Paulo,Guarani,3,3,1.0,1.0,0.0,3,3.0
+Ituano,Botafogo SP,4,6,0.0,2.0,1.0,6,7.0
+Inter de Limeira,Bragantino,0,2,0.0,1.0,0.0,2,3.0
+Corinthians,Sao Bento,1,2,0.0,1.0,1.0,2,4.0
+Bragantino,Mirassol,3,3,1.0,1.0,2.0,3,5.0
+Santos,Inter de Limeira,4,1,2.0,0.0,0.0,1,0.0
+Sao Bento,Sao Caetano,2,2,0.0,0.0,2.0,2,2.0
+Novorizontino,Santo Andre,2,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Guarani,2,2,1.0,1.0,0.0,2,3.0
+Inter de Limeira,Ituano,2,0,2.0,0.0,0.0,0,0.0
+Mirassol,Botafogo SP,7,5,2.0,0.0,1.0,5,1.0
+Sao Caetano,Ponte Preta,1,2,0.0,1.0,0.0,2,3.0
+Guarani,Palmeiras,1,2,0.0,1.0,1.0,2,4.0
+Bragantino,Ferroviaria,2,0,1.0,0.0,1.0,0,1.0
+Botafogo SP,Sao Caetano,4,1,1.0,0.0,1.0,1,1.0
+Ponte Preta,Inter de Limeira,2,3,0.0,1.0,1.0,3,4.0
+Santo Andre,Guarani,1,1,1.0,1.0,0.0,1,3.0
+Sao Caetano,Ituano,3,1,1.0,1.0,1.0,1,4.0
+Ponte Preta,Mirassol,9,2,4.0,1.0,0.0,2,3.0
+Palmeiras,Inter de Limeira,2,1,1.0,1.0,0.0,1,3.0
+Bragantino,Santos,4,7,0.0,1.0,2.0,7,5.0
+Santo Andre,Palmeiras,0,1,0.0,1.0,0.0,1,3.0
+Guarani,Novorizontino,3,2,1.0,0.0,1.0,2,1.0
+Mirassol,Ferroviaria,5,4,1.0,1.0,0.0,4,3.0
+Inter de Limeira,Sao Caetano,1,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Guarani,6,1,2.0,0.0,0.0,1,0.0
+Sao Bento,Inter de Limeira,3,1,2.0,0.0,0.0,1,0.0
+Santo Andre,Mirassol,3,3,1.0,1.0,1.0,3,4.0
+Sao Caetano,Ferroviaria,1,3,1.0,1.0,0.0,3,3.0
+Mirassol,Sao Paulo,1,6,0.0,2.0,1.0,6,7.0
+Inter de Limeira,Guarani,2,11,1.0,3.0,0.0,11,9.0
+Corinthians,Inter de Limeira,4,2,1.0,1.0,0.0,2,3.0
+Mirassol,Guarani,9,4,3.0,0.0,4.0,4,4.0
+Bragantino,Palmeiras,3,5,1.0,2.0,1.0,5,7.0
+Sao Paulo,Ferroviaria,5,3,1.0,0.0,2.0,3,2.0
+Agua Santa,Novorizontino,1,2,1.0,1.0,0.0,2,3.0
+Santo Andre,Ferroviaria,4,3,1.0,0.0,1.0,3,1.0
+Guarani,Santos,4,3,1.0,1.0,1.0,3,4.0
+Bragantino,Inter de Limeira,4,2,1.0,1.0,0.0,2,3.0
+Santo Andre,Agua Santa,1,2,1.0,1.0,0.0,2,3.0
+Palmeiras,Oeste,4,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Sao Paulo,2,4,0.0,2.0,0.0,4,6.0
+Novorizontino,Bragantino,0,3,0.0,1.0,1.0,3,4.0
+Oeste,Ferroviaria,1,5,0.0,1.0,0.0,5,3.0
+Guarani,Santo Andre,4,4,1.0,1.0,0.0,4,3.0
+Inter de Limeira,Ponte Preta,2,1,1.0,0.0,0.0,1,0.0
+Oeste,Guarani,3,3,0.0,0.0,2.0,3,2.0
+Mirassol,Bragantino,5,1,2.0,0.0,0.0,1,0.0
+Santo Andre,Sao Paulo,2,2,1.0,1.0,0.0,2,3.0
+Inter de Limeira,Santo Andre,0,2,0.0,2.0,0.0,2,6.0
+Botafogo SP,Agua Santa,1,3,0.0,1.0,1.0,3,4.0
+Bragantino,Oeste,3,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Santos,5,5,0.0,0.0,3.0,5,3.0
+Palmeiras,Guarani,7,1,3.0,0.0,0.0,1,0.0
+Botafogo SP,Inter de Limeira,5,1,2.0,0.0,0.0,1,0.0
+Agua Santa,Corinthians,2,1,1.0,0.0,0.0,1,0.0
+Oeste,Sao Paulo,0,4,0.0,1.0,0.0,4,3.0
+Santo Andre,Bragantino,2,1,1.0,0.0,1.0,1,1.0
+Guarani,Agua Santa,0,0,0.0,0.0,1.0,0,1.0
+Bragantino,Ituano,8,5,3.0,1.0,0.0,5,3.0
+Mirassol,Oeste,1,0,1.0,0.0,0.0,0,0.0
+Ituano,Guarani,7,5,2.0,1.0,1.0,5,4.0
+Santo Andre,Oeste,0,1,0.0,1.0,0.0,1,3.0
+Novorizontino,Corinthians,2,3,1.0,2.0,1.0,3,7.0
+Santos,Mirassol,8,3,4.0,0.0,0.0,3,0.0
+Agua Santa,Inter de Limeira,1,1,0.0,0.0,1.0,1,1.0
+Ponte Preta,Bragantino,2,4,0.0,2.0,1.0,4,7.0
+Oeste,Botafogo SP,6,3,1.0,0.0,1.0,3,1.0
+Bragantino,Agua Santa,6,0,2.0,0.0,0.0,0,0.0
+Inter de Limeira,Palmeiras,0,0,0.0,0.0,2.0,0,2.0
+Guarani,Ponte Preta,7,5,2.0,1.0,0.0,5,3.0
+Santos,Santo Andre,3,1,1.0,0.0,1.0,1,1.0
+Agua Santa,Mirassol,1,2,0.0,1.0,1.0,2,4.0
+Inter de Limeira,Oeste,2,1,1.0,0.0,0.0,1,0.0
+Palmeiras,Agua Santa,7,1,3.0,0.0,0.0,1,0.0
+Mirassol,Ponte Preta,3,3,1.0,1.0,2.0,3,5.0
+Guarani,Sao Paulo,4,6,1.0,2.0,0.0,6,6.0
+Palmeiras,Santo Andre,6,1,3.0,0.0,0.0,1,0.0
+Corinthians,Mirassol,7,1,4.0,0.0,0.0,1,0.0
+Bragantino,Guarani,3,0,3.0,0.0,0.0,0,0.0
+Inter de Limeira,Sao Bernardo,2,4,1.0,1.0,0.0,4,3.0
+Sao Bento,Santo Andre,4,3,1.0,0.0,1.0,3,1.0
+Sao Bernardo,Bragantino,2,1,1.0,0.0,1.0,1,1.0
+Corinthians,Agua Santa,3,0,1.0,0.0,0.0,0,0.0
+Inter de Limeira,Corinthians,0,0,0.0,0.0,1.0,0,1.0
+Corinthians,Guarani,3,2,1.0,0.0,1.0,2,1.0
+Mirassol,Sao Bernardo,7,5,1.0,1.0,0.0,5,3.0
+Agua Santa,Portuguesa,2,1,1.0,0.0,0.0,1,0.0
+Mirassol,Palmeiras,7,7,1.0,2.0,1.0,7,7.0
+Ituano,Agua Santa,2,5,0.0,1.0,1.0,5,4.0
+Portuguesa,Inter de Limeira,0,1,0.0,1.0,0.0,1,3.0
+Guarani,Portuguesa,4,2,2.0,0.0,0.0,2,0.0
+Sao Bento,Guarani,0,1,0.0,1.0,0.0,1,3.0
+Agua Santa,Bragantino,2,1,1.0,0.0,1.0,1,1.0
+Guarani,Sao Bernardo,1,5,0.0,1.0,1.0,5,4.0
+Portuguesa,Ferroviaria,1,1,0.0,0.0,1.0,1,1.0
+Sao Paulo,Inter de Limeira,5,1,1.0,0.0,1.0,1,1.0
+Inter de Limeira,Agua Santa,0,1,0.0,1.0,0.0,1,3.0
+Santos,Portuguesa,4,0,1.0,0.0,0.0,0,0.0
+Sao Bernardo,Agua Santa,0,1,0.0,1.0,0.0,1,3.0
+Mirassol,Portuguesa,1,2,0.0,1.0,0.0,2,3.0
+Santo Andre,Inter de Limeira,2,0,1.0,0.0,1.0,0,1.0
+Sao Bernardo,Inter de Limeira,1,0,1.0,0.0,0.0,0,0.0
+Botafogo SP,Santo Andre,0,0,0.0,0.0,1.0,0,1.0
+Corinthians,Ferroviaria,3,2,1.0,0.0,2.0,2,2.0
+Ituano,Novorizontino,2,1,1.0,1.0,0.0,1,3.0
+Inter de Limeira,Santos,0,0,0.0,0.0,1.0,0,1.0
+Ferroviaria,Agua Santa,1,0,1.0,0.0,0.0,0,0.0
+Santo Andre,Corinthians,2,2,1.0,1.0,0.0,2,3.0
+Ituano,Inter de Limeira,2,1,1.0,0.0,0.0,1,0.0
+Sao Bernardo,Ponte Preta,2,0,1.0,0.0,0.0,0,0.0
+Inter de Limeira,Botafogo SP,3,0,1.0,0.0,0.0,0,0.0
+Ferroviaria,Bragantino,1,1,0.0,0.0,2.0,1,2.0
+Guarani,Botafogo SP,2,2,1.0,1.0,0.0,2,3.0
+Ferroviaria,Ponte Preta,1,4,0.0,2.0,1.0,4,7.0
+Novorizontino,Guarani,1,2,0.0,1.0,0.0,2,3.0
+Inter de Limeira,Mirassol,2,2,0.0,0.0,1.0,2,1.0
+Santo Andre,Novorizontino,2,3,0.0,1.0,1.0,3,4.0
+Ferroviaria,Palmeiras,0,2,0.0,1.0,1.0,2,4.0
+Mirassol,Santos,3,2,1.0,0.0,0.0,2,0.0
+Sao Bernardo,Ituano,3,0,2.0,0.0,0.0,0,0.0
+Inter de Limeira,Ferroviaria,1,2,0.0,1.0,0.0,2,3.0
+Agua Santa,Sao Paulo,1,2,0.0,1.0,0.0,2,3.0
+Novorizontino,Inter de Limeira,1,2,0.0,1.0,0.0,2,3.0
+Agua Santa,Santo Andre,1,1,0.0,0.0,1.0,1,1.0
+Guarani,Ferroviaria,3,2,1.0,0.0,1.0,2,1.0
+Sao Bernardo,Guarani,0,0,0.0,0.0,1.0,0,1.0
+Mirassol,Agua Santa,0,1,0.0,1.0,0.0,1,3.0
+Ituano,Sao Caetano,3,1,1.0,0.0,0.0,1,0.0
+Linense,Sao Caetano,0,2,0.0,1.0,0.0,2,3.0
+Bragantino,Sao Bento,0,1,0.0,1.0,0.0,1,3.0
+Novorizontino,Sao Caetano,3,1,2.0,0.0,0.0,1,0.0
+RB Brasil,Bragantino,2,2,0.0,0.0,2.0,2,2.0
+Sao Caetano,Mirassol,2,2,1.0,1.0,0.0,2,3.0
+Sao Caetano,RB Brasil,1,1,0.0,0.0,1.0,1,1.0
+Santos,Sao Caetano,3,1,1.0,0.0,1.0,1,1.0
+Novorizontino,RB Brasil,0,2,0.0,1.0,0.0,2,3.0
+RB Brasil,Corinthians,1,1,0.0,0.0,1.0,1,1.0
+Sao Caetano,Sao Bento,1,0,1.0,0.0,0.0,0,0.0
+Bragantino,Novorizontino,3,2,1.0,0.0,1.0,2,1.0
+Botafogo SP,Linense,4,1,1.0,0.0,1.0,1,1.0
+Linense,Santo Andre,1,0,1.0,0.0,0.0,0,0.0
+Sao Caetano,Botafogo SP,0,1,0.0,1.0,1.0,1,4.0
+Bragantino,Sao Caetano,1,1,0.0,0.0,1.0,1,1.0
+Sao Caetano,Sao Paulo,4,5,1.0,1.0,1.0,5,4.0
+Ferroviaria,RB Brasil,4,3,1.0,1.0,0.0,3,3.0
+Uniao Barbarense,Piracicaba,1,1,0.0,0.0,1.0,1,1.0
+Linense,Guarani,2,1,1.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Sao Caetano,1,2,0.0,1.0,0.0,2,3.0
+Paulista,Corinthians,1,1,0.0,0.0,1.0,1,1.0
+Bragantino,Linense,2,2,0.0,0.0,1.0,2,1.0
+Piracicaba,Paulista,2,1,1.0,0.0,0.0,1,0.0
+Mirassol,Uniao Barbarense,1,2,0.0,1.0,0.0,2,3.0
+Sao Paulo,Atl. Sorocaba,2,1,1.0,0.0,0.0,1,0.0
+Oeste,Sao Caetano,1,1,0.0,0.0,1.0,1,1.0
+Linense,Ituano,0,0,0.0,0.0,1.0,0,1.0
+Paulista,Uniao Barbarense,1,0,1.0,0.0,0.0,0,0.0
+Paulista,Mirassol,1,1,0.0,0.0,1.0,1,1.0
+Sao Caetano,Linense,0,2,0.0,1.0,0.0,2,3.0
+Sao Bernardo,Sao Caetano,4,1,1.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Uniao Barbarense,4,0,1.0,0.0,0.0,0,0.0
+Penapolense,Uniao Barbarense,2,1,1.0,0.0,0.0,1,0.0
+Paulista,Oeste,0,0,0.0,0.0,1.0,0,1.0
+Guarani,Sao Caetano,5,2,2.0,0.0,0.0,2,0.0
+Palmeiras,Atl. Sorocaba,2,0,1.0,0.0,0.0,0,0.0
+Corinthians,Sao Caetano,3,3,0.0,0.0,2.0,3,2.0
+Uniao Barbarense,Botafogo SP,1,1,0.0,0.0,1.0,1,1.0
+Oeste,Mirassol,3,2,1.0,0.0,1.0,2,1.0
+Santos,Paulista,1,3,0.0,1.0,0.0,3,3.0
+Penapolense,Atl. Sorocaba,1,1,0.0,0.0,1.0,1,1.0
+Uniao Barbarense,Mogi Mirim,1,2,0.0,1.0,0.0,2,3.0
+Piracicaba,Guarani,2,3,0.0,1.0,0.0,3,3.0
+Sao Bernardo,Paulista,0,0,0.0,0.0,1.0,0,1.0
+Atl. Sorocaba,Linense,2,3,0.0,1.0,0.0,3,3.0
+Mirassol,Sao Caetano,3,0,1.0,0.0,0.0,0,0.0
+Palmeiras,Uniao Barbarense,1,0,1.0,0.0,0.0,0,0.0
+Piracicaba,Mirassol,2,2,0.0,0.0,1.0,2,1.0
+Oeste,Uniao Barbarense,2,0,1.0,0.0,0.0,0,0.0
+Guarani,Mogi Mirim,0,2,0.0,1.0,0.0,2,3.0
+Uniao Barbarense,Bragantino,0,0,0.0,0.0,1.0,0,1.0
+Penapolense,Paulista,2,0,1.0,0.0,0.0,0,0.0
+Ponte Preta,Sao Caetano,3,1,1.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Santos,1,2,0.0,1.0,0.0,2,3.0
+Palmeiras,Paulista,2,1,1.0,0.0,0.0,1,0.0
+Ituano,Piracicaba,2,1,1.0,0.0,0.0,1,0.0
+Santos,Guarani,5,1,2.0,0.0,0.0,1,0.0
+Bragantino,Penapolense,3,2,1.0,0.0,0.0,2,0.0
+Corinthians,Uniao Barbarense,3,0,1.0,0.0,0.0,0,0.0
+Sao Caetano,Palmeiras,1,3,0.0,1.0,1.0,3,4.0
+Ponte Preta,Atl. Sorocaba,2,1,1.0,0.0,0.0,1,0.0
+Paulista,Botafogo SP,1,1,0.0,0.0,1.0,1,1.0
+Atl. Sorocaba,Mogi Mirim,1,3,0.0,1.0,0.0,3,3.0
+Oeste,Bragantino,2,2,0.0,0.0,2.0,2,2.0
+Linense,Penapolense,1,1,0.0,0.0,1.0,1,1.0
+Uniao Barbarense,Ponte Preta,1,1,0.0,0.0,1.0,1,1.0
+Guarani,Paulista,1,2,0.0,1.0,0.0,2,3.0
+Uniao Barbarense,Sao Caetano,0,0,0.0,0.0,1.0,0,1.0
+Paulista,Ponte Preta,0,1,0.0,1.0,0.0,1,3.0
+Mogi Mirim,Mirassol,3,1,1.0,0.0,0.0,1,0.0
+Sao Caetano,Piracicaba,2,2,0.0,0.0,1.0,2,1.0
+Linense,Uniao Barbarense,2,3,0.0,1.0,0.0,3,3.0
+Paulista,Sao Paulo,0,2,0.0,1.0,0.0,2,3.0
+Bragantino,Paulista,2,1,1.0,0.0,0.0,1,0.0
+Mirassol,Penapolense,0,1,0.0,1.0,0.0,1,3.0
+Guarani,Atl. Sorocaba,0,3,0.0,1.0,0.0,3,3.0
+Uniao Barbarense,Sao Bernardo,0,0,0.0,0.0,1.0,0,1.0
+Sao Caetano,Mogi Mirim,0,2,0.0,1.0,0.0,2,3.0
+Oeste,Santos,1,2,0.0,1.0,0.0,2,3.0
+Piracicaba,Bragantino,2,0,1.0,0.0,0.0,0,0.0
+Ituano,Uniao Barbarense,0,0,0.0,0.0,1.0,0,1.0
+Penapolense,Guarani,3,0,1.0,0.0,0.0,0,0.0
+Linense,Oeste,3,1,1.0,0.0,0.0,1,0.0
+Atl. Sorocaba,Mirassol,3,2,1.0,0.0,0.0,2,0.0
+Uniao Barbarense,Sao Paulo,1,2,0.0,1.0,0.0,2,3.0
+Penapolense,Sao Caetano,1,1,0.0,0.0,1.0,1,1.0
+Uniao Barbarense,Santos,0,4,0.0,1.0,0.0,4,3.0
+Sao Caetano,Paulista,0,2,0.0,1.0,0.0,2,3.0
+Oeste,Sao Bernardo,0,4,0.0,1.0,0.0,4,3.0
+Mogi Mirim,Sao Paulo,1,0,1.0,0.0,0.0,0,0.0
+Guarani,Uniao Barbarense,1,3,0.0,1.0,0.0,3,3.0
+Guarani,Oeste,1,2,0.0,1.0,0.0,2,3.0
+Oeste,Novorizontino,2,2,0.0,0.0,1.0,2,1.0
+Sao Caetano,Oeste,1,3,0.0,1.0,0.0,3,3.0
+Oeste,Sao Bento,1,0,1.0,0.0,0.0,0,0.0
+Oeste,RB Brasil,1,2,0.0,1.0,0.0,2,3.0
+Ferroviaria,Sao Caetano,2,0,1.0,0.0,0.0,0,0.0
+Guarani,RB Brasil,1,2,0.0,1.0,0.0,2,3.0
+Guarani,Mirassol,2,2,0.0,0.0,1.0,2,1.0
+RB Brasil,Mirassol,3,1,1.0,0.0,0.0,1,0.0
