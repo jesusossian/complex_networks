@@ -1,1126 +1,1126 @@
-home,away,home_goals,away_goals,home_win,away_win,draw,weights1,weights2
-Nacional (URU),Barcelona-EQU,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Boca Juniors,Toluca,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Toluca,Nacional (URU),2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Barcelona-EQU,Boca Juniors,2.0,2.0,1.0,1.0,0.0,2.0,3.0
-Toluca,Barcelona-EQU,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Boca Juniors,Nacional (URU),1.0,2.0,0.0,1.0,1.0,2.0,4.0
-Barcelona-EQU,Toluca,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Nacional (URU),Boca Juniors,1.0,2.0,0.0,1.0,1.0,2.0,4.0
-Boca Juniors,Barcelona-EQU,1.0,0.0,1.0,0.0,1.0,0.0,1.0
-Nacional (URU),Toluca,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Nacional (URU),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Toluca,Boca Juniors,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Palmeiras,Sporting Cristal,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Tigre,Libertad,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Sporting Cristal,Tigre,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad,Palmeiras,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad,Sporting Cristal,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Tigre,Palmeiras,1.0,2.0,1.0,1.0,0.0,2.0,3.0
-Sporting Cristal,Libertad,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Tigre,7.0,0.0,2.0,0.0,0.0,0.0,0.0
-Tigre,Sporting Cristal,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Palmeiras,Libertad,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad,Tigre,3.0,5.0,0.0,1.0,0.0,5.0,3.0
-Sporting Cristal,Palmeiras,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,São Paulo,8.0,3.0,3.0,0.0,0.0,3.0,0.0
-The Strongest,Arsenal Sarandí,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Arsenal Sarandí,Atlético-MG,2.0,5.0,0.0,1.0,0.0,5.0,3.0
-São Paulo,The Strongest,2.0,2.0,1.0,1.0,0.0,2.0,3.0
-São Paulo,Arsenal Sarandí,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético-MG,The Strongest,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-The Strongest,Atlético-MG,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Arsenal Sarandí,São Paulo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético-MG,Arsenal Sarandí,5.0,2.0,1.0,0.0,0.0,2.0,0.0
-The Strongest,São Paulo,3.0,2.0,1.0,0.0,1.0,2.0,1.0
-Arsenal Sarandí,The Strongest,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-São Paulo,Atlético-MG,4.0,2.0,2.0,1.0,0.0,2.0,3.0
-Emelec,Vélez Sarsfield,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportes Iquique,Peñarol,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Peñarol,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Deportes Iquique,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Vélez Sarsfield,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Deportes Iquique,Emelec,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Emelec,Deportes Iquique,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Vélez Sarsfield,Peñarol,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportes Iquique,Vélez Sarsfield,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Emelec,Peñarol,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Deportes Iquique,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Emelec,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Millonarios,Tijuana,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-San José,Corinthians,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Tijuana,San José,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Millonarios,2.0,1.0,1.0,1.0,0.0,1.0,3.0
-Millonarios,San José,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Tijuana,Corinthians,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Tijuana,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-San José,Millonarios,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-San José,Tijuana,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Millonarios,Corinthians,0.0,1.0,0.0,1.0,1.0,1.0,4.0
-Corinthians,San José,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tijuana,Millonarios,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Real Atlético,Ind. Santa Fe,2.0,4.0,0.0,1.0,1.0,4.0,4.0
-Deportes Tolima,Cerro Porteño,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Real Atlético,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Ind. Santa Fe,Deportes Tolima,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Deportes Tolima,Real Atlético,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Cerro Porteño,Ind. Santa Fe,2.0,2.0,1.0,1.0,0.0,2.0,3.0
-Real Atlético,Deportes Tolima,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Ind. Santa Fe,Cerro Porteño,1.0,0.0,1.0,0.0,1.0,0.0,1.0
-Deportes Tolima,Ind. Santa Fe,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Real Atlético,Cerro Porteño,5.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Deportes Tolima,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Ind. Santa Fe,Real Atlético,4.0,0.0,2.0,0.0,0.0,0.0,0.0
-Universidad de Chile,Deportivo Lara,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Newells Old Boys,Olimpia-PAR,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,Universidad de Chile,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Lara,Newells Old Boys,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,Deportivo Lara,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Newells Old Boys,Universidad de Chile,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad de Chile,Newells Old Boys,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Deportivo Lara,Olimpia-PAR,1.0,5.0,0.0,1.0,0.0,5.0,3.0
-Newells Old Boys,Deportivo Lara,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universidad de Chile,Olimpia-PAR,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Deportivo Lara,Universidad de Chile,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Olimpia-PAR,Newells Old Boys,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Caracas,Fluminense,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Grêmio,Huachipato,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Huachipato,Caracas,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Fluminense,Grêmio,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Huachipato,Fluminense,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Caracas,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Fluminense,Huachipato,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Caracas,Grêmio,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Caracas,Huachipato,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Grêmio,Fluminense,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Huachipato,Grêmio,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Fluminense,Caracas,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Atlético-MG,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Olimpia-PAR,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Newells Old Boys,Atlético-MG,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Newells Old Boys,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Ind. Santa Fe,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Olimpia-PAR,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tijuana,Atlético-MG,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Atlético-MG,Tijuana,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Boca Juniors,Newells Old Boys,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Newells Old Boys,Boca Juniors,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Fluminense,Olimpia-PAR,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Olimpia-PAR,Fluminense,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Tijuana,Palmeiras,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Palmeiras,Tijuana,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Boca Juniors,Corinthians,2.0,1.0,1.0,0.0,2.0,1.0,2.0
-Corinthians,Boca Juniors,3.0,1.0,1.0,0.0,2.0,1.0,2.0
-Newells Old Boys,Vélez Sarsfield,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Vélez Sarsfield,Newells Old Boys,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Ind. Santa Fe,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Ind. Santa Fe,Grêmio,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Real Atlético,Nacional (URU),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Real Atlético,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tigre,Olimpia-PAR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,Tigre,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Emelec,Fluminense,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Fluminense,Emelec,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universitario (PER),Vélez Sarsfield,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético-PR,The Strongest,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Universitario (PER),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Atlético-PR,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Vélez Sarsfield,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universitario (PER),Atlético-PR,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Vélez Sarsfield,The Strongest,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-PR,Universitario (PER),3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-PR,Vélez Sarsfield,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Universitario (PER),The Strongest,3.0,3.0,0.0,0.0,1.0,3.0,1.0
-Vélez Sarsfield,Universitario (PER),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Atlético-PR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Botafogo,San Lorenzo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente Del Valle,Unión Española,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Unión Española,Botafogo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-San Lorenzo,Independiente Del Valle,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente Del Valle,Botafogo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-San Lorenzo,Unión Española,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Botafogo,Independiente Del Valle,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Unión Española,San Lorenzo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente Del Valle,San Lorenzo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Botafogo,Unión Española,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Unión Española,Independiente Del Valle,4.0,5.0,0.0,1.0,0.0,5.0,3.0
-San Lorenzo,Botafogo,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Cali,Cerro Porteño,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lanús,O'Higgins,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-O'Higgins,Deportivo Cali,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,Lanús,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-O'Higgins,Cerro Porteño,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Deportivo Cali,Lanús,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Lanús,Deportivo Cali,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,O'Higgins,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportivo Cali,O'Higgins,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Lanús,Cerro Porteño,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,Deportivo Cali,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-O'Higgins,Lanús,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Zamora,Atlético-MG,1.0,3.0,0.0,2.0,0.0,3.0,6.0
-Ind. Santa Fe,Nacional (PAR),3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Nacional (PAR),Zamora,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Ind. Santa Fe,4.0,1.0,2.0,0.0,0.0,1.0,0.0
-Nacional (PAR),Atlético-MG,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Zamora,Ind. Santa Fe,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Ind. Santa Fe,Zamora,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Atlético-MG,Nacional (PAR),1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Zamora,Nacional (PAR),2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Atlético-MG,1.0,2.0,0.0,1.0,1.0,2.0,4.0
-Atlético-MG,Zamora,4.0,2.0,2.0,0.0,0.0,2.0,0.0
-Nacional (PAR),Ind. Santa Fe,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Real Garcilaso,Cruzeiro,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universidad de Chile,Defensor Sporting,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,Real Garcilaso,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cruzeiro,Universidad de Chile,12.0,1.0,2.0,0.0,0.0,1.0,0.0
-Defensor Sporting,Cruzeiro,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Real Garcilaso,Universidad de Chile,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad de Chile,Real Garcilaso,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,Defensor Sporting,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Real Garcilaso,Defensor Sporting,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad de Chile,Cruzeiro,0.0,2.0,0.0,1.0,1.0,2.0,4.0
-Cruzeiro,Real Garcilaso,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,Universidad de Chile,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Nacional (URU),Grêmio,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético Nacional,Newells Old Boys,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Grêmio,Atlético Nacional,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Newells Old Boys,Nacional (URU),4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Nacional (URU),2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Grêmio,Newells Old Boys,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Nacional (URU),Atlético Nacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Newells Old Boys,Grêmio,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Nacional (URU),Newells Old Boys,2.0,4.0,0.0,1.0,0.0,4.0,3.0
-Atlético Nacional,Grêmio,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Newells Old Boys,Atlético Nacional,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Grêmio,Nacional (URU),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-León,Flamengo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Emelec,Bolívar,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Bolívar,León,2.0,2.0,0.0,0.0,2.0,2.0,2.0
-Flamengo,Emelec,7.0,1.0,3.0,0.0,0.0,1.0,0.0
-Emelec,León,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Flamengo,Bolívar,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Bolívar,Flamengo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-León,Emelec,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-León,Bolívar,2.0,3.0,0.0,1.0,1.0,3.0,4.0
-Emelec,Flamengo,4.0,4.0,1.0,2.0,0.0,4.0,6.0
-Flamengo,León,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Bolívar,Emelec,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Santos Laguna,Arsenal Sarandí,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Anzoátegui,Peñarol,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Peñarol,Santos Laguna,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Arsenal Sarandí,Deportivo Anzoátegui,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Anzoátegui,Santos Laguna,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Arsenal Sarandí,Peñarol,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Santos Laguna,Deportivo Anzoátegui,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Arsenal Sarandí,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Santos Laguna,Peñarol,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportivo Anzoátegui,Arsenal Sarandí,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Peñarol,Deportivo Anzoátegui,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Arsenal Sarandí,Santos Laguna,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (PAR),San Lorenzo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-San Lorenzo,Nacional (PAR),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (PAR),Defensor Sporting,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,Nacional (PAR),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Bolívar,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Bolívar,San Lorenzo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (PAR),Arsenal Sarandí,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Arsenal Sarandí,Nacional (PAR),0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Atlético Nacional,Defensor Sporting,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Defensor Sporting,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Cruzeiro,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,San Lorenzo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Lanús,Bolívar,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Bolívar,Lanús,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (PAR),Vélez Sarsfield,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Nacional (PAR),2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Arsenal Sarandí,Unión Española,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Unión Española,Arsenal Sarandí,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético Nacional,Atlético-MG,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Atlético Nacional,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-The Strongest,Defensor Sporting,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,The Strongest,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Grêmio,2.0,1.0,1.0,0.0,1.0,1.0,1.0
-Grêmio,San Lorenzo,2.0,1.0,1.0,0.0,1.0,1.0,1.0
-Cruzeiro,Cerro Porteño,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Cerro Porteño,Cruzeiro,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Lanús,Santos Laguna,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Santos Laguna,Lanús,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlas,Ind. Santa Fe,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Colo-Colo,Atlético-MG,2.0,0.0,1.0,0.0,1.0,0.0,1.0
-Atlético-MG,Atlas,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Ind. Santa Fe,Colo-Colo,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Colo-Colo,Atlas,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlas,Colo-Colo,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Atlas,Atlético-MG,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Ind. Santa Fe,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Atlético-MG,Colo-Colo,5.0,0.0,2.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Atlas,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Corinthians,São Paulo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Danubio,San Lorenzo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-São Paulo,Danubio,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Corinthians,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Danubio,Corinthians,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-São Paulo,San Lorenzo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,São Paulo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Danubio,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Danubio,São Paulo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Corinthians,San Lorenzo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-San Lorenzo,Danubio,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-São Paulo,Corinthians,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Huracán,Mineros de Guaiana,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Universitario de Sucre,Cruzeiro,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Mineros de Guaiana,Universitario de Sucre,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Cruzeiro,Huracán,4.0,0.0,1.0,0.0,1.0,0.0,1.0
-Universitario de Sucre,Huracán,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Mineros de Guaiana,Cruzeiro,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Huracán,Universitario de Sucre,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Cruzeiro,Mineros de Guaiana,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Huracán,Cruzeiro,3.0,2.0,1.0,1.0,0.0,2.0,3.0
-Universitario de Sucre,Mineros de Guaiana,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,Universitario de Sucre,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Mineros de Guaiana,Huracán,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad de Chile,Emelec,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-The Strongest,Internacional,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Emelec,The Strongest,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,Universidad de Chile,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Internacional,Emelec,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Universidad de Chile,The Strongest,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-The Strongest,Universidad de Chile,5.0,3.0,1.0,0.0,0.0,3.0,0.0
-Emelec,Internacional,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-The Strongest,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad de Chile,Internacional,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Emelec,Universidad de Chile,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,The Strongest,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Montevideo Wanderers,Zamora,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Palestino,Boca Juniors,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Boca Juniors,Montevideo Wanderers,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Zamora,Palestino,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Montevideo Wanderers,Palestino,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Zamora,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Zamora,Boca Juniors,1.0,5.0,0.0,1.0,0.0,5.0,3.0
-Palestino,Montevideo Wanderers,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palestino,Zamora,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Montevideo Wanderers,Boca Juniors,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Zamora,Montevideo Wanderers,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Boca Juniors,Palestino,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tigres,Juan Aurich,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-San José,River Plate,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Tigres,4.0,1.0,1.0,0.0,1.0,1.0,1.0
-Juan Aurich,San José,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-San José,Tigres,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Juan Aurich,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Tigres,San José,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Juan Aurich,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-San José,Juan Aurich,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Tigres,River Plate,2.0,2.0,0.0,0.0,2.0,2.0,2.0
-River Plate,San José,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Juan Aurich,Tigres,4.0,5.0,0.0,1.0,0.0,5.0,3.0
-Libertad,Atlético Nacional,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Estudiantes,Barcelona-EQU,3.0,2.0,1.0,1.0,0.0,2.0,3.0
-Barcelona-EQU,Libertad,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético Nacional,Estudiantes,5.0,2.0,1.0,0.0,1.0,2.0,1.0
-Barcelona-EQU,Atlético Nacional,3.0,3.0,1.0,1.0,0.0,3.0,3.0
-Libertad,Estudiantes,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes,Libertad,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Barcelona-EQU,5.0,4.0,1.0,1.0,0.0,4.0,3.0
-Estudiantes,Atlético Nacional,1.0,1.0,1.0,1.0,0.0,1.0,3.0
-Libertad,Barcelona-EQU,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético Nacional,Libertad,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Estudiantes,0.0,5.0,0.0,2.0,0.0,5.0,6.0
-Deportivo Táchira,Racing Club,0.0,5.0,0.0,1.0,0.0,5.0,3.0
-Guaraní (PAR),Sporting Cristal,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Racing Club,Guaraní (PAR),4.0,1.0,1.0,0.0,1.0,1.0,1.0
-Sporting Cristal,Deportivo Táchira,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Racing Club,Sporting Cristal,3.0,3.0,1.0,1.0,0.0,3.0,3.0
-Guaraní (PAR),Deportivo Táchira,5.0,2.0,1.0,0.0,0.0,2.0,0.0
-Sporting Cristal,Racing Club,0.0,4.0,0.0,2.0,0.0,4.0,6.0
-Deportivo Táchira,Guaraní (PAR),1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Guaraní (PAR),Racing Club,3.0,0.0,2.0,0.0,0.0,0.0,0.0
-Deportivo Táchira,Sporting Cristal,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Sporting Cristal,Guaraní (PAR),1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Racing Club,Deportivo Táchira,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-River Plate,Guaraní (PAR),3.0,1.0,1.0,0.0,1.0,1.0,1.0
-Guaraní (PAR),River Plate,1.0,3.0,0.0,1.0,1.0,3.0,4.0
-Internacional,Tigres,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Tigres,Internacional,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-River Plate,Cruzeiro,0.0,1.0,0.0,1.0,1.0,1.0,4.0
-Cruzeiro,River Plate,0.0,3.0,0.0,1.0,1.0,3.0,4.0
-Emelec,Tigres,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tigres,Emelec,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Internacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,Ind. Santa Fe,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Boca Juniors,6.0,1.0,3.0,0.0,0.0,1.0,0.0
-Boca Juniors,River Plate,3.0,2.0,1.0,0.0,1.0,2.0,1.0
-São Paulo,Cruzeiro,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,São Paulo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Guaraní (PAR),Corinthians,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Guaraní (PAR),0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Montevideo Wanderers,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Racing Club,Montevideo Wanderers,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universitario de Sucre,Tigres,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Tigres,Universitario de Sucre,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Emelec,Atlético Nacional,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Internacional,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Internacional,Atlético-MG,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Estudiantes,Ind. Santa Fe,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Ind. Santa Fe,Estudiantes,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Trujillanos (VEN),River Plate,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-The Strongest,Trujillanos (VEN),2.0,1.0,1.0,0.0,0.0,1.0,0.0
-River Plate,São Paulo,3.0,2.0,1.0,0.0,1.0,2.0,1.0
-The Strongest,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Trujillanos (VEN),São Paulo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-São Paulo,Trujillanos (VEN),6.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,The Strongest,6.0,0.0,1.0,0.0,0.0,0.0,0.0
-Trujillanos (VEN),The Strongest,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-São Paulo,River Plate,4.0,3.0,1.0,0.0,1.0,3.0,1.0
-River Plate,Trujillanos (VEN),4.0,3.0,1.0,0.0,0.0,3.0,0.0
-River Plate-URU,Palmeiras,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Rosario Central,Nacional (URU),1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Nacional (URU),River Plate-URU,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Palmeiras,Rosario Central,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Rosario Central,River Plate-URU,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Palmeiras,Nacional (URU),1.0,2.0,0.0,1.0,0.0,2.0,3.0
-River Plate-URU,Rosario Central,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Nacional (URU),Palmeiras,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Rosario Central,Palmeiras,3.0,3.0,0.0,0.0,1.0,3.0,1.0
-River Plate-URU,Nacional (URU),2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Nacional (URU),Rosario Central,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Palmeiras,River Plate-URU,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Racing Club,Bolívar,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportivo Cali,Boca Juniors,2.0,0.0,1.0,0.0,1.0,0.0,1.0
-Boca Juniors,Racing Club,2.0,0.0,1.0,0.0,1.0,0.0,1.0
-Bolívar,Deportivo Cali,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Bolívar,Boca Juniors,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Deportivo Cali,Racing Club,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Boca Juniors,Bolívar,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Racing Club,Deportivo Cali,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Racing Club,Boca Juniors,1.0,1.0,1.0,1.0,0.0,1.0,3.0
-Deportivo Cali,Bolívar,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Boca Juniors,Deportivo Cali,7.0,2.0,2.0,0.0,0.0,2.0,0.0
-Bolívar,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Sporting Cristal,Peñarol,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Huracán,Atlético Nacional,0.0,2.0,0.0,1.0,1.0,2.0,4.0
-Peñarol,Huracán,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético Nacional,Sporting Cristal,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Peñarol,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Sporting Cristal,Huracán,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Peñarol,Atlético Nacional,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Huracán,Sporting Cristal,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Huracán,Peñarol,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Sporting Cristal,Atlético Nacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Peñarol,Sporting Cristal,4.0,3.0,1.0,0.0,0.0,3.0,0.0
-Atlético Nacional,Huracán,4.0,2.0,1.0,0.0,1.0,2.0,1.0
-Melgar,Atlético-MG,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Independiente del Valle,Colo-Colo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Colo-Colo,Melgar,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Independiente del Valle,4.0,1.0,2.0,0.0,0.0,1.0,0.0
-Melgar,Independiente del Valle,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Independiente del Valle,Melgar,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Atlético-MG,4.0,3.0,1.0,0.0,1.0,3.0,1.0
-Melgar,Colo-Colo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético-MG,Melgar,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Independiente del Valle,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Toluca,Grêmio,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-LDU,San Lorenzo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Toluca,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Grêmio,LDU,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-LDU,Toluca,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Toluca,LDU,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Toluca,San Lorenzo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-LDU,Grêmio,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-San Lorenzo,LDU,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Grêmio,Toluca,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Táchira,Olimpia-PAR,5.0,3.0,2.0,0.0,0.0,3.0,0.0
-Pumas,Emelec,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Emelec,Deportivo Táchira,3.0,1.0,1.0,0.0,1.0,1.0,1.0
-Olimpia-PAR,Pumas,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Emelec,Olimpia-PAR,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Deportivo Táchira,Pumas,3.0,0.0,2.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Emelec,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Pumas,Deportivo Táchira,6.0,1.0,2.0,0.0,0.0,1.0,0.0
-Deportivo Táchira,Emelec,2.0,4.0,1.0,1.0,0.0,4.0,3.0
-Pumas,Olimpia-PAR,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,Deportivo Táchira,10.0,2.0,2.0,0.0,0.0,2.0,0.0
-Emelec,Pumas,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Cobresal,Corinthians,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Cerro Porteño,Cobresal,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Corinthians,Ind. Santa Fe,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cobresal,Ind. Santa Fe,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Cerro Porteño,Corinthians,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Ind. Santa Fe,Cobresal,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Cerro Porteño,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Corinthians,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Cobresal,Cerro Porteño,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Cobresal,6.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Atlético Nacional,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético Nacional,Independiente del Valle,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-São Paulo,Atlético Nacional,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético Nacional,São Paulo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Independiente del Valle,Boca Juniors,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Boca Juniors,Independiente del Valle,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Rosario Central,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Rosario Central,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Independiente del Valle,Pumas,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Pumas,Independiente del Valle,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,Rosario Central,3.0,2.0,1.0,1.0,0.0,2.0,3.0
-Rosario Central,Grêmio,4.0,1.0,1.0,0.0,1.0,1.0,1.0
-Racing Club,Atlético-MG,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Atlético-MG,Racing Club,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-São Paulo,Toluca,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Toluca,São Paulo,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Independiente del Valle,River Plate,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Independiente del Valle,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Corinthians,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Corinthians,Nacional (URU),2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Cerro Porteño,Boca Juniors,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Boca Juniors,Cerro Porteño,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Botafogo,Estudiantes,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Nacional,Botafogo,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Barcelona-EQU,Botafogo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Botafogo,Barcelona-EQU,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Botafogo,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes,Botafogo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Ind. Santa Fe,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Sporting Cristal,Santos,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Santos,The Strongest,7.0,0.0,2.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,Sporting Cristal,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Sporting Cristal,The Strongest,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Ind. Santa Fe,Santos,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-The Strongest,Sporting Cristal,5.0,1.0,1.0,0.0,0.0,1.0,0.0
-Santos,Ind. Santa Fe,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Sporting Cristal,Ind. Santa Fe,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-The Strongest,Santos,3.0,2.0,1.0,0.0,1.0,2.0,1.0
-Santos,Sporting Cristal,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Ind. Santa Fe,The Strongest,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Melgar,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente Medellín,River Plate,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Emelec,Independiente Medellín,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Melgar,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Independiente Medellín,Melgar,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Emelec,River Plate,1.0,3.0,0.0,2.0,0.0,3.0,6.0
-Melgar,Independiente Medellín,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-River Plate,Emelec,3.0,2.0,1.0,0.0,1.0,2.0,1.0
-Independiente Medellín,Emelec,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Melgar,River Plate,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Emelec,Melgar,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Independiente Medellín,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético-PR,Universidad Católica,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Flamengo,San Lorenzo,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Atlético-PR,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Universidad Católica,Flamengo,3.0,3.0,1.0,1.0,0.0,3.0,3.0
-Universidad Católica,San Lorenzo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Flamengo,Atlético-PR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-San Lorenzo,Universidad Católica,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético-PR,Flamengo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético-PR,San Lorenzo,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Flamengo,Universidad Católica,6.0,1.0,2.0,0.0,0.0,1.0,0.0
-San Lorenzo,Flamengo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universidad Católica,Atlético-PR,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Jorge Wilstermann,Peñarol,9.0,3.0,2.0,0.0,0.0,3.0,0.0
-Atlético Tucumán,Palmeiras,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Jorge Wilstermann,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Atlético Tucumán,5.0,2.0,2.0,0.0,0.0,2.0,0.0
-Jorge Wilstermann,Atlético Tucumán,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Palmeiras,Peñarol,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Atlético Tucumán,Jorge Wilstermann,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Peñarol,Palmeiras,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Atlético Tucumán,Peñarol,3.0,1.0,2.0,0.0,0.0,1.0,0.0
-Jorge Wilstermann,Palmeiras,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Palmeiras,Atlético Tucumán,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Peñarol,Jorge Wilstermann,3.0,0.0,2.0,0.0,0.0,0.0,0.0
-Godoy Cruz,Atlético-MG,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Sport Boys,Libertad,3.0,3.0,0.0,0.0,1.0,3.0,1.0
-Libertad,Godoy Cruz,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético-MG,Sport Boys,5.0,2.0,1.0,0.0,0.0,2.0,0.0
-Libertad,Atlético-MG,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Godoy Cruz,Sport Boys,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Libertad,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Sport Boys,Godoy Cruz,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Sport Boys,Atlético-MG,1.0,5.0,0.0,1.0,0.0,5.0,3.0
-Godoy Cruz,Libertad,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético-MG,Godoy Cruz,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Libertad,Sport Boys,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Zulia,Chapecoense,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Lanús,Nacional (URU),0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Nacional (URU),Zulia,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Chapecoense,Lanús,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Lanús,Zulia,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Chapecoense,Nacional (URU),1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Nacional (URU),Chapecoense,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Zulia,Lanús,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Zulia,Nacional (URU),0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Lanús,Chapecoense,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Lanús,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Chapecoense,Zulia,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportes Iquique,Guaraní (PAR),0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Zamora,Grêmio,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Deportes Iquique,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Guaraní (PAR),Zamora,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Zamora,Deportes Iquique,1.0,4.0,0.0,1.0,0.0,4.0,3.0
-Guaraní (PAR),Grêmio,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Deportes Iquique,Zamora,4.0,3.0,1.0,0.0,0.0,3.0,0.0
-Grêmio,Guaraní (PAR),4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportes Iquique,Grêmio,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Zamora,Guaraní (PAR),1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Grêmio,Zamora,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Guaraní (PAR),Deportes Iquique,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Grêmio,Lanús,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lanús,Grêmio,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-River Plate,Lanús,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lanús,River Plate,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Barcelona-EQU,Grêmio,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Grêmio,Barcelona-EQU,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Jorge Wilstermann,River Plate,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Jorge Wilstermann,8.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Lanús,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lanús,San Lorenzo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Santos,4.0,2.0,1.0,0.0,1.0,2.0,1.0
-Santos,Barcelona-EQU,0.0,3.0,0.0,2.0,0.0,3.0,6.0
-Botafogo,Grêmio,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Grêmio,Botafogo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jorge Wilstermann,Atlético-MG,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Jorge Wilstermann,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Emelec,San Lorenzo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-San Lorenzo,Emelec,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-The Strongest,Lanús,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Lanús,The Strongest,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-PR,Santos,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Santos,Atlético-PR,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Palmeiras,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Barcelona-EQU,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Botafogo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Botafogo,Nacional (URU),2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Godoy Cruz,Grêmio,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Grêmio,Godoy Cruz,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Monagas,Cerro Porteño,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Defensor Sporting,Grêmio,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Cerro Porteño,Defensor Sporting,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,Monagas,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,Monagas,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Grêmio,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Monagas,Defensor Sporting,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Grêmio,Cerro Porteño,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensor Sporting,Cerro Porteño,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Monagas,Grêmio,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Cerro Porteño,Monagas,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Grêmio,Defensor Sporting,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Atlético Nacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Delfín-EQU,Bolívar,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Bolívar,Colo-Colo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético Nacional,Delfín-EQU,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Delfín-EQU,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Bolívar,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Bolívar,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Delfín-EQU,Colo-Colo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Delfín-EQU,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Bolívar,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Colo-Colo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Bolívar,Delfín-EQU,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Tucumán,Libertad,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-The Strongest,Peñarol,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad,The Strongest,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Atlético Tucumán,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Libertad,Peñarol,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Tucumán,The Strongest,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Libertad,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Libertad,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Libertad,Atlético Tucumán,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Peñarol,The Strongest,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Flamengo,River Plate,4.0,3.0,1.0,0.0,1.0,3.0,1.0
-Ind. Santa Fe,Emelec,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-River Plate,Ind. Santa Fe,2.0,1.0,1.0,0.0,1.0,1.0,1.0
-Flamengo,Ind. Santa Fe,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Ind. Santa Fe,Flamengo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Ind. Santa Fe,River Plate,0.0,1.0,0.0,1.0,1.0,1.0,4.0
-Emelec,Ind. Santa Fe,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-River Plate,Flamengo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Racing Club,Cruzeiro,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Vasco,Universidad de Chile,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Universidad de Chile,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Cruzeiro,Vasco,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Racing Club,Vasco,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vasco,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Vasco,Cruzeiro,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Racing Club,Universidad de Chile,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad de Chile,Vasco,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Cruzeiro,Racing Club,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Nacional (URU),Estudiantes,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Real Garcilaso,Santos,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes,Real Garcilaso,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Santos,Nacional (URU),3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Real Garcilaso,Nacional (URU),0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Estudiantes,Santos,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Santos,Estudiantes,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Real Garcilaso,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Real Garcilaso,Estudiantes,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Nacional (URU),Santos,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Santos,Real Garcilaso,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Estudiantes,Nacional (URU),3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Deportivo Lara,Independiente,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Deportivo Lara,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente,Millonarios,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Millonarios,Deportivo Lara,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente,Corinthians,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Deportivo Lara,Millonarios,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Corinthians,Independiente,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Deportivo Lara,Corinthians,2.0,7.0,0.0,1.0,0.0,7.0,3.0
-Millonarios,Independiente,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Independiente,Deportivo Lara,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Alianza Lima,Boca Juniors,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Junior de Barranquilla,Palmeiras,0.0,5.0,0.0,2.0,0.0,5.0,6.0
-Palmeiras,Alianza Lima,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Junior de Barranquilla,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Boca Juniors,3.0,3.0,0.0,0.0,2.0,3.0,2.0
-Alianza Lima,Junior de Barranquilla,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Boca Juniors,Palmeiras,2.0,2.0,1.0,1.0,0.0,2.0,3.0
-Junior de Barranquilla,Alianza Lima,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Junior de Barranquilla,Boca Juniors,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Alianza Lima,Palmeiras,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Boca Juniors,Alianza Lima,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Junior de Barranquilla,6.0,1.0,2.0,0.0,0.0,1.0,0.0
-River Plate,Grêmio,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Grêmio,River Plate,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Independiente,River Plate,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-River Plate,Independiente,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Tucumán,Grêmio,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Atlético Tucumán,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Palmeiras,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Palmeiras,Colo-Colo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Cruzeiro,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,Boca Juniors,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Racing Club,River Plate,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-River Plate,Racing Club,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente,Santos,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Santos,Independiente,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Estudiantes,Grêmio,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,Estudiantes,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Tucumán,Atlético Nacional,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Atlético Tucumán,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Corinthians,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Colo-Colo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Palmeiras,0.0,5.0,0.0,2.0,0.0,5.0,6.0
-Palmeiras,Cerro Porteño,5.0,1.0,1.0,1.0,0.0,1.0,3.0
-Flamengo,Cruzeiro,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Cruzeiro,Flamengo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Boca Juniors,Libertad,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad,Boca Juniors,2.0,4.0,0.0,1.0,0.0,4.0,3.0
-Palestino,Internacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Alianza Lima,River Plate,1.0,2.0,0.0,1.0,1.0,2.0,4.0
-Internacional,Alianza Lima,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Palestino,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Palestino,Alianza Lima,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,River Plate,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Internacional,Palestino,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-River Plate,Alianza Lima,11.0,1.0,2.0,0.0,0.0,1.0,0.0
-Palestino,River Plate,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Alianza Lima,Internacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-River Plate,Internacional,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Alianza Lima,Palestino,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Deportivo Lara,Emelec,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Emelec,Huracán,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Cruzeiro,Deportivo Lara,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Lara,Huracán,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Emelec,Cruzeiro,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Emelec,Deportivo Lara,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Deportivo Lara,Cruzeiro,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Huracán,Emelec,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Huracán,Deportivo Lara,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cruzeiro,Emelec,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Godoy Cruz,Olimpia-PAR,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Universidad de Concepción,Sporting Cristal,5.0,4.0,1.0,0.0,0.0,4.0,0.0
-Olimpia-PAR,Universidad de Concepción,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Sporting Cristal,Godoy Cruz,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Universidad de Concepción,Godoy Cruz,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Sporting Cristal,Olimpia-PAR,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Olimpia-PAR,Godoy Cruz,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Sporting Cristal,Universidad de Concepción,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad de Concepción,Olimpia-PAR,3.0,3.0,0.0,0.0,1.0,3.0,1.0
-Godoy Cruz,Sporting Cristal,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Godoy Cruz,Universidad de Concepción,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Sporting Cristal,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-San José,Flamengo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-LDU,Peñarol,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Flamengo,LDU,5.0,3.0,1.0,0.0,1.0,3.0,1.0
-Peñarol,San José,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-San José,LDU,3.0,3.0,0.0,0.0,1.0,3.0,1.0
-Flamengo,Peñarol,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Peñarol,LDU,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Flamengo,San José,6.0,1.0,1.0,0.0,0.0,1.0,0.0
-San José,Peñarol,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-LDU,Flamengo,4.0,4.0,1.0,1.0,0.0,4.0,3.0
-LDU,San José,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Flamengo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Atlético-MG,Cerro Porteño,4.0,1.0,1.0,1.0,0.0,1.0,3.0
-Zamora,Nacional (URU),0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Nacional (URU),Atlético-MG,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,Zamora,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Nacional (URU),1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Zamora,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,Atlético-MG,4.0,2.0,1.0,1.0,0.0,2.0,3.0
-Atlético-MG,Nacional (URU),0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Zamora,Cerro Porteño,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Nacional (URU),Cerro Porteño,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Melgar,San Lorenzo,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Palmeiras,Melgar,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Junior de Barranquilla,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Palmeiras,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Melgar,Junior de Barranquilla,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-San Lorenzo,Melgar,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Junior de Barranquilla,San Lorenzo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Melgar,Palmeiras,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Junior de Barranquilla,Melgar,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Palmeiras,San Lorenzo,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jorge Wilstermann,Boca Juniors,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Deportes Tolima,Athletico,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Deportes Tolima,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Athletico,Jorge Wilstermann,4.0,0.0,1.0,0.0,1.0,0.0,1.0
-Athletico,Boca Juniors,3.0,1.0,1.0,1.0,0.0,1.0,3.0
-Deportes Tolima,Jorge Wilstermann,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Athletico,Deportes Tolima,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Jorge Wilstermann,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jorge Wilstermann,Athletico,5.0,5.0,1.0,1.0,0.0,5.0,3.0
-Deportes Tolima,Boca Juniors,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Boca Juniors,Athletico,4.0,1.0,2.0,0.0,0.0,1.0,0.0
-Jorge Wilstermann,Deportes Tolima,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Libertad,Universidad Católica,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,Libertad,2.0,1.0,1.0,1.0,0.0,1.0,3.0
-Universidad Católica,Rosario Central,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universidad Católica,Grêmio,3.0,0.0,2.0,0.0,0.0,0.0,0.0
-Libertad,Rosario Central,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad Católica,Libertad,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Libertad,Grêmio,0.0,5.0,0.0,2.0,0.0,5.0,6.0
-Rosario Central,Universidad Católica,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Rosario Central,Libertad,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,Universidad Católica,4.0,0.0,2.0,0.0,0.0,0.0,0.0
-San Lorenzo,Cerro Porteño,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Cerro Porteño,San Lorenzo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-LDU,Olimpia-PAR,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,LDU,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Godoy Cruz,Palmeiras,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Palmeiras,Godoy Cruz,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional (URU),Internacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Internacional,Nacional (URU),2.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Cerro Porteño,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-LDU,Boca Juniors,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Boca Juniors,LDU,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Grêmio,Palmeiras,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Palmeiras,Grêmio,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Flamengo,Internacional,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,Flamengo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Grêmio,Flamengo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Flamengo,Grêmio,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Independiente del Valle,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Junior de Barranquilla,Flamengo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Flamengo,Barcelona-EQU,5.0,0.0,2.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Junior de Barranquilla,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Flamengo,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Junior de Barranquilla,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Barcelona-EQU,Flamengo,1.0,4.0,0.0,2.0,0.0,4.0,6.0
-Junior de Barranquilla,Independiente del Valle,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Junior de Barranquilla,Barcelona-EQU,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Flamengo,Independiente del Valle,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Barcelona-EQU,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Flamengo,Junior de Barranquilla,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Guaraní-PAR,Bolívar,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Bolívar,Tigre,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Guaraní-PAR,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Bolívar,Palmeiras,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Guaraní-PAR,Tigre,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Tigre,Bolívar,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Guaraní-PAR,Palmeiras,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Palmeiras,Bolívar,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tigre,Guaraní-PAR,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Bolívar,Guaraní-PAR,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Athletico,Peñarol,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jorge Wilstermann,Colo-Colo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Athletico,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Peñarol,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Athletico,Colo-Colo,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Colo-Colo,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Athletico,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Colo-Colo,Jorge Wilstermann,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-LDU,River Plate,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Binacional,São Paulo,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-River Plate,Binacional,8.0,0.0,1.0,0.0,0.0,0.0,0.0
-São Paulo,LDU,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Binacional,LDU,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-LDU,São Paulo,4.0,2.0,1.0,0.0,0.0,2.0,0.0
-Binacional,River Plate,0.0,6.0,0.0,1.0,0.0,6.0,3.0
-LDU,Binacional,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,LDU,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-São Paulo,Binacional,5.0,1.0,1.0,0.0,0.0,1.0,0.0
-Internacional,Universidad Católica,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-América de Cali,Grêmio,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad Católica,América de Cali,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Internacional,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Internacional,América de Cali,4.0,3.0,1.0,0.0,0.0,3.0,0.0
-América de Cali,Universidad Católica,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Internacional,Grêmio,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-América de Cali,Internacional,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Universidad Católica,Internacional,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Grêmio,América de Cali,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Estudiantes de Mérida,Racing Club,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Alianza Lima,Nacional-URU,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Nacional-URU,Estudiantes de Mérida,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Racing Club,Alianza Lima,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes de Mérida,Alianza Lima,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Racing Club,Nacional-URU,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Estudiantes de Mérida,Nacional-URU,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Alianza Lima,Racing Club,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Nacional-URU,Racing Club,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Alianza Lima,Estudiantes de Mérida,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Nacional-URU,Alianza Lima,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Racing Club,Estudiantes de Mérida,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Defensa y Justicia,Santos,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Delfín,Olimpia-PAR,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Santos,Delfín,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Defensa y Justicia,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Santos,Olimpia-PAR,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Defensa y Justicia,Delfín,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensa y Justicia,Olimpia-PAR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Delfín,Santos,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Olimpia-PAR,Santos,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Delfín,Defensa y Justicia,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Delfín,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Santos,Defensa y Justicia,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Independiente Medellín,Libertad-PAR,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Caracas,Boca Juniors,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Boca Juniors,Independiente Medellín,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad-PAR,Caracas,5.0,3.0,2.0,0.0,0.0,3.0,0.0
-Independiente Medellín,Caracas,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Libertad-PAR,Boca Juniors,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Caracas,Libertad-PAR,3.0,1.0,2.0,0.0,0.0,1.0,0.0
-Independiente Medellín,Boca Juniors,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Boca Juniors,Libertad-PAR,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Caracas,Independiente Medellín,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Libertad-PAR,Independiente Medellín,2.0,4.0,0.0,1.0,0.0,4.0,3.0
-Boca Juniors,Caracas,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Guaraní-PAR,Grêmio,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Grêmio,Guaraní-PAR,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-LDU,Santos,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Santos,LDU,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Racing Club,Flamengo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Flamengo,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Internacional,Boca Juniors,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Boca Juniors,Internacional,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Independiente del Valle,Nacional-URU,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Nacional-URU,Independiente del Valle,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Athletico,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-River Plate,Athletico,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad-PAR,Jorge Wilstermann,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Jorge Wilstermann,Libertad-PAR,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Delfín,Palmeiras,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Palmeiras,Delfín,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Grêmio,Santos,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Santos,Grêmio,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-River Plate,Nacional-URU,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional-URU,River Plate,2.0,6.0,0.0,1.0,0.0,6.0,3.0
-Libertad-PAR,Palmeiras,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Libertad-PAR,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Santos,2.0,0.0,1.0,0.0,1.0,0.0,1.0
-Santos,Boca Juniors,4.0,0.0,2.0,0.0,0.0,0.0,0.0
-River Plate,Palmeiras,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Palmeiras,River Plate,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Palmeiras,Santos,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universitario-PER,Palmeiras,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Independiente del Valle,Defensa y Justicia,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Independiente del Valle,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensa y Justicia,Universitario-PER,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensa y Justicia,Palmeiras,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Independiente del Valle,Universitario-PER,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Independiente del Valle,Palmeiras,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Universitario-PER,Defensa y Justicia,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Defensa y Justicia,3.0,4.0,0.0,1.0,0.0,4.0,3.0
-Universitario-PER,Independiente del Valle,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Palmeiras,Universitario-PER,6.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensa y Justicia,Independiente del Valle,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Always Ready,Internacional,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Internacional,Deportivo Táchira,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Always Ready,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Internacional,Olimpia-PAR,6.0,1.0,1.0,0.0,1.0,1.0,1.0
-Always Ready,Deportivo Táchira,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Táchira,Internacional,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Always Ready,Olimpia-PAR,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Deportivo Táchira,Always Ready,7.0,2.0,1.0,0.0,0.0,2.0,0.0
-Olimpia-PAR,Internacional,0.0,1.0,0.0,1.0,1.0,1.0,4.0
-Internacional,Always Ready,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-The Strongest,Boca Juniors,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Barcelona-EQU,The Strongest,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-The Strongest,Barcelona-EQU,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,The Strongest,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Fluminense,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Junior de Barranquilla,Ind. Santa Fe,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-River Plate,Junior de Barranquilla,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Ind. Santa Fe,Fluminense,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Junior de Barranquilla,Fluminense,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Junior de Barranquilla,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Fluminense,Ind. Santa Fe,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Fluminense,Junior de Barranquilla,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-River Plate,Fluminense,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Ind. Santa Fe,Junior de Barranquilla,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Sporting Cristal,São Paulo,0.0,3.0,0.0,1.0,0.0,3.0,3.0
-Rentistas ,Racing Club,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-São Paulo,Rentistas ,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Racing Club,São Paulo,1.0,3.0,0.0,1.0,1.0,3.0,4.0
-Rentistas ,Sporting Cristal,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Rentistas ,São Paulo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-São Paulo,Racing Club,1.0,2.0,0.0,1.0,1.0,2.0,4.0
-Sporting Cristal,Rentistas ,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-São Paulo,Sporting Cristal,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Racing Club,Rentistas ,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Argentinos Juniors,Nacional-URU,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético Nacional,Universidad Católica,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional-URU,Atlético Nacional,4.0,4.0,0.0,0.0,1.0,4.0,1.0
-Universidad Católica,Argentinos Juniors,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad Católica,Nacional-URU,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético Nacional,Argentinos Juniors,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Argentinos Juniors,Universidad Católica,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético Nacional,Nacional-URU,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Nacional-URU,Universidad Católica,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Argentinos Juniors,Atlético Nacional,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Nacional-URU,Argentinos Juniors,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad Católica,Atlético Nacional,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Flamengo,2.0,7.0,0.0,2.0,0.0,7.0,6.0
-Unión La Calera,LDU,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Flamengo,Unión La Calera,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-LDU,Vélez Sarsfield,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Unión La Calera,Vélez Sarsfield,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Unión La Calera,Flamengo,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Vélez Sarsfield,LDU,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Vélez Sarsfield,Unión La Calera,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Flamengo,Vélez Sarsfield,2.0,1.0,1.0,0.0,1.0,1.0,1.0
-LDU,Unión La Calera,5.0,2.0,1.0,0.0,0.0,2.0,0.0
-La Guaira,Atlético-MG,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-América de Cali,Cerro Porteño,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético-MG,América de Cali,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,La Guaira,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-La Guaira,América de Cali,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-La Guaira,Cerro Porteño,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-América de Cali,Atlético-MG,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-América de Cali,La Guaira,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Atlético-MG,La Guaira,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Cerro Porteño,América de Cali,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Defensa y Justicia,Flamengo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Flamengo,Defensa y Justicia,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Vélez Sarsfield,Barcelona-EQU,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Barcelona-EQU,Vélez Sarsfield,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Fluminense,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Fluminense,Cerro Porteño,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Atlético-MG,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Atlético-MG,Boca Juniors,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-River Plate,Argentinos Juniors,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Argentinos Juniors,River Plate,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Universidad Católica,Palmeiras,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Palmeiras,Universidad Católica,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Flamengo,1.0,4.0,0.0,1.0,0.0,4.0,3.0
-Flamengo,Olimpia-PAR,5.0,1.0,1.0,0.0,0.0,1.0,0.0
-Fluminense,Barcelona-EQU,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Barcelona-EQU,Fluminense,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-River Plate,Atlético-MG,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Atlético-MG,River Plate,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-São Paulo,Palmeiras,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,São Paulo,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Atlético-MG,0.0,0.0,0.0,0.0,2.0,0.0,2.0
-Atlético-MG,Palmeiras,3.0,3.0,0.0,0.0,2.0,3.0,2.0
-Deportivo Táchira,Palmeiras,0.0,4.0,0.0,1.0,0.0,4.0,3.0
-Independiente Petrolero,Emelec,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Palmeiras,Independiente Petrolero,8.0,1.0,1.0,0.0,0.0,1.0,0.0
-Independiente Petrolero,Deportivo Táchira,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Emelec,Palmeiras,1.0,3.0,0.0,1.0,0.0,3.0,3.0
-Independiente Petrolero,Palmeiras,0.0,5.0,0.0,1.0,0.0,5.0,3.0
-Palmeiras,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Deportivo Táchira,Independiente Petrolero,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Deportivo Táchira,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Emelec,Independiente Petrolero,7.0,0.0,1.0,0.0,0.0,0.0,0.0
-Caracas,Athletico,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-The Strongest,Libertad-PAR,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Athletico,The Strongest,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Libertad-PAR,Athletico,2.0,1.0,1.0,0.0,1.0,1.0,1.0
-The Strongest,Caracas,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-The Strongest,Athletico,5.0,0.0,1.0,0.0,0.0,0.0,0.0
-Caracas,The Strongest,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Athletico,Libertad-PAR,4.0,1.0,2.0,0.0,0.0,1.0,0.0
-Libertad-PAR,The Strongest,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Athletico,Caracas,5.0,1.0,1.0,0.0,0.0,1.0,0.0
-Red Bull Bragantino,Nacional-URU,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes,Vélez Sarsfield,4.0,1.0,1.0,0.0,0.0,1.0,0.0
-Nacional-URU,Estudiantes,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Vélez Sarsfield,Red Bull Bragantino,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Vélez Sarsfield,Nacional-URU,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Estudiantes,Red Bull Bragantino,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Estudiantes,Nacional-URU,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Red Bull Bragantino,Vélez Sarsfield,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Red Bull Bragantino,Estudiantes,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Nacional-URU,Vélez Sarsfield,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-Nacional-URU,Red Bull Bragantino,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Estudiantes,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-América-MG,Independiente del Valle,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Tolima,Atlético-MG,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Atlético-MG,América-MG,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Independiente del Valle,Tolima,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-América-MG,Tolima,2.0,3.0,0.0,1.0,0.0,3.0,3.0
-América-MG,Atlético-MG,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Tolima,Independiente del Valle,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tolima,América-MG,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Independiente del Valle,América-MG,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Atlético-MG,Tolima,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Always Ready,Corinthians,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Boca Juniors,Always Ready,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Deportivo Cali,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Always Ready,Deportivo Cali,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Always Ready,Boca Juniors,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Deportivo Cali,Corinthians,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Deportivo Cali,Always Ready,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Corinthians,Always Ready,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Fortaleza,Colo-Colo,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Colo-Colo,Alianza Lima,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-River Plate,Fortaleza,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-Fortaleza,Alianza Lima,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Colo-Colo,River Plate,1.0,2.0,0.0,1.0,0.0,2.0,3.0
-Fortaleza,River Plate,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Alianza Lima,Colo-Colo,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Alianza Lima,Fortaleza,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-River Plate,Colo-Colo,4.0,0.0,1.0,0.0,0.0,0.0,0.0
-Colo-Colo,Fortaleza,3.0,4.0,0.0,1.0,0.0,4.0,3.0
-Olimpia-PAR,Cerro Porteño,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Colón,Peñarol,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Colón,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Peñarol,Olimpia-PAR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Peñarol,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Olimpia-PAR,Colón,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Colón,Cerro Porteño,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Olimpia-PAR,Peñarol,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Peñarol,Cerro Porteño,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Colón,Olimpia-PAR,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Peñarol,Colón,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Cerro Porteño,Olimpia-PAR,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Sporting Cristal,Flamengo,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Talleres,Universidad Católica,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Universidad Católica,Sporting Cristal,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Flamengo,Talleres,3.0,1.0,1.0,0.0,0.0,1.0,0.0
-Talleres,Sporting Cristal,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Talleres,Flamengo,2.0,2.0,0.0,0.0,1.0,2.0,1.0
-Sporting Cristal,Universidad Católica,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Sporting Cristal,Talleres,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Flamengo,Sporting Cristal,2.0,1.0,1.0,0.0,0.0,1.0,0.0
-Universidad Católica,Talleres,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Fortaleza,Estudiantes,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Estudiantes,Fortaleza,3.0,0.0,1.0,0.0,0.0,0.0,0.0
-Emelec,Atlético-MG,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Atlético-MG,Emelec,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tolima,Flamengo,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Flamengo,Tolima,7.0,1.0,1.0,0.0,0.0,1.0,0.0
-Talleres,Colón,1.0,1.0,0.0,0.0,1.0,1.0,1.0
-Colón,Talleres,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Vélez Sarsfield,River Plate,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-River Plate,Vélez Sarsfield,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Athletico,Estudiantes,0.0,0.0,0.0,0.0,1.0,0.0,1.0
-Estudiantes,Athletico,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Corinthians,Flamengo,0.0,2.0,0.0,1.0,0.0,2.0,3.0
-Flamengo,Corinthians,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Vélez Sarsfield,Talleres,3.0,2.0,1.0,0.0,0.0,2.0,0.0
-Talleres,Vélez Sarsfield,0.0,1.0,0.0,1.0,0.0,1.0,3.0
-Athletico,Palmeiras,1.0,0.0,1.0,0.0,0.0,0.0,0.0
-Palmeiras,Athletico,2.0,2.0,0.0,0.0,1.0,2.0,1.0
+home,away,weight1,weight2
+Nacional (URU),Barcelona-EQU,3.0,4.0
+Boca Juniors,Toluca,5.0,6.0
+Toluca,Nacional (URU),7.0,6.0
+Barcelona-EQU,Boca Juniors,3.0,7.0
+Toluca,Barcelona-EQU,1.0,2.0
+Boca Juniors,Nacional (URU),3.0,5.0
+Barcelona-EQU,Toluca,1.0,2.0
+Nacional (URU),Boca Juniors,3.0,5.0
+Boca Juniors,Barcelona-EQU,2.0,4.0
+Nacional (URU),Toluca,2.0,0.0
+Barcelona-EQU,Nacional (URU),2.0,1.0
+Toluca,Boca Juniors,3.0,0.0
+Palmeiras,Sporting Cristal,2.0,3.0
+Tigre,Libertad,5.0,3.0
+Sporting Cristal,Tigre,3.0,3.0
+Libertad,Palmeiras,1.0,3.0
+Libertad,Sporting Cristal,3.0,2.0
+Tigre,Palmeiras,9.0,9.0
+Sporting Cristal,Libertad,3.0,2.0
+Palmeiras,Tigre,1.0,3.0
+Tigre,Sporting Cristal,3.0,3.0
+Palmeiras,Libertad,2.0,3.0
+Libertad,Tigre,5.0,3.0
+Sporting Cristal,Palmeiras,2.0,3.0
+Atlético-MG,São Paulo,7.0,6.0
+The Strongest,Arsenal Sarandí,3.0,3.0
+Arsenal Sarandí,Atlético-MG,10.0,6.0
+São Paulo,The Strongest,5.0,7.0
+São Paulo,Arsenal Sarandí,3.0,4.0
+Atlético-MG,The Strongest,2.0,0.0
+The Strongest,Atlético-MG,4.0,6.0
+Arsenal Sarandí,São Paulo,2.0,1.0
+Atlético-MG,Arsenal Sarandí,4.0,0.0
+The Strongest,São Paulo,4.0,4.0
+Arsenal Sarandí,The Strongest,3.0,3.0
+São Paulo,Atlético-MG,10.0,12.0
+Emelec,Vélez Sarsfield,0.0,1.0
+Deportes Iquique,Peñarol,5.0,6.0
+Peñarol,Emelec,2.0,3.0
+Vélez Sarsfield,Deportes Iquique,1.0,0.0
+Peñarol,Vélez Sarsfield,4.0,6.0
+Deportes Iquique,Emelec,2.0,3.0
+Emelec,Deportes Iquique,3.0,3.0
+Vélez Sarsfield,Peñarol,1.0,0.0
+Deportes Iquique,Vélez Sarsfield,6.0,6.0
+Emelec,Peñarol,1.0,3.0
+Peñarol,Deportes Iquique,1.0,0.0
+Vélez Sarsfield,Emelec,1.0,4.0
+Millonarios,Tijuana,2.0,6.0
+San José,Corinthians,4.0,4.0
+Tijuana,San José,1.0,1.0
+Corinthians,Millonarios,1.0,4.0
+Millonarios,San José,3.0,3.0
+Tijuana,Corinthians,3.0,3.0
+Corinthians,Tijuana,1.0,3.0
+San José,Millonarios,2.0,3.0
+San José,Tijuana,5.0,4.0
+Millonarios,Corinthians,3.0,7.0
+Corinthians,San José,1.0,1.0
+Tijuana,Millonarios,0.0,0.0
+Real Atlético,Ind. Santa Fe,8.0,10.0
+Deportes Tolima,Cerro Porteño,1.0,1.0
+Cerro Porteño,Real Atlético,6.0,6.0
+Ind. Santa Fe,Deportes Tolima,2.0,1.0
+Deportes Tolima,Real Atlético,1.0,3.0
+Cerro Porteño,Ind. Santa Fe,3.0,7.0
+Real Atlético,Deportes Tolima,3.0,3.0
+Ind. Santa Fe,Cerro Porteño,2.0,4.0
+Deportes Tolima,Ind. Santa Fe,3.0,4.0
+Real Atlético,Cerro Porteño,1.0,0.0
+Cerro Porteño,Deportes Tolima,2.0,4.0
+Ind. Santa Fe,Real Atlético,2.0,1.0
+Universidad de Chile,Deportivo Lara,2.0,0.0
+Newells Old Boys,Olimpia-PAR,5.0,3.0
+Olimpia-PAR,Universidad de Chile,0.0,0.0
+Deportivo Lara,Newells Old Boys,4.0,3.0
+Olimpia-PAR,Deportivo Lara,3.0,1.0
+Newells Old Boys,Universidad de Chile,2.0,3.0
+Universidad de Chile,Newells Old Boys,3.0,3.0
+Deportivo Lara,Olimpia-PAR,7.0,4.0
+Newells Old Boys,Deportivo Lara,3.0,3.0
+Universidad de Chile,Olimpia-PAR,4.0,6.0
+Deportivo Lara,Universidad de Chile,5.0,6.0
+Olimpia-PAR,Newells Old Boys,4.0,3.0
+Caracas,Fluminense,2.0,6.0
+Grêmio,Huachipato,3.0,4.0
+Huachipato,Caracas,3.0,3.0
+Fluminense,Grêmio,3.0,4.0
+Huachipato,Fluminense,3.0,4.0
+Grêmio,Caracas,3.0,3.0
+Fluminense,Huachipato,2.0,1.0
+Caracas,Grêmio,5.0,3.0
+Caracas,Huachipato,5.0,3.0
+Grêmio,Fluminense,0.0,1.0
+Huachipato,Grêmio,2.0,1.0
+Fluminense,Caracas,0.0,0.0
+Olimpia-PAR,Atlético-MG,2.0,3.0
+Atlético-MG,Olimpia-PAR,2.0,3.0
+Newells Old Boys,Atlético-MG,2.0,3.0
+Atlético-MG,Newells Old Boys,2.0,3.0
+Olimpia-PAR,Ind. Santa Fe,1.0,3.0
+Ind. Santa Fe,Olimpia-PAR,2.0,3.0
+Tijuana,Atlético-MG,3.0,2.0
+Atlético-MG,Tijuana,3.0,2.0
+Boca Juniors,Newells Old Boys,0.0,2.0
+Newells Old Boys,Boca Juniors,0.0,2.0
+Fluminense,Olimpia-PAR,4.0,7.0
+Olimpia-PAR,Fluminense,3.0,1.0
+Tijuana,Palmeiras,2.0,4.0
+Palmeiras,Tijuana,2.0,4.0
+Boca Juniors,Corinthians,9.0,11.0
+Corinthians,Boca Juniors,5.0,8.0
+Newells Old Boys,Vélez Sarsfield,2.0,3.0
+Vélez Sarsfield,Newells Old Boys,2.0,4.0
+Grêmio,Ind. Santa Fe,4.0,5.0
+Ind. Santa Fe,Grêmio,2.0,5.0
+Real Atlético,Nacional (URU),1.0,0.0
+Nacional (URU),Real Atlético,0.0,0.0
+Tigre,Olimpia-PAR,2.0,3.0
+Olimpia-PAR,Tigre,2.0,3.0
+Emelec,Fluminense,2.0,3.0
+Fluminense,Emelec,1.0,3.0
+Universitario (PER),Vélez Sarsfield,3.0,6.0
+Atlético-PR,The Strongest,2.0,3.0
+The Strongest,Universitario (PER),2.0,3.0
+Vélez Sarsfield,Atlético-PR,2.0,3.0
+The Strongest,Vélez Sarsfield,1.0,3.0
+Universitario (PER),Atlético-PR,3.0,6.0
+Vélez Sarsfield,The Strongest,3.0,1.0
+Atlético-PR,Universitario (PER),1.0,0.0
+Atlético-PR,Vélez Sarsfield,5.0,6.0
+Universitario (PER),The Strongest,6.0,4.0
+Vélez Sarsfield,Universitario (PER),2.0,3.0
+The Strongest,Atlético-PR,1.0,0.0
+Botafogo,San Lorenzo,2.0,3.0
+Independiente Del Valle,Unión Española,3.0,4.0
+Unión Española,Botafogo,1.0,1.0
+San Lorenzo,Independiente Del Valle,1.0,3.0
+Independiente Del Valle,Botafogo,4.0,3.0
+San Lorenzo,Unión Española,5.0,1.0
+Botafogo,Independiente Del Valle,0.0,0.0
+Unión Española,San Lorenzo,1.0,1.0
+Independiente Del Valle,San Lorenzo,2.0,4.0
+Botafogo,Unión Española,2.0,6.0
+Unión Española,Independiente Del Valle,7.0,6.0
+San Lorenzo,Botafogo,1.0,1.0
+Deportivo Cali,Cerro Porteño,1.0,3.0
+Lanús,O'Higgins,1.0,2.0
+O'Higgins,Deportivo Cali,2.0,1.0
+Cerro Porteño,Lanús,3.0,3.0
+O'Higgins,Cerro Porteño,5.0,4.0
+Deportivo Cali,Lanús,1.0,1.0
+Lanús,Deportivo Cali,1.0,1.0
+Cerro Porteño,O'Higgins,3.0,3.0
+Deportivo Cali,O'Higgins,3.0,4.0
+Lanús,Cerro Porteño,2.0,3.0
+Cerro Porteño,Deportivo Cali,4.0,3.0
+O'Higgins,Lanús,2.0,2.0
+Zamora,Atlético-MG,4.0,9.0
+Ind. Santa Fe,Nacional (PAR),4.0,3.0
+Nacional (PAR),Zamora,1.0,3.0
+Atlético-MG,Ind. Santa Fe,1.0,1.0
+Nacional (PAR),Atlético-MG,6.0,7.0
+Zamora,Ind. Santa Fe,4.0,3.0
+Ind. Santa Fe,Zamora,4.0,4.0
+Atlético-MG,Nacional (PAR),2.0,2.0
+Zamora,Nacional (PAR),1.0,1.0
+Ind. Santa Fe,Atlético-MG,4.0,5.0
+Atlético-MG,Zamora,4.0,3.0
+Nacional (PAR),Ind. Santa Fe,4.0,1.0
+Real Garcilaso,Cruzeiro,2.0,3.0
+Universidad de Chile,Defensor Sporting,4.0,6.0
+Defensor Sporting,Real Garcilaso,2.0,0.0
+Cruzeiro,Universidad de Chile,4.0,3.0
+Defensor Sporting,Cruzeiro,3.0,3.0
+Real Garcilaso,Universidad de Chile,3.0,4.0
+Universidad de Chile,Real Garcilaso,0.0,0.0
+Cruzeiro,Defensor Sporting,2.0,2.0
+Real Garcilaso,Defensor Sporting,4.0,4.0
+Universidad de Chile,Cruzeiro,3.0,7.0
+Cruzeiro,Real Garcilaso,1.0,0.0
+Defensor Sporting,Universidad de Chile,3.0,4.0
+Nacional (URU),Grêmio,5.0,6.0
+Atlético Nacional,Newells Old Boys,12.0,6.0
+Grêmio,Atlético Nacional,2.0,3.0
+Newells Old Boys,Nacional (URU),1.0,3.0
+Atlético Nacional,Nacional (URU),3.0,4.0
+Grêmio,Newells Old Boys,1.0,1.0
+Nacional (URU),Atlético Nacional,1.0,3.0
+Newells Old Boys,Grêmio,3.0,1.0
+Nacional (URU),Newells Old Boys,4.0,3.0
+Atlético Nacional,Grêmio,3.0,4.0
+Newells Old Boys,Atlético Nacional,5.0,4.0
+Grêmio,Nacional (URU),0.0,1.0
+León,Flamengo,5.0,3.0
+Emelec,Bolívar,4.0,3.0
+Bolívar,León,3.0,5.0
+Flamengo,Emelec,1.0,0.0
+Emelec,León,3.0,0.0
+Flamengo,Bolívar,4.0,4.0
+Bolívar,Flamengo,2.0,1.0
+León,Emelec,4.0,3.0
+León,Bolívar,6.0,7.0
+Emelec,Flamengo,5.0,9.0
+Flamengo,León,5.0,4.0
+Bolívar,Emelec,3.0,3.0
+Santos Laguna,Arsenal Sarandí,2.0,2.0
+Deportivo Anzoátegui,Peñarol,8.0,10.0
+Peñarol,Santos Laguna,4.0,6.0
+Arsenal Sarandí,Deportivo Anzoátegui,2.0,3.0
+Deportivo Anzoátegui,Santos Laguna,4.0,4.0
+Arsenal Sarandí,Peñarol,1.0,1.0
+Santos Laguna,Deportivo Anzoátegui,4.0,3.0
+Peñarol,Arsenal Sarandí,2.0,0.0
+Santos Laguna,Peñarol,4.0,3.0
+Deportivo Anzoátegui,Arsenal Sarandí,5.0,6.0
+Peñarol,Deportivo Anzoátegui,2.0,2.0
+Arsenal Sarandí,Santos Laguna,1.0,3.0
+Nacional (PAR),San Lorenzo,1.0,1.0
+San Lorenzo,Nacional (PAR),3.0,3.0
+Nacional (PAR),Defensor Sporting,1.0,1.0
+Defensor Sporting,Nacional (PAR),1.0,3.0
+San Lorenzo,Bolívar,1.0,3.0
+Bolívar,San Lorenzo,1.0,1.0
+Nacional (PAR),Arsenal Sarandí,1.0,3.0
+Arsenal Sarandí,Nacional (PAR),2.0,4.0
+Atlético Nacional,Defensor Sporting,3.0,6.0
+Defensor Sporting,Atlético Nacional,5.0,3.0
+San Lorenzo,Cruzeiro,0.0,1.0
+Cruzeiro,San Lorenzo,2.0,4.0
+Lanús,Bolívar,2.0,4.0
+Bolívar,Lanús,0.0,0.0
+Nacional (PAR),Vélez Sarsfield,1.0,1.0
+Vélez Sarsfield,Nacional (PAR),3.0,4.0
+Arsenal Sarandí,Unión Española,1.0,4.0
+Unión Española,Arsenal Sarandí,2.0,4.0
+Atlético Nacional,Atlético-MG,2.0,1.0
+Atlético-MG,Atlético Nacional,2.0,4.0
+The Strongest,Defensor Sporting,0.0,0.0
+Defensor Sporting,The Strongest,0.0,1.0
+San Lorenzo,Grêmio,2.0,2.0
+Grêmio,San Lorenzo,2.0,4.0
+Cruzeiro,Cerro Porteño,3.0,4.0
+Cerro Porteño,Cruzeiro,4.0,6.0
+Lanús,Santos Laguna,3.0,4.0
+Santos Laguna,Lanús,4.0,7.0
+Atlas,Ind. Santa Fe,1.0,3.0
+Colo-Colo,Atlético-MG,1.0,2.0
+Atlético-MG,Atlas,1.0,3.0
+Ind. Santa Fe,Colo-Colo,3.0,3.0
+Colo-Colo,Atlas,2.0,2.0
+Atlas,Colo-Colo,5.0,4.0
+Atlas,Atlético-MG,3.0,3.0
+Colo-Colo,Ind. Santa Fe,8.0,9.0
+Atlético-MG,Colo-Colo,1.0,3.0
+Ind. Santa Fe,Atlas,1.0,0.0
+Corinthians,São Paulo,1.0,0.0
+Danubio,San Lorenzo,6.0,9.0
+São Paulo,Danubio,2.0,3.0
+San Lorenzo,Corinthians,2.0,4.0
+Danubio,Corinthians,2.0,3.0
+São Paulo,San Lorenzo,3.0,3.0
+San Lorenzo,São Paulo,2.0,4.0
+Corinthians,Danubio,0.0,0.0
+Danubio,São Paulo,4.0,6.0
+Corinthians,San Lorenzo,0.0,1.0
+San Lorenzo,Danubio,2.0,3.0
+São Paulo,Corinthians,0.0,1.0
+Huracán,Mineros de Guaiana,6.0,4.0
+Universitario de Sucre,Cruzeiro,1.0,4.0
+Mineros de Guaiana,Universitario de Sucre,2.0,6.0
+Cruzeiro,Huracán,1.0,1.0
+Universitario de Sucre,Huracán,4.0,4.0
+Mineros de Guaiana,Cruzeiro,2.0,3.0
+Huracán,Universitario de Sucre,2.0,1.0
+Cruzeiro,Mineros de Guaiana,2.0,3.0
+Huracán,Cruzeiro,5.0,6.0
+Universitario de Sucre,Mineros de Guaiana,2.0,3.0
+Cruzeiro,Universitario de Sucre,2.0,3.0
+Mineros de Guaiana,Huracán,3.0,3.0
+Universidad de Chile,Emelec,2.0,4.0
+The Strongest,Internacional,4.0,3.0
+Emelec,The Strongest,0.0,1.0
+Internacional,Universidad de Chile,1.0,0.0
+Internacional,Emelec,6.0,4.0
+Universidad de Chile,The Strongest,1.0,0.0
+The Strongest,Universidad de Chile,3.0,1.0
+Emelec,Internacional,3.0,2.0
+The Strongest,Emelec,2.0,3.0
+Universidad de Chile,Internacional,5.0,6.0
+Emelec,Universidad de Chile,1.0,3.0
+Internacional,The Strongest,0.0,0.0
+Montevideo Wanderers,Zamora,3.0,1.0
+Palestino,Boca Juniors,7.0,6.0
+Boca Juniors,Montevideo Wanderers,4.0,3.0
+Zamora,Palestino,4.0,6.0
+Montevideo Wanderers,Palestino,3.0,3.0
+Boca Juniors,Zamora,3.0,3.0
+Zamora,Boca Juniors,5.0,3.0
+Palestino,Montevideo Wanderers,4.0,4.0
+Palestino,Zamora,0.0,0.0
+Montevideo Wanderers,Boca Juniors,5.0,6.0
+Zamora,Montevideo Wanderers,3.0,3.0
+Boca Juniors,Palestino,4.0,3.0
+Tigres,Juan Aurich,1.0,1.0
+San José,River Plate,1.0,0.0
+River Plate,Tigres,6.0,4.0
+Juan Aurich,San José,1.0,3.0
+San José,Tigres,1.0,3.0
+Juan Aurich,River Plate,3.0,4.0
+Tigres,San José,3.0,3.0
+River Plate,Juan Aurich,1.0,1.0
+San José,Juan Aurich,5.0,1.0
+Tigres,River Plate,5.0,5.0
+River Plate,San José,2.0,2.0
+Juan Aurich,Tigres,6.0,4.0
+Libertad,Atlético Nacional,6.0,4.0
+Estudiantes,Barcelona-EQU,3.0,4.0
+Barcelona-EQU,Libertad,1.0,3.0
+Atlético Nacional,Estudiantes,3.0,2.0
+Barcelona-EQU,Atlético Nacional,5.0,6.0
+Libertad,Estudiantes,4.0,4.0
+Estudiantes,Libertad,2.0,3.0
+Atlético Nacional,Barcelona-EQU,7.0,6.0
+Estudiantes,Atlético Nacional,5.0,6.0
+Libertad,Barcelona-EQU,1.0,1.0
+Atlético Nacional,Libertad,1.0,1.0
+Barcelona-EQU,Estudiantes,6.0,9.0
+Deportivo Táchira,Racing Club,10.0,6.0
+Guaraní (PAR),Sporting Cristal,3.0,4.0
+Racing Club,Guaraní (PAR),2.0,4.0
+Sporting Cristal,Deportivo Táchira,4.0,4.0
+Racing Club,Sporting Cristal,8.0,7.0
+Guaraní (PAR),Deportivo Táchira,2.0,0.0
+Sporting Cristal,Racing Club,6.0,7.0
+Deportivo Táchira,Guaraní (PAR),4.0,4.0
+Guaraní (PAR),Racing Club,3.0,3.0
+Deportivo Táchira,Sporting Cristal,1.0,2.0
+Sporting Cristal,Guaraní (PAR),4.0,7.0
+Racing Club,Deportivo Táchira,2.0,1.0
+River Plate,Guaraní (PAR),1.0,1.0
+Guaraní (PAR),River Plate,4.0,5.0
+Internacional,Tigres,4.0,3.0
+Tigres,Internacional,6.0,3.0
+River Plate,Cruzeiro,5.0,8.0
+Cruzeiro,River Plate,4.0,5.0
+Emelec,Tigres,2.0,1.0
+Tigres,Emelec,0.0,0.0
+Ind. Santa Fe,Internacional,4.0,4.0
+Internacional,Ind. Santa Fe,2.0,2.0
+River Plate,Boca Juniors,2.0,1.0
+Boca Juniors,River Plate,5.0,5.0
+São Paulo,Cruzeiro,3.0,3.0
+Cruzeiro,São Paulo,2.0,3.0
+Guaraní (PAR),Corinthians,0.0,1.0
+Corinthians,Guaraní (PAR),1.0,4.0
+Montevideo Wanderers,Racing Club,5.0,5.0
+Racing Club,Montevideo Wanderers,4.0,6.0
+Universitario de Sucre,Tigres,4.0,6.0
+Tigres,Universitario de Sucre,2.0,4.0
+Emelec,Atlético Nacional,2.0,3.0
+Atlético Nacional,Emelec,1.0,3.0
+Atlético-MG,Internacional,5.0,5.0
+Internacional,Atlético-MG,7.0,9.0
+Estudiantes,Ind. Santa Fe,2.0,3.0
+Ind. Santa Fe,Estudiantes,1.0,3.0
+Trujillanos (VEN),River Plate,4.0,3.0
+The Strongest,Trujillanos (VEN),3.0,3.0
+River Plate,São Paulo,4.0,4.0
+The Strongest,River Plate,2.0,2.0
+Trujillanos (VEN),São Paulo,2.0,2.0
+São Paulo,Trujillanos (VEN),1.0,0.0
+River Plate,The Strongest,1.0,3.0
+Trujillanos (VEN),The Strongest,3.0,3.0
+São Paulo,River Plate,6.0,4.0
+River Plate,Trujillanos (VEN),5.0,1.0
+River Plate-URU,Palmeiras,4.0,4.0
+Rosario Central,Nacional (URU),3.0,4.0
+Nacional (URU),River Plate-URU,3.0,5.0
+Palmeiras,Rosario Central,4.0,3.0
+Rosario Central,River Plate-URU,3.0,3.0
+Palmeiras,Nacional (URU),6.0,7.0
+River Plate-URU,Rosario Central,9.0,6.0
+Nacional (URU),Palmeiras,6.0,3.0
+Rosario Central,Palmeiras,4.0,2.0
+River Plate-URU,Nacional (URU),3.0,2.0
+Nacional (URU),Rosario Central,4.0,6.0
+Palmeiras,River Plate-URU,3.0,4.0
+Racing Club,Bolívar,1.0,0.0
+Deportivo Cali,Boca Juniors,2.0,4.0
+Boca Juniors,Racing Club,4.0,4.0
+Bolívar,Deportivo Cali,0.0,0.0
+Bolívar,Boca Juniors,3.0,2.0
+Deportivo Cali,Racing Club,5.0,2.0
+Boca Juniors,Bolívar,2.0,0.0
+Racing Club,Deportivo Cali,3.0,3.0
+Racing Club,Boca Juniors,5.0,6.0
+Deportivo Cali,Bolívar,2.0,1.0
+Boca Juniors,Deportivo Cali,4.0,3.0
+Bolívar,Racing Club,1.0,2.0
+Sporting Cristal,Peñarol,2.0,2.0
+Huracán,Atlético Nacional,4.0,5.0
+Peñarol,Huracán,2.0,4.0
+Atlético Nacional,Sporting Cristal,7.0,6.0
+Atlético Nacional,Peñarol,1.0,3.0
+Sporting Cristal,Huracán,3.0,1.0
+Peñarol,Atlético Nacional,7.0,6.0
+Huracán,Sporting Cristal,6.0,3.0
+Huracán,Peñarol,1.0,2.0
+Sporting Cristal,Atlético Nacional,3.0,4.0
+Peñarol,Sporting Cristal,5.0,4.0
+Atlético Nacional,Huracán,7.0,4.0
+Melgar,Atlético-MG,4.0,7.0
+Independiente del Valle,Colo-Colo,5.0,4.0
+Colo-Colo,Melgar,4.0,3.0
+Atlético-MG,Independiente del Valle,5.0,4.0
+Melgar,Independiente del Valle,1.0,4.0
+Independiente del Valle,Melgar,0.0,0.0
+Independiente del Valle,Atlético-MG,3.0,1.0
+Melgar,Colo-Colo,6.0,6.0
+Atlético-MG,Melgar,2.0,3.0
+Colo-Colo,Independiente del Valle,3.0,4.0
+Toluca,Grêmio,0.0,0.0
+LDU,San Lorenzo,3.0,3.0
+San Lorenzo,Toluca,2.0,2.0
+Grêmio,LDU,0.0,1.0
+LDU,Toluca,6.0,6.0
+Toluca,LDU,1.0,1.0
+Toluca,San Lorenzo,2.0,0.0
+LDU,Grêmio,7.0,7.0
+San Lorenzo,LDU,3.0,4.0
+Grêmio,Toluca,5.0,6.0
+Deportivo Táchira,Olimpia-PAR,3.0,0.0
+Pumas,Emelec,4.0,4.0
+Emelec,Deportivo Táchira,5.0,7.0
+Olimpia-PAR,Pumas,3.0,6.0
+Emelec,Olimpia-PAR,3.0,1.0
+Deportivo Táchira,Pumas,1.0,1.0
+Olimpia-PAR,Emelec,3.0,3.0
+Pumas,Deportivo Táchira,2.0,1.0
+Deportivo Táchira,Emelec,6.0,6.0
+Pumas,Olimpia-PAR,3.0,0.0
+Olimpia-PAR,Deportivo Táchira,4.0,4.0
+Emelec,Pumas,5.0,6.0
+Cobresal,Corinthians,3.0,7.0
+Cerro Porteño,Cobresal,2.0,0.0
+Corinthians,Ind. Santa Fe,1.0,1.0
+Cobresal,Ind. Santa Fe,6.0,6.0
+Cerro Porteño,Corinthians,4.0,3.0
+Ind. Santa Fe,Cobresal,2.0,3.0
+Corinthians,Cerro Porteño,10.0,6.0
+Ind. Santa Fe,Corinthians,3.0,1.0
+Cobresal,Cerro Porteño,2.0,3.0
+Corinthians,Cobresal,4.0,3.0
+Independiente del Valle,Atlético Nacional,5.0,4.0
+Atlético Nacional,Independiente del Valle,6.0,6.0
+São Paulo,Atlético Nacional,4.0,4.0
+Atlético Nacional,São Paulo,4.0,6.0
+Independiente del Valle,Boca Juniors,4.0,4.0
+Boca Juniors,Independiente del Valle,3.0,3.0
+Rosario Central,Atlético Nacional,5.0,6.0
+Atlético Nacional,Rosario Central,5.0,3.0
+Independiente del Valle,Pumas,3.0,3.0
+Pumas,Independiente del Valle,7.0,3.0
+Grêmio,Rosario Central,4.0,6.0
+Rosario Central,Grêmio,2.0,2.0
+Racing Club,Atlético-MG,3.0,4.0
+Atlético-MG,Racing Club,3.0,3.0
+São Paulo,Toluca,1.0,0.0
+Toluca,São Paulo,4.0,3.0
+Independiente del Valle,River Plate,1.0,3.0
+River Plate,Independiente del Valle,2.0,3.0
+Nacional (URU),Corinthians,0.0,1.0
+Corinthians,Nacional (URU),3.0,5.0
+Cerro Porteño,Boca Juniors,3.0,6.0
+Boca Juniors,Cerro Porteño,2.0,1.0
+Botafogo,Estudiantes,3.0,3.0
+Atlético Nacional,Botafogo,2.0,3.0
+Barcelona-EQU,Botafogo,3.0,1.0
+Botafogo,Barcelona-EQU,4.0,6.0
+Botafogo,Atlético Nacional,3.0,3.0
+Estudiantes,Botafogo,1.0,3.0
+The Strongest,Ind. Santa Fe,8.0,9.0
+Sporting Cristal,Santos,5.0,7.0
+Santos,The Strongest,2.0,3.0
+Ind. Santa Fe,Sporting Cristal,2.0,3.0
+Sporting Cristal,The Strongest,1.0,2.0
+Ind. Santa Fe,Santos,1.0,2.0
+The Strongest,Sporting Cristal,5.0,4.0
+Santos,Ind. Santa Fe,2.0,1.0
+Sporting Cristal,Ind. Santa Fe,6.0,7.0
+The Strongest,Santos,5.0,4.0
+Santos,Sporting Cristal,2.0,3.0
+Ind. Santa Fe,The Strongest,1.0,2.0
+Melgar,Emelec,3.0,3.0
+Independiente Medellín,River Plate,7.0,6.0
+Emelec,Independiente Medellín,6.0,6.0
+River Plate,Melgar,5.0,6.0
+Independiente Medellín,Melgar,1.0,3.0
+Emelec,River Plate,5.0,9.0
+Melgar,Independiente Medellín,4.0,4.0
+River Plate,Emelec,2.0,2.0
+Independiente Medellín,Emelec,5.0,6.0
+Melgar,River Plate,4.0,3.0
+Emelec,Melgar,1.0,3.0
+River Plate,Independiente Medellín,7.0,6.0
+Atlético-PR,Universidad Católica,2.0,1.0
+Flamengo,San Lorenzo,1.0,3.0
+San Lorenzo,Atlético-PR,6.0,7.0
+Universidad Católica,Flamengo,3.0,3.0
+Universidad Católica,San Lorenzo,2.0,4.0
+Flamengo,Atlético-PR,2.0,1.0
+San Lorenzo,Universidad Católica,4.0,3.0
+Atlético-PR,Flamengo,1.0,0.0
+Atlético-PR,San Lorenzo,6.0,6.0
+Flamengo,Universidad Católica,3.0,3.0
+San Lorenzo,Flamengo,2.0,1.0
+Universidad Católica,Atlético-PR,7.0,6.0
+Jorge Wilstermann,Peñarol,6.0,4.0
+Atlético Tucumán,Palmeiras,1.0,1.0
+Palmeiras,Jorge Wilstermann,5.0,3.0
+Peñarol,Atlético Tucumán,5.0,3.0
+Jorge Wilstermann,Atlético Tucumán,1.0,1.0
+Palmeiras,Peñarol,2.0,1.0
+Atlético Tucumán,Jorge Wilstermann,4.0,3.0
+Peñarol,Palmeiras,10.0,9.0
+Atlético Tucumán,Peñarol,2.0,1.0
+Jorge Wilstermann,Palmeiras,4.0,3.0
+Palmeiras,Atlético Tucumán,4.0,3.0
+Peñarol,Jorge Wilstermann,1.0,0.0
+Godoy Cruz,Atlético-MG,2.0,1.0
+Sport Boys,Libertad,5.0,1.0
+Libertad,Godoy Cruz,3.0,3.0
+Atlético-MG,Sport Boys,5.0,4.0
+Libertad,Atlético-MG,2.0,3.0
+Godoy Cruz,Sport Boys,1.0,0.0
+Atlético-MG,Libertad,1.0,3.0
+Sport Boys,Godoy Cruz,7.0,6.0
+Sport Boys,Atlético-MG,6.0,6.0
+Godoy Cruz,Libertad,2.0,1.0
+Atlético-MG,Godoy Cruz,3.0,0.0
+Libertad,Sport Boys,3.0,4.0
+Zulia,Chapecoense,2.0,3.0
+Lanús,Nacional (URU),7.0,9.0
+Nacional (URU),Zulia,3.0,6.0
+Chapecoense,Lanús,5.0,6.0
+Lanús,Zulia,1.0,1.0
+Chapecoense,Nacional (URU),3.0,4.0
+Nacional (URU),Chapecoense,0.0,0.0
+Zulia,Lanús,4.0,4.0
+Zulia,Nacional (URU),4.0,4.0
+Lanús,Chapecoense,2.0,1.0
+Nacional (URU),Lanús,4.0,9.0
+Chapecoense,Zulia,4.0,3.0
+Deportes Iquique,Guaraní (PAR),4.0,6.0
+Zamora,Grêmio,5.0,9.0
+Grêmio,Deportes Iquique,4.0,3.0
+Guaraní (PAR),Zamora,3.0,0.0
+Zamora,Deportes Iquique,6.0,6.0
+Guaraní (PAR),Grêmio,4.0,4.0
+Deportes Iquique,Zamora,8.0,6.0
+Grêmio,Guaraní (PAR),2.0,3.0
+Deportes Iquique,Grêmio,2.0,1.0
+Zamora,Guaraní (PAR),12.0,9.0
+Grêmio,Zamora,4.0,3.0
+Guaraní (PAR),Deportes Iquique,1.0,2.0
+Grêmio,Lanús,1.0,1.0
+Lanús,Grêmio,3.0,3.0
+River Plate,Lanús,2.0,3.0
+Lanús,River Plate,3.0,0.0
+Barcelona-EQU,Grêmio,4.0,6.0
+Grêmio,Barcelona-EQU,3.0,6.0
+Jorge Wilstermann,River Plate,5.0,3.0
+River Plate,Jorge Wilstermann,1.0,0.0
+San Lorenzo,Lanús,1.0,1.0
+Lanús,San Lorenzo,3.0,1.0
+Barcelona-EQU,Santos,4.0,4.0
+Santos,Barcelona-EQU,3.0,6.0
+Botafogo,Grêmio,0.0,2.0
+Grêmio,Botafogo,3.0,3.0
+Jorge Wilstermann,Atlético-MG,1.0,1.0
+Atlético-MG,Jorge Wilstermann,3.0,4.0
+Emelec,San Lorenzo,2.0,4.0
+San Lorenzo,Emelec,6.0,6.0
+The Strongest,Lanús,1.0,1.0
+Lanús,The Strongest,1.0,0.0
+Atlético-PR,Santos,3.0,3.0
+Santos,Atlético-PR,1.0,0.0
+Barcelona-EQU,Palmeiras,0.0,1.0
+Palmeiras,Barcelona-EQU,4.0,3.0
+Nacional (URU),Botafogo,3.0,6.0
+Botafogo,Nacional (URU),1.0,0.0
+Godoy Cruz,Grêmio,5.0,6.0
+Grêmio,Godoy Cruz,5.0,3.0
+Monagas,Cerro Porteño,3.0,3.0
+Defensor Sporting,Grêmio,2.0,2.0
+Cerro Porteño,Defensor Sporting,4.0,3.0
+Grêmio,Monagas,3.0,3.0
+Defensor Sporting,Monagas,1.0,0.0
+Cerro Porteño,Grêmio,0.0,1.0
+Monagas,Defensor Sporting,1.0,0.0
+Grêmio,Cerro Porteño,1.0,3.0
+Defensor Sporting,Cerro Porteño,5.0,6.0
+Monagas,Grêmio,3.0,6.0
+Cerro Porteño,Monagas,2.0,0.0
+Grêmio,Defensor Sporting,0.0,0.0
+Colo-Colo,Atlético Nacional,9.0,6.0
+Delfín-EQU,Bolívar,4.0,4.0
+Bolívar,Colo-Colo,3.0,4.0
+Atlético Nacional,Delfín-EQU,2.0,3.0
+Colo-Colo,Delfín-EQU,2.0,3.0
+Bolívar,Atlético Nacional,4.0,4.0
+Atlético Nacional,Bolívar,2.0,3.0
+Delfín-EQU,Colo-Colo,2.0,4.0
+Delfín-EQU,Atlético Nacional,3.0,4.0
+Colo-Colo,Bolívar,1.0,1.0
+Atlético Nacional,Colo-Colo,0.0,2.0
+Bolívar,Delfín-EQU,2.0,3.0
+Atlético Tucumán,Libertad,2.0,3.0
+The Strongest,Peñarol,0.0,0.0
+Libertad,The Strongest,1.0,3.0
+The Strongest,Atlético Tucumán,3.0,4.0
+Libertad,Peñarol,2.0,3.0
+Atlético Tucumán,The Strongest,2.0,0.0
+Peñarol,Libertad,1.0,3.0
+The Strongest,Libertad,4.0,6.0
+Libertad,Atlético Tucumán,2.0,4.0
+Peñarol,The Strongest,0.0,0.0
+Flamengo,River Plate,5.0,4.0
+Ind. Santa Fe,Emelec,1.0,1.0
+River Plate,Ind. Santa Fe,4.0,4.0
+Flamengo,Ind. Santa Fe,2.0,4.0
+Ind. Santa Fe,Flamengo,0.0,1.0
+Ind. Santa Fe,River Plate,2.0,4.0
+Emelec,Ind. Santa Fe,4.0,6.0
+River Plate,Flamengo,5.0,4.0
+Racing Club,Cruzeiro,5.0,3.0
+Vasco,Universidad de Chile,1.0,4.0
+Universidad de Chile,Racing Club,3.0,4.0
+Cruzeiro,Vasco,4.0,4.0
+Racing Club,Vasco,0.0,0.0
+Vasco,Racing Club,2.0,2.0
+Vasco,Cruzeiro,4.0,4.0
+Racing Club,Universidad de Chile,2.0,3.0
+Universidad de Chile,Vasco,4.0,6.0
+Cruzeiro,Racing Club,2.0,3.0
+Nacional (URU),Estudiantes,1.0,1.0
+Real Garcilaso,Santos,4.0,3.0
+Estudiantes,Real Garcilaso,1.0,3.0
+Santos,Nacional (URU),1.0,0.0
+Real Garcilaso,Nacional (URU),4.0,4.0
+Estudiantes,Santos,2.0,4.0
+Santos,Estudiantes,0.0,0.0
+Nacional (URU),Real Garcilaso,1.0,1.0
+Real Garcilaso,Estudiantes,0.0,2.0
+Nacional (URU),Santos,2.0,3.0
+Santos,Real Garcilaso,1.0,1.0
+Estudiantes,Nacional (URU),4.0,6.0
+Deportivo Lara,Independiente,3.0,3.0
+Corinthians,Deportivo Lara,2.0,3.0
+Independiente,Millonarios,1.0,0.0
+Millonarios,Deportivo Lara,2.0,3.0
+Independiente,Corinthians,6.0,9.0
+Deportivo Lara,Millonarios,4.0,3.0
+Corinthians,Independiente,2.0,3.0
+Deportivo Lara,Corinthians,8.0,6.0
+Millonarios,Independiente,1.0,2.0
+Independiente,Deportivo Lara,0.0,0.0
+Alianza Lima,Boca Juniors,7.0,10.0
+Junior de Barranquilla,Palmeiras,5.0,7.0
+Palmeiras,Alianza Lima,0.0,1.0
+Boca Juniors,Junior de Barranquilla,3.0,4.0
+Palmeiras,Boca Juniors,4.0,3.0
+Alianza Lima,Junior de Barranquilla,3.0,3.0
+Boca Juniors,Palmeiras,4.0,7.0
+Junior de Barranquilla,Alianza Lima,4.0,3.0
+Junior de Barranquilla,Boca Juniors,2.0,2.0
+Alianza Lima,Palmeiras,7.0,7.0
+Boca Juniors,Alianza Lima,2.0,3.0
+Palmeiras,Junior de Barranquilla,1.0,0.0
+River Plate,Grêmio,2.0,6.0
+Grêmio,River Plate,2.0,3.0
+Independiente,River Plate,1.0,2.0
+River Plate,Independiente,13.0,6.0
+Atlético Tucumán,Grêmio,2.0,4.0
+Grêmio,Atlético Tucumán,4.0,3.0
+Colo-Colo,Palmeiras,2.0,4.0
+Palmeiras,Colo-Colo,1.0,1.0
+Boca Juniors,Cruzeiro,0.0,0.0
+Cruzeiro,Boca Juniors,5.0,4.0
+Racing Club,River Plate,3.0,4.0
+River Plate,Racing Club,0.0,1.0
+Independiente,Santos,0.0,1.0
+Santos,Independiente,1.0,4.0
+Estudiantes,Grêmio,5.0,3.0
+Grêmio,Estudiantes,3.0,3.0
+Atlético Tucumán,Atlético Nacional,0.0,0.0
+Atlético Nacional,Atlético Tucumán,0.0,1.0
+Colo-Colo,Corinthians,3.0,3.0
+Corinthians,Colo-Colo,4.0,3.0
+Cerro Porteño,Palmeiras,7.0,9.0
+Palmeiras,Cerro Porteño,1.0,4.0
+Flamengo,Cruzeiro,4.0,6.0
+Cruzeiro,Flamengo,3.0,6.0
+Boca Juniors,Libertad,2.0,0.0
+Libertad,Boca Juniors,5.0,4.0
+Palestino,Internacional,3.0,6.0
+Alianza Lima,River Plate,3.0,4.0
+Internacional,Alianza Lima,4.0,3.0
+River Plate,Palestino,0.0,1.0
+Palestino,Alianza Lima,2.0,3.0
+Internacional,River Plate,3.0,4.0
+Internacional,Palestino,3.0,3.0
+River Plate,Alianza Lima,1.0,1.0
+Palestino,River Plate,7.0,6.0
+Alianza Lima,Internacional,7.0,9.0
+River Plate,Internacional,3.0,1.0
+Alianza Lima,Palestino,3.0,4.0
+Deportivo Lara,Emelec,2.0,4.0
+Emelec,Huracán,1.0,4.0
+Cruzeiro,Deportivo Lara,3.0,2.0
+Deportivo Lara,Huracán,1.0,0.0
+Emelec,Cruzeiro,2.0,6.0
+Emelec,Deportivo Lara,4.0,4.0
+Deportivo Lara,Cruzeiro,2.0,4.0
+Huracán,Emelec,2.0,3.0
+Huracán,Deportivo Lara,6.0,9.0
+Cruzeiro,Emelec,5.0,7.0
+Godoy Cruz,Olimpia-PAR,1.0,1.0
+Universidad de Concepción,Sporting Cristal,4.0,0.0
+Olimpia-PAR,Universidad de Concepción,4.0,3.0
+Sporting Cristal,Godoy Cruz,3.0,4.0
+Universidad de Concepción,Godoy Cruz,3.0,4.0
+Sporting Cristal,Olimpia-PAR,3.0,4.0
+Olimpia-PAR,Godoy Cruz,5.0,3.0
+Sporting Cristal,Universidad de Concepción,0.0,0.0
+Universidad de Concepción,Olimpia-PAR,5.0,4.0
+Godoy Cruz,Sporting Cristal,0.0,0.0
+Godoy Cruz,Universidad de Concepción,1.0,1.0
+Olimpia-PAR,Sporting Cristal,3.0,6.0
+San José,Flamengo,4.0,6.0
+LDU,Peñarol,0.0,1.0
+Flamengo,LDU,3.0,2.0
+Peñarol,San José,3.0,3.0
+San José,LDU,5.0,4.0
+Flamengo,Peñarol,3.0,6.0
+Peñarol,LDU,1.0,3.0
+Flamengo,San José,3.0,3.0
+San José,Peñarol,3.0,3.0
+LDU,Flamengo,5.0,6.0
+LDU,San José,5.0,3.0
+Peñarol,Flamengo,0.0,1.0
+Atlético-MG,Cerro Porteño,1.0,3.0
+Zamora,Nacional (URU),1.0,3.0
+Nacional (URU),Atlético-MG,2.0,0.0
+Cerro Porteño,Zamora,3.0,3.0
+Cerro Porteño,Nacional (URU),3.0,3.0
+Nacional (URU),Zamora,11.0,6.0
+Cerro Porteño,Atlético-MG,2.0,3.0
+Atlético-MG,Nacional (URU),1.0,3.0
+Zamora,Cerro Porteño,2.0,0.0
+Nacional (URU),Cerro Porteño,3.0,2.0
+Melgar,San Lorenzo,0.0,1.0
+Palmeiras,Melgar,1.0,1.0
+San Lorenzo,Junior de Barranquilla,0.0,1.0
+San Lorenzo,Palmeiras,2.0,3.0
+Melgar,Junior de Barranquilla,2.0,1.0
+San Lorenzo,Melgar,3.0,3.0
+Junior de Barranquilla,San Lorenzo,4.0,4.0
+Melgar,Palmeiras,6.0,4.0
+Junior de Barranquilla,Melgar,2.0,3.0
+Palmeiras,San Lorenzo,0.0,0.0
+Jorge Wilstermann,Boca Juniors,3.0,4.0
+Deportes Tolima,Athletico,1.0,0.0
+Boca Juniors,Deportes Tolima,3.0,3.0
+Athletico,Jorge Wilstermann,0.0,2.0
+Athletico,Boca Juniors,3.0,6.0
+Deportes Tolima,Jorge Wilstermann,2.0,2.0
+Athletico,Deportes Tolima,2.0,3.0
+Boca Juniors,Jorge Wilstermann,0.0,0.0
+Jorge Wilstermann,Athletico,7.0,6.0
+Deportes Tolima,Boca Juniors,4.0,4.0
+Boca Juniors,Athletico,4.0,1.0
+Jorge Wilstermann,Deportes Tolima,4.0,6.0
+Libertad,Universidad Católica,2.0,3.0
+Grêmio,Libertad,1.0,3.0
+Universidad Católica,Rosario Central,1.0,1.0
+Universidad Católica,Grêmio,5.0,3.0
+Libertad,Rosario Central,1.0,1.0
+Universidad Católica,Libertad,4.0,4.0
+Libertad,Grêmio,5.0,7.0
+Rosario Central,Universidad Católica,1.0,1.0
+Rosario Central,Libertad,7.0,3.0
+Grêmio,Universidad Católica,1.0,3.0
+San Lorenzo,Cerro Porteño,4.0,4.0
+Cerro Porteño,San Lorenzo,4.0,3.0
+LDU,Olimpia-PAR,5.0,3.0
+Olimpia-PAR,LDU,1.0,2.0
+Godoy Cruz,Palmeiras,4.0,4.0
+Palmeiras,Godoy Cruz,0.0,0.0
+Nacional (URU),Internacional,5.0,6.0
+Internacional,Nacional (URU),5.0,4.0
+River Plate,Cerro Porteño,3.0,1.0
+Cerro Porteño,River Plate,1.0,1.0
+LDU,Boca Juniors,7.0,6.0
+Boca Juniors,LDU,1.0,4.0
+Grêmio,Palmeiras,1.0,3.0
+Palmeiras,Grêmio,4.0,6.0
+Flamengo,Internacional,1.0,1.0
+Internacional,Flamengo,2.0,1.0
+Grêmio,Flamengo,1.0,1.0
+Flamengo,Grêmio,4.0,3.0
+Barcelona-EQU,Independiente del Valle,4.0,6.0
+Junior de Barranquilla,Flamengo,4.0,6.0
+Flamengo,Barcelona-EQU,4.0,6.0
+Independiente del Valle,Junior de Barranquilla,1.0,3.0
+Independiente del Valle,Flamengo,2.0,3.0
+Barcelona-EQU,Junior de Barranquilla,8.0,9.0
+Barcelona-EQU,Flamengo,4.0,6.0
+Junior de Barranquilla,Independiente del Valle,2.0,3.0
+Junior de Barranquilla,Barcelona-EQU,3.0,6.0
+Flamengo,Independiente del Valle,0.0,0.0
+Independiente del Valle,Barcelona-EQU,0.0,1.0
+Flamengo,Junior de Barranquilla,1.0,0.0
+Guaraní-PAR,Bolívar,1.0,3.0
+Bolívar,Tigre,3.0,3.0
+Palmeiras,Guaraní-PAR,2.0,3.0
+Bolívar,Palmeiras,3.0,6.0
+Guaraní-PAR,Tigre,5.0,3.0
+Tigre,Bolívar,2.0,4.0
+Guaraní-PAR,Palmeiras,2.0,2.0
+Palmeiras,Bolívar,5.0,3.0
+Tigre,Guaraní-PAR,7.0,9.0
+Bolívar,Guaraní-PAR,3.0,3.0
+Athletico,Peñarol,1.0,3.0
+Jorge Wilstermann,Colo-Colo,0.0,1.0
+Colo-Colo,Athletico,4.0,4.0
+Colo-Colo,Peñarol,4.0,3.0
+Athletico,Colo-Colo,3.0,3.0
+Peñarol,Colo-Colo,2.0,1.0
+Peñarol,Athletico,4.0,0.0
+Colo-Colo,Jorge Wilstermann,4.0,6.0
+LDU,River Plate,0.0,0.0
+Binacional,São Paulo,2.0,1.0
+River Plate,Binacional,4.0,6.0
+São Paulo,LDU,2.0,3.0
+Binacional,LDU,5.0,7.0
+LDU,São Paulo,6.0,3.0
+Binacional,River Plate,8.0,6.0
+LDU,Binacional,2.0,3.0
+River Plate,LDU,2.0,3.0
+São Paulo,Binacional,4.0,6.0
+Internacional,Universidad Católica,0.0,1.0
+América de Cali,Grêmio,2.0,4.0
+Universidad Católica,América de Cali,4.0,6.0
+Grêmio,Internacional,0.0,2.0
+Internacional,América de Cali,4.0,1.0
+América de Cali,Universidad Católica,4.0,4.0
+Internacional,Grêmio,5.0,9.0
+América de Cali,Internacional,3.0,4.0
+Universidad Católica,Internacional,5.0,3.0
+Grêmio,América de Cali,3.0,2.0
+Estudiantes de Mérida,Racing Club,2.0,3.0
+Alianza Lima,Nacional-URU,3.0,6.0
+Nacional-URU,Estudiantes de Mérida,7.0,9.0
+Racing Club,Alianza Lima,4.0,3.0
+Estudiantes de Mérida,Alianza Lima,4.0,3.0
+Racing Club,Nacional-URU,1.0,3.0
+Estudiantes de Mérida,Nacional-URU,4.0,4.0
+Alianza Lima,Racing Club,4.0,6.0
+Nacional-URU,Racing Club,2.0,4.0
+Alianza Lima,Estudiantes de Mérida,2.0,1.0
+Nacional-URU,Alianza Lima,1.0,0.0
+Racing Club,Estudiantes de Mérida,1.0,0.0
+Defensa y Justicia,Santos,3.0,4.0
+Delfín,Olimpia-PAR,3.0,4.0
+Santos,Delfín,3.0,4.0
+Olimpia-PAR,Defensa y Justicia,7.0,9.0
+Santos,Olimpia-PAR,5.0,4.0
+Defensa y Justicia,Delfín,1.0,1.0
+Defensa y Justicia,Olimpia-PAR,1.0,1.0
+Delfín,Santos,4.0,6.0
+Olimpia-PAR,Santos,6.0,6.0
+Delfín,Defensa y Justicia,1.0,0.0
+Olimpia-PAR,Delfín,5.0,6.0
+Santos,Defensa y Justicia,5.0,3.0
+Independiente Medellín,Libertad-PAR,2.0,3.0
+Caracas,Boca Juniors,6.0,7.0
+Boca Juniors,Independiente Medellín,3.0,3.0
+Libertad-PAR,Caracas,4.0,0.0
+Independiente Medellín,Caracas,8.0,6.0
+Libertad-PAR,Boca Juniors,2.0,3.0
+Caracas,Libertad-PAR,2.0,0.0
+Independiente Medellín,Boca Juniors,8.0,9.0
+Boca Juniors,Libertad-PAR,2.0,1.0
+Caracas,Independiente Medellín,3.0,4.0
+Libertad-PAR,Independiente Medellín,4.0,4.0
+Boca Juniors,Caracas,5.0,3.0
+Guaraní-PAR,Grêmio,3.0,3.0
+Grêmio,Guaraní-PAR,2.0,3.0
+LDU,Santos,5.0,6.0
+Santos,LDU,2.0,3.0
+Racing Club,Flamengo,5.0,4.0
+Flamengo,Racing Club,3.0,4.0
+Internacional,Boca Juniors,2.0,6.0
+Boca Juniors,Internacional,4.0,6.0
+Independiente del Valle,Nacional-URU,0.0,1.0
+Nacional-URU,Independiente del Valle,9.0,7.0
+Athletico,River Plate,3.0,4.0
+River Plate,Athletico,4.0,4.0
+Libertad-PAR,Jorge Wilstermann,4.0,3.0
+Jorge Wilstermann,Libertad-PAR,3.0,6.0
+Delfín,Palmeiras,6.0,9.0
+Palmeiras,Delfín,2.0,3.0
+Grêmio,Santos,6.0,4.0
+Santos,Grêmio,2.0,3.0
+River Plate,Nacional-URU,2.0,3.0
+Nacional-URU,River Plate,9.0,6.0
+Libertad-PAR,Palmeiras,6.0,4.0
+Palmeiras,Libertad-PAR,0.0,0.0
+Boca Juniors,Santos,4.0,4.0
+Santos,Boca Juniors,4.0,3.0
+River Plate,Palmeiras,6.0,7.0
+Palmeiras,River Plate,5.0,6.0
+Palmeiras,Santos,8.0,3.0
+Universitario-PER,Palmeiras,3.0,3.0
+Independiente del Valle,Defensa y Justicia,5.0,5.0
+Palmeiras,Independiente del Valle,3.0,3.0
+Defensa y Justicia,Universitario-PER,2.0,3.0
+Defensa y Justicia,Palmeiras,4.0,6.0
+Independiente del Valle,Universitario-PER,1.0,1.0
+Independiente del Valle,Palmeiras,2.0,4.0
+Universitario-PER,Defensa y Justicia,1.0,1.0
+Palmeiras,Defensa y Justicia,4.0,4.0
+Universitario-PER,Independiente del Valle,6.0,6.0
+Palmeiras,Universitario-PER,1.0,0.0
+Defensa y Justicia,Independiente del Valle,1.0,2.0
+Always Ready,Internacional,3.0,6.0
+Internacional,Deportivo Táchira,4.0,3.0
+Olimpia-PAR,Always Ready,4.0,3.0
+Internacional,Olimpia-PAR,1.0,1.0
+Always Ready,Deportivo Táchira,2.0,3.0
+Deportivo Táchira,Internacional,3.0,3.0
+Always Ready,Olimpia-PAR,3.0,3.0
+Deportivo Táchira,Always Ready,2.0,0.0
+Olimpia-PAR,Internacional,3.0,5.0
+Internacional,Always Ready,1.0,1.0
+The Strongest,Boca Juniors,2.0,6.0
+Barcelona-EQU,The Strongest,1.0,3.0
+The Strongest,Barcelona-EQU,0.0,0.0
+Boca Juniors,The Strongest,3.0,3.0
+Fluminense,River Plate,1.0,1.0
+Junior de Barranquilla,Ind. Santa Fe,2.0,1.0
+River Plate,Junior de Barranquilla,3.0,3.0
+Ind. Santa Fe,Fluminense,2.0,3.0
+Junior de Barranquilla,Fluminense,2.0,1.0
+Junior de Barranquilla,River Plate,3.0,4.0
+Fluminense,Ind. Santa Fe,3.0,0.0
+Fluminense,Junior de Barranquilla,5.0,6.0
+River Plate,Fluminense,5.0,6.0
+Ind. Santa Fe,Junior de Barranquilla,1.0,4.0
+Sporting Cristal,São Paulo,3.0,4.0
+Rentistas ,Racing Club,4.0,4.0
+São Paulo,Rentistas ,1.0,1.0
+Racing Club,São Paulo,4.0,4.0
+Rentistas ,Sporting Cristal,2.0,1.0
+Rentistas ,São Paulo,4.0,4.0
+São Paulo,Racing Club,2.0,4.0
+Sporting Cristal,Rentistas ,3.0,6.0
+São Paulo,Sporting Cristal,0.0,0.0
+Racing Club,Rentistas ,0.0,1.0
+Argentinos Juniors,Nacional-URU,5.0,6.0
+Atlético Nacional,Universidad Católica,3.0,3.0
+Nacional-URU,Atlético Nacional,4.0,1.0
+Universidad Católica,Argentinos Juniors,4.0,3.0
+Universidad Católica,Nacional-URU,2.0,0.0
+Atlético Nacional,Argentinos Juniors,3.0,4.0
+Argentinos Juniors,Universidad Católica,3.0,6.0
+Atlético Nacional,Nacional-URU,0.0,1.0
+Nacional-URU,Universidad Católica,0.0,0.0
+Argentinos Juniors,Atlético Nacional,1.0,0.0
+Nacional-URU,Argentinos Juniors,1.0,1.0
+Universidad Católica,Atlético Nacional,1.0,1.0
+Vélez Sarsfield,Flamengo,7.0,6.0
+Unión La Calera,LDU,2.0,1.0
+Flamengo,Unión La Calera,1.0,1.0
+LDU,Vélez Sarsfield,1.0,1.0
+Unión La Calera,Vélez Sarsfield,3.0,6.0
+Unión La Calera,Flamengo,3.0,2.0
+Vélez Sarsfield,LDU,1.0,0.0
+Vélez Sarsfield,Unión La Calera,4.0,3.0
+Flamengo,Vélez Sarsfield,6.0,4.0
+LDU,Unión La Calera,3.0,0.0
+La Guaira,Atlético-MG,5.0,4.0
+América de Cali,Cerro Porteño,3.0,4.0
+Atlético-MG,América de Cali,3.0,4.0
+Cerro Porteño,La Guaira,1.0,4.0
+La Guaira,América de Cali,2.0,1.0
+La Guaira,Cerro Porteño,3.0,6.0
+América de Cali,Atlético-MG,6.0,6.0
+América de Cali,La Guaira,2.0,1.0
+Atlético-MG,La Guaira,4.0,6.0
+Cerro Porteño,América de Cali,2.0,4.0
+Defensa y Justicia,Flamengo,1.0,3.0
+Flamengo,Defensa y Justicia,1.0,0.0
+Vélez Sarsfield,Barcelona-EQU,0.0,0.0
+Barcelona-EQU,Vélez Sarsfield,7.0,3.0
+Cerro Porteño,Fluminense,3.0,4.0
+Fluminense,Cerro Porteño,0.0,0.0
+Boca Juniors,Atlético-MG,1.0,2.0
+Atlético-MG,Boca Juniors,3.0,1.0
+River Plate,Argentinos Juniors,4.0,4.0
+Argentinos Juniors,River Plate,7.0,6.0
+Universidad Católica,Palmeiras,4.0,6.0
+Palmeiras,Universidad Católica,1.0,0.0
+Olimpia-PAR,Flamengo,8.0,6.0
+Flamengo,Olimpia-PAR,3.0,0.0
+Fluminense,Barcelona-EQU,3.0,2.0
+Barcelona-EQU,Fluminense,1.0,2.0
+River Plate,Atlético-MG,11.0,9.0
+Atlético-MG,River Plate,2.0,3.0
+São Paulo,Palmeiras,2.0,1.0
+Palmeiras,São Paulo,0.0,1.0
+Palmeiras,Atlético-MG,7.0,5.0
+Atlético-MG,Palmeiras,7.0,5.0
+Deportivo Táchira,Palmeiras,6.0,6.0
+Independiente Petrolero,Emelec,3.0,4.0
+Palmeiras,Independiente Petrolero,7.0,4.0
+Independiente Petrolero,Deportivo Táchira,4.0,6.0
+Emelec,Palmeiras,8.0,9.0
+Independiente Petrolero,Palmeiras,9.0,7.0
+Palmeiras,Emelec,3.0,3.0
+Deportivo Táchira,Independiente Petrolero,4.0,6.0
+Palmeiras,Deportivo Táchira,3.0,3.0
+Emelec,Independiente Petrolero,3.0,4.0
+Caracas,Athletico,1.0,5.0
+The Strongest,Libertad-PAR,3.0,5.0
+Athletico,The Strongest,4.0,3.0
+Libertad-PAR,Athletico,8.0,7.0
+The Strongest,Caracas,3.0,4.0
+The Strongest,Athletico,0.0,0.0
+Caracas,The Strongest,0.0,1.0
+Athletico,Libertad-PAR,2.0,0.0
+Libertad-PAR,The Strongest,1.0,1.0
+Athletico,Caracas,2.0,1.0
+Red Bull Bragantino,Nacional-URU,2.0,3.0
+Estudiantes,Vélez Sarsfield,3.0,4.0
+Nacional-URU,Estudiantes,1.0,1.0
+Vélez Sarsfield,Red Bull Bragantino,4.0,4.0
+Vélez Sarsfield,Nacional-URU,3.0,3.0
+Estudiantes,Red Bull Bragantino,1.0,1.0
+Estudiantes,Nacional-URU,0.0,1.0
+Red Bull Bragantino,Vélez Sarsfield,2.0,2.0
+Red Bull Bragantino,Estudiantes,2.0,4.0
+Nacional-URU,Vélez Sarsfield,6.0,6.0
+Nacional-URU,Red Bull Bragantino,3.0,3.0
+Vélez Sarsfield,Estudiantes,0.0,0.0
+América-MG,Independiente del Valle,3.0,4.0
+Tolima,Atlético-MG,3.0,4.0
+Atlético-MG,América-MG,3.0,4.0
+Independiente del Valle,Tolima,5.0,4.0
+América-MG,Tolima,5.0,6.0
+América-MG,Atlético-MG,3.0,4.0
+Tolima,Independiente del Valle,0.0,1.0
+Tolima,América-MG,2.0,1.0
+Independiente del Valle,América-MG,1.0,1.0
+Atlético-MG,Tolima,4.0,6.0
+Always Ready,Corinthians,2.0,3.0
+Boca Juniors,Always Ready,0.0,1.0
+Corinthians,Deportivo Cali,0.0,0.0
+Always Ready,Deportivo Cali,3.0,4.0
+Always Ready,Boca Juniors,2.0,6.0
+Deportivo Cali,Corinthians,0.0,1.0
+Deportivo Cali,Always Ready,4.0,1.0
+Corinthians,Always Ready,4.0,4.0
+Fortaleza,Colo-Colo,2.0,3.0
+Colo-Colo,Alianza Lima,3.0,3.0
+River Plate,Fortaleza,2.0,3.0
+Fortaleza,Alianza Lima,3.0,4.0
+Colo-Colo,River Plate,7.0,6.0
+Fortaleza,River Plate,3.0,2.0
+Alianza Lima,Colo-Colo,4.0,4.0
+Alianza Lima,Fortaleza,4.0,6.0
+River Plate,Colo-Colo,5.0,4.0
+Colo-Colo,Fortaleza,8.0,6.0
+Olimpia-PAR,Cerro Porteño,3.0,4.0
+Colón,Peñarol,1.0,0.0
+Cerro Porteño,Colón,5.0,3.0
+Peñarol,Olimpia-PAR,3.0,0.0
+Cerro Porteño,Peñarol,2.0,1.0
+Olimpia-PAR,Colón,4.0,4.0
+Colón,Cerro Porteño,2.0,3.0
+Olimpia-PAR,Peñarol,1.0,0.0
+Peñarol,Cerro Porteño,0.0,1.0
+Colón,Olimpia-PAR,5.0,3.0
+Peñarol,Colón,4.0,3.0
+Cerro Porteño,Olimpia-PAR,1.0,4.0
+Sporting Cristal,Flamengo,4.0,6.0
+Talleres,Universidad Católica,4.0,3.0
+Universidad Católica,Sporting Cristal,1.0,1.0
+Flamengo,Talleres,2.0,1.0
+Talleres,Sporting Cristal,0.0,0.0
+Talleres,Flamengo,6.0,4.0
+Sporting Cristal,Universidad Católica,1.0,1.0
+Sporting Cristal,Talleres,6.0,5.0
+Flamengo,Sporting Cristal,1.0,1.0
+Universidad Católica,Talleres,4.0,6.0
+Fortaleza,Estudiantes,2.0,4.0
+Estudiantes,Fortaleza,1.0,3.0
+Emelec,Atlético-MG,1.0,1.0
+Atlético-MG,Emelec,0.0,1.0
+Tolima,Flamengo,1.0,4.0
+Flamengo,Tolima,1.0,0.0
+Talleres,Colón,2.0,2.0
+Colón,Talleres,3.0,4.0
+Vélez Sarsfield,River Plate,1.0,1.0
+River Plate,Vélez Sarsfield,1.0,4.0
+Athletico,Estudiantes,0.0,1.0
+Estudiantes,Athletico,6.0,6.0
+Corinthians,Flamengo,3.0,3.0
+Flamengo,Corinthians,1.0,1.0
+Vélez Sarsfield,Talleres,4.0,1.0
+Talleres,Vélez Sarsfield,4.0,6.0
+Athletico,Palmeiras,0.0,0.0
+Palmeiras,Athletico,5.0,4.0

@@ -1,1651 +1,1652 @@
-home,away,home_goals,away_goals,home_win,away_win,draw,weights1,weights2
-La Coruna,Valencia,27,27,8.0,9.0,4.0,27,31.0
-Sp Gijon,Albacete,3,0,1.0,0.0,0.0,0,0.0
-Ath Bilbao,Santander,32,17,9.0,1.0,6.0,17,9.0
-Ath Madrid,Sociedad,46,18,14.0,2.0,7.0,18,13.0
-Celta,Compostela,4,6,0.0,2.0,1.0,6,7.0
-Espanol,Salamanca,10,1,3.0,0.0,0.0,1,0.0
-Merida,Betis,2,4,0.0,1.0,1.0,4,4.0
-Sevilla,Tenerife,7,2,3.0,1.0,0.0,2,3.0
-Valladolid,Barcelona,16,30,4.0,12.0,2.0,30,38.0
-Vallecano,Real Madrid,14,29,3.0,11.0,0.0,29,33.0
-Zaragoza,Oviedo,15,5,5.0,0.0,1.0,5,1.0
-Albacete,Sevilla,4,8,1.0,2.0,0.0,8,6.0
-Barcelona,Merida,5,3,1.0,0.0,1.0,3,1.0
-Betis,Zaragoza,27,18,7.0,2.0,4.0,18,10.0
-Real Madrid,Ath Bilbao,70,23,21.0,3.0,4.0,23,13.0
-Compostela,La Coruna,4,0,1.0,0.0,2.0,0,2.0
-Oviedo,Vallecano,8,3,3.0,1.0,0.0,3,3.0
-Salamanca,Celta,1,3,0.0,2.0,1.0,3,7.0
-Santander,Ath Madrid,17,22,4.0,7.0,4.0,22,25.0
-Sociedad,Sp Gijon,15,5,5.0,0.0,2.0,5,2.0
-Tenerife,Espanol,11,7,2.0,1.0,3.0,7,6.0
-Valencia,Valladolid,26,19,9.0,5.0,4.0,19,19.0
-Ath Bilbao,Ath Madrid,35,38,10.0,12.0,4.0,38,40.0
-Celta,Tenerife,10,3,3.0,0.0,2.0,3,2.0
-Espanol,Albacete,4,2,2.0,0.0,1.0,2,1.0
-La Coruna,Salamanca,4,0,3.0,0.0,0.0,0,0.0
-Merida,Valencia,1,2,1.0,1.0,0.0,2,3.0
-Real Madrid,Oviedo,21,8,4.0,1.0,1.0,8,4.0
-Sevilla,Sociedad,34,25,12.0,6.0,4.0,25,22.0
-Sp Gijon,Santander,8,8,3.0,3.0,1.0,8,10.0
-Valladolid,Compostela,7,2,2.0,0.0,1.0,2,1.0
-Vallecano,Betis,15,17,3.0,5.0,4.0,17,19.0
-Zaragoza,Barcelona,18,34,4.0,10.0,2.0,34,32.0
-Barcelona,Vallecano,44,10,10.0,2.0,2.0,10,8.0
-Betis,Real Madrid,29,44,6.0,11.0,7.0,44,40.0
-Santander,Sevilla,12,28,2.0,6.0,5.0,28,23.0
-Albacete,Celta,4,2,1.0,1.0,0.0,2,3.0
-Ath Madrid,Sp Gijon,26,5,9.0,0.0,0.0,5,0.0
-Compostela,Merida,4,0,2.0,0.0,0.0,0,0.0
-Oviedo,Ath Bilbao,9,2,3.0,1.0,2.0,2,5.0
-Salamanca,Valladolid,2,0,2.0,0.0,1.0,0,1.0
-Sociedad,Espanol,28,20,13.0,6.0,5.0,20,23.0
-Tenerife,La Coruna,7,5,2.0,1.0,3.0,5,6.0
-Valencia,Zaragoza,24,12,9.0,1.0,6.0,12,9.0
-Ath Bilbao,Sp Gijon,21,7,6.0,1.0,2.0,7,5.0
-Real Madrid,Barcelona,47,52,11.0,12.0,5.0,52,41.0
-Celta,Sociedad,38,35,8.0,6.0,8.0,35,26.0
-Espanol,Santander,18,17,7.0,5.0,4.0,17,19.0
-La Coruna,Albacete,8,0,2.0,0.0,1.0,0,1.0
-Merida,Salamanca,1,0,1.0,0.0,1.0,0,1.0
-Oviedo,Betis,2,4,0.0,2.0,3.0,4,9.0
-Sevilla,Ath Madrid,27,26,10.0,6.0,8.0,26,26.0
-Valladolid,Tenerife,10,7,3.0,1.0,2.0,7,5.0
-Vallecano,Valencia,18,24,6.0,5.0,3.0,24,18.0
-Zaragoza,Compostela,4,5,1.0,1.0,1.0,5,4.0
-Albacete,Valladolid,6,2,2.0,0.0,0.0,2,0.0
-Barcelona,Oviedo,14,8,4.0,1.0,1.0,8,4.0
-Betis,Ath Bilbao,28,26,9.0,6.0,9.0,26,27.0
-Compostela,Vallecano,3,1,2.0,0.0,0.0,1,0.0
-Salamanca,Zaragoza,2,5,0.0,3.0,0.0,5,9.0
-Santander,Celta,21,10,6.0,1.0,3.0,10,6.0
-Sociedad,La Coruna,26,14,7.0,3.0,8.0,14,17.0
-Sp Gijon,Sevilla,11,5,5.0,1.0,2.0,5,5.0
-Tenerife,Merida,2,1,1.0,0.0,1.0,1,1.0
-Valencia,Real Madrid,43,51,10.0,12.0,6.0,51,42.0
-Ath Madrid,Espanol,38,26,13.0,6.0,6.0,26,24.0
-Betis,Barcelona,32,57,5.0,14.0,5.0,57,47.0
-Ath Bilbao,Sevilla,32,26,13.0,9.0,3.0,26,30.0
-Celta,Ath Madrid,14,31,3.0,12.0,5.0,31,41.0
-Espanol,Sp Gijon,7,11,2.0,4.0,3.0,11,15.0
-La Coruna,Santander,23,23,6.0,6.0,3.0,23,21.0
-Merida,Albacete,1,1,0.0,0.0,1.0,1,1.0
-Oviedo,Valencia,5,3,1.0,1.0,4.0,3,7.0
-Real Madrid,Compostela,4,2,2.0,0.0,1.0,2,1.0
-Valladolid,Sociedad,23,17,6.0,2.0,7.0,17,13.0
-Vallecano,Salamanca,1,4,0.0,1.0,0.0,4,3.0
-Zaragoza,Tenerife,7,5,3.0,1.0,2.0,5,5.0
-Ath Madrid,La Coruna,38,10,15.0,2.0,2.0,10,8.0
-Barcelona,Ath Bilbao,81,16,24.0,1.0,3.0,16,6.0
-Sevilla,Espanol,47,26,15.0,4.0,5.0,26,17.0
-Valencia,Betis,48,19,16.0,3.0,5.0,19,14.0
-Albacete,Zaragoza,5,3,2.0,1.0,0.0,3,3.0
-Compostela,Oviedo,5,3,2.0,1.0,0.0,3,3.0
-Salamanca,Real Madrid,1,5,0.0,2.0,1.0,5,7.0
-Santander,Valladolid,13,11,4.0,3.0,4.0,11,13.0
-Sociedad,Merida,3,3,1.0,1.0,0.0,3,3.0
-Sp Gijon,Celta,4,4,2.0,2.0,1.0,4,7.0
-Tenerife,Vallecano,6,5,1.0,1.0,1.0,5,4.0
-Valladolid,Ath Madrid,18,28,6.0,8.0,2.0,28,26.0
-Ath Bilbao,Espanol,39,31,12.0,6.0,9.0,31,27.0
-Barcelona,Valencia,68,40,16.0,6.0,6.0,40,24.0
-Betis,Compostela,6,0,2.0,0.0,1.0,0,1.0
-Celta,Sevilla,30,21,9.0,6.0,4.0,21,22.0
-La Coruna,Sp Gijon,9,10,3.0,2.0,3.0,10,9.0
-Merida,Santander,4,3,1.0,1.0,0.0,3,3.0
-Oviedo,Salamanca,7,4,2.0,0.0,1.0,4,1.0
-Real Madrid,Tenerife,16,1,5.0,0.0,1.0,1,1.0
-Vallecano,Albacete,2,0,1.0,0.0,0.0,0,0.0
-Zaragoza,Sociedad,23,14,8.0,3.0,3.0,14,12.0
-Albacete,Real Madrid,3,5,0.0,2.0,1.0,5,7.0
-Compostela,Barcelona,5,8,1.0,1.0,1.0,8,4.0
-Sevilla,La Coruna,25,17,7.0,6.0,5.0,17,23.0
-Ath Madrid,Merida,5,1,1.0,0.0,1.0,1,1.0
-Espanol,Celta,24,17,10.0,4.0,7.0,17,19.0
-Salamanca,Betis,3,4,1.0,1.0,1.0,4,4.0
-Santander,Zaragoza,15,18,4.0,6.0,4.0,18,22.0
-Sociedad,Vallecano,33,13,10.0,2.0,2.0,13,8.0
-Sp Gijon,Valladolid,8,9,2.0,3.0,0.0,9,9.0
-Tenerife,Oviedo,6,7,1.0,1.0,2.0,7,5.0
-Valencia,Ath Bilbao,51,32,15.0,4.0,9.0,32,21.0
-Real Madrid,Sociedad,69,28,18.0,2.0,5.0,28,11.0
-Ath Bilbao,Celta,30,26,11.0,4.0,7.0,26,19.0
-Barcelona,Salamanca,6,6,1.0,1.0,1.0,6,4.0
-Betis,Tenerife,11,4,4.0,0.0,1.0,4,1.0
-La Coruna,Espanol,33,13,13.0,4.0,4.0,13,16.0
-Merida,Sp Gijon,2,0,2.0,0.0,0.0,0,0.0
-Oviedo,Albacete,1,0,1.0,0.0,0.0,0,0.0
-Valencia,Compostela,11,4,3.0,0.0,0.0,4,0.0
-Valladolid,Sevilla,17,19,4.0,4.0,7.0,19,19.0
-Vallecano,Santander,13,8,3.0,2.0,1.0,8,7.0
-Zaragoza,Ath Madrid,12,18,4.0,6.0,4.0,18,22.0
-Celta,La Coruna,20,19,7.0,3.0,6.0,19,15.0
-Albacete,Betis,1,0,1.0,0.0,2.0,0,2.0
-Ath Madrid,Vallecano,23,11,8.0,2.0,2.0,11,8.0
-Compostela,Ath Bilbao,4,6,1.0,1.0,1.0,6,4.0
-Espanol,Valladolid,21,10,11.0,3.0,3.0,10,12.0
-Salamanca,Valencia,10,1,2.0,1.0,0.0,1,3.0
-Santander,Real Madrid,17,25,3.0,8.0,5.0,25,29.0
-Sevilla,Merida,3,0,1.0,0.0,0.0,0,0.0
-Sociedad,Oviedo,10,6,2.0,0.0,4.0,6,4.0
-Sp Gijon,Zaragoza,10,7,2.0,2.0,2.0,7,8.0
-Tenerife,Barcelona,8,16,1.0,3.0,2.0,16,11.0
-Barcelona,Albacete,10,0,3.0,0.0,0.0,0,0.0
-Betis,Sociedad,34,19,13.0,6.0,3.0,19,21.0
-Real Madrid,Ath Madrid,40,23,13.0,4.0,9.0,23,21.0
-Zaragoza,Sevilla,21,16,7.0,4.0,2.0,16,14.0
-Ath Bilbao,La Coruna,32,27,8.0,6.0,7.0,27,25.0
-Compostela,Salamanca,2,0,1.0,0.0,1.0,0,1.0
-Merida,Espanol,1,2,0.0,1.0,1.0,2,4.0
-Oviedo,Santander,6,9,3.0,3.0,0.0,9,9.0
-Valencia,Tenerife,7,6,2.0,1.0,3.0,6,6.0
-Valladolid,Celta,17,21,4.0,7.0,4.0,21,25.0
-Vallecano,Sp Gijon,5,5,2.0,2.0,0.0,5,6.0
-Sociedad,Barcelona,30,47,7.0,10.0,8.0,47,38.0
-Albacete,Valencia,1,5,0.0,3.0,0.0,5,9.0
-Ath Madrid,Oviedo,15,1,4.0,0.0,1.0,1,1.0
-Celta,Merida,4,0,2.0,0.0,0.0,0,0.0
-Espanol,Zaragoza,28,18,7.0,5.0,4.0,18,19.0
-La Coruna,Valladolid,21,12,7.0,4.0,2.0,12,14.0
-Salamanca,Ath Bilbao,4,2,2.0,0.0,1.0,2,1.0
-Santander,Betis,14,12,4.0,4.0,5.0,12,17.0
-Sevilla,Vallecano,34,14,10.0,2.0,1.0,14,7.0
-Sp Gijon,Real Madrid,2,14,0.0,6.0,3.0,14,21.0
-Tenerife,Compostela,12,2,2.0,0.0,1.0,2,1.0
-Barcelona,Santander,39,7,14.0,0.0,2.0,7,2.0
-Real Madrid,Sevilla,78,29,22.0,2.0,1.0,29,7.0
-Vallecano,Espanol,17,20,5.0,6.0,3.0,20,21.0
-Ath Bilbao,Valladolid,29,17,10.0,2.0,6.0,17,12.0
-Betis,Ath Madrid,24,35,6.0,12.0,5.0,35,41.0
-Compostela,Albacete,3,1,1.0,0.0,0.0,1,0.0
-Merida,La Coruna,1,2,1.0,1.0,0.0,2,3.0
-Oviedo,Sp Gijon,3,1,2.0,0.0,1.0,1,1.0
-Salamanca,Tenerife,4,4,1.0,2.0,0.0,4,6.0
-Valencia,Sociedad,43,29,11.0,7.0,7.0,29,28.0
-Zaragoza,Celta,9,7,4.0,3.0,4.0,7,13.0
-Ath Madrid,Barcelona,37,41,9.0,11.0,6.0,41,39.0
-Santander,Valencia,17,19,7.0,5.0,4.0,19,19.0
-Albacete,Salamanca,3,3,0.0,0.0,1.0,3,1.0
-Celta,Vallecano,23,12,6.0,4.0,3.0,12,15.0
-Espanol,Real Madrid,23,49,8.0,16.0,3.0,49,51.0
-La Coruna,Zaragoza,26,18,8.0,3.0,4.0,18,13.0
-Sevilla,Oviedo,5,5,1.0,1.0,1.0,5,4.0
-Sociedad,Compostela,9,3,2.0,1.0,0.0,3,3.0
-Sp Gijon,Betis,12,17,1.0,5.0,1.0,17,16.0
-Tenerife,Ath Bilbao,9,11,2.0,3.0,1.0,11,10.0
-Valladolid,Merida,1,1,0.0,0.0,2.0,1,2.0
-Barcelona,Sp Gijon,29,4,9.0,0.0,0.0,4,0.0
-Betis,Sevilla,20,26,3.0,6.0,13.0,26,31.0
-Ath Bilbao,Merida,6,2,1.0,0.0,1.0,2,1.0
-Compostela,Santander,6,2,2.0,0.0,1.0,2,1.0
-Oviedo,Espanol,9,7,2.0,1.0,3.0,7,6.0
-Real Madrid,Celta,58,18,16.0,3.0,3.0,18,12.0
-Salamanca,Sociedad,3,4,0.0,1.0,2.0,4,5.0
-Tenerife,Albacete,1,3,0.0,1.0,0.0,3,3.0
-Valencia,Ath Madrid,40,27,11.0,7.0,8.0,27,29.0
-Vallecano,La Coruna,11,18,3.0,5.0,1.0,18,16.0
-Zaragoza,Valladolid,13,10,4.0,3.0,4.0,10,13.0
-Albacete,Ath Bilbao,4,1,2.0,0.0,1.0,1,1.0
-Ath Madrid,Compostela,10,2,3.0,0.0,0.0,2,0.0
-Celta,Oviedo,19,6,6.0,0.0,0.0,6,0.0
-Espanol,Betis,33,27,10.0,6.0,7.0,27,25.0
-Merida,Zaragoza,1,2,0.0,1.0,1.0,2,4.0
-Santander,Salamanca,7,2,3.0,0.0,0.0,2,0.0
-Sevilla,Barcelona,27,47,5.0,13.0,7.0,47,46.0
-Sociedad,Tenerife,5,5,1.0,2.0,2.0,5,8.0
-Sp Gijon,Valencia,7,17,1.0,7.0,1.0,17,22.0
-Valladolid,Vallecano,19,11,4.0,4.0,2.0,11,14.0
-La Coruna,Real Madrid,38,33,10.0,6.0,5.0,33,23.0
-Albacete,Sociedad,8,8,1.0,1.0,1.0,8,4.0
-Ath Bilbao,Zaragoza,23,12,9.0,2.0,5.0,12,11.0
-Betis,Celta,29,29,9.0,6.0,5.0,29,23.0
-Compostela,Sp Gijon,5,1,3.0,0.0,0.0,1,0.0
-Oviedo,La Coruna,4,10,0.0,5.0,1.0,10,16.0
-Real Madrid,Valladolid,56,17,15.0,1.0,2.0,17,5.0
-Salamanca,Ath Madrid,8,8,2.0,1.0,0.0,8,3.0
-Tenerife,Santander,10,7,2.0,0.0,3.0,7,3.0
-Valencia,Sevilla,38,21,14.0,7.0,4.0,21,25.0
-Vallecano,Merida,4,1,1.0,0.0,0.0,1,0.0
-Barcelona,Espanol,66,13,22.0,1.0,4.0,13,7.0
-Ath Bilbao,Sociedad,36,23,11.0,6.0,8.0,23,26.0
-Ath Madrid,Tenerife,10,7,3.0,1.0,1.0,7,4.0
-Celta,Barcelona,36,35,9.0,7.0,6.0,35,27.0
-Espanol,Valencia,47,34,13.0,8.0,6.0,34,30.0
-La Coruna,Betis,24,19,5.0,4.0,8.0,19,20.0
-Merida,Real Madrid,4,4,0.0,0.0,2.0,4,2.0
-Santander,Albacete,6,7,1.0,1.0,1.0,7,4.0
-Sevilla,Compostela,0,2,0.0,2.0,0.0,2,6.0
-Sp Gijon,Salamanca,4,3,1.0,0.0,1.0,3,1.0
-Valladolid,Oviedo,8,5,4.0,1.0,1.0,5,4.0
-Zaragoza,Vallecano,18,9,4.0,1.0,2.0,9,5.0
-Albacete,Ath Madrid,2,4,0.0,1.0,2.0,4,5.0
-Betis,Valladolid,26,12,9.0,3.0,4.0,12,13.0
-Barcelona,La Coruna,48,23,14.0,3.0,4.0,23,13.0
-Compostela,Espanol,6,3,2.0,0.0,1.0,3,1.0
-Oviedo,Merida,2,0,1.0,0.0,1.0,0,1.0
-Real Madrid,Zaragoza,37,18,11.0,3.0,2.0,18,11.0
-Salamanca,Sevilla,4,1,1.0,0.0,0.0,1,0.0
-Sociedad,Santander,19,10,9.0,2.0,2.0,10,8.0
-Tenerife,Sp Gijon,13,2,4.0,0.0,0.0,2,0.0
-Valencia,Celta,35,16,14.0,2.0,6.0,16,12.0
-Vallecano,Ath Bilbao,17,24,2.0,6.0,6.0,24,24.0
-Valencia,La Coruna,37,17,12.0,3.0,6.0,17,15.0
-Albacete,Sp Gijon,1,3,0.0,1.0,0.0,3,3.0
-Barcelona,Valladolid,52,10,14.0,1.0,3.0,10,6.0
-Betis,Merida,2,2,1.0,1.0,0.0,2,3.0
-Compostela,Celta,3,2,1.0,0.0,2.0,2,2.0
-Oviedo,Zaragoza,9,4,4.0,1.0,1.0,4,4.0
-Real Madrid,Vallecano,44,12,12.0,1.0,1.0,12,4.0
-Salamanca,Espanol,6,6,1.0,1.0,1.0,6,4.0
-Santander,Ath Bilbao,21,24,4.0,8.0,4.0,24,28.0
-Sociedad,Ath Madrid,34,28,12.0,8.0,3.0,28,27.0
-Tenerife,Sevilla,6,7,1.0,2.0,1.0,7,7.0
-Ath Bilbao,Real Madrid,26,49,7.0,15.0,6.0,49,51.0
-Ath Madrid,Santander,28,10,9.0,1.0,5.0,10,8.0
-Celta,Salamanca,7,2,3.0,0.0,0.0,2,0.0
-Espanol,Tenerife,11,3,6.0,0.0,0.0,3,0.0
-La Coruna,Compostela,5,6,2.0,1.0,0.0,6,3.0
-Sevilla,Albacete,4,1,2.0,0.0,1.0,1,1.0
-Sp Gijon,Sociedad,9,12,1.0,4.0,2.0,12,14.0
-Valladolid,Valencia,16,23,4.0,7.0,7.0,23,28.0
-Vallecano,Oviedo,4,8,0.0,3.0,1.0,8,10.0
-Zaragoza,Betis,18,20,5.0,5.0,3.0,20,18.0
-Merida,Barcelona,1,2,0.0,1.0,1.0,2,4.0
-Salamanca,La Coruna,7,7,2.0,1.0,0.0,7,3.0
-Albacete,Espanol,3,1,2.0,0.0,1.0,1,1.0
-Ath Madrid,Ath Bilbao,47,21,17.0,4.0,5.0,21,17.0
-Barcelona,Zaragoza,49,14,14.0,0.0,2.0,14,2.0
-Betis,Vallecano,19,13,5.0,3.0,4.0,13,13.0
-Compostela,Valladolid,2,4,0.0,1.0,2.0,4,5.0
-Oviedo,Real Madrid,7,8,1.0,2.0,3.0,8,9.0
-Santander,Sp Gijon,12,4,4.0,0.0,3.0,4,3.0
-Sociedad,Sevilla,30,26,10.0,5.0,7.0,26,22.0
-Tenerife,Celta,3,6,1.0,2.0,2.0,6,8.0
-Valencia,Merida,7,1,2.0,0.0,0.0,1,0.0
-Sp Gijon,Ath Madrid,11,18,2.0,5.0,2.0,18,17.0
-Zaragoza,Valencia,26,23,4.0,6.0,6.0,23,24.0
-Ath Bilbao,Oviedo,14,9,3.0,2.0,1.0,9,7.0
-Celta,Albacete,4,4,0.0,0.0,2.0,4,2.0
-Espanol,Sociedad,31,34,8.0,9.0,7.0,34,34.0
-La Coruna,Tenerife,10,3,4.0,0.0,2.0,3,2.0
-Merida,Compostela,3,5,0.0,1.0,1.0,5,4.0
-Real Madrid,Betis,45,19,14.0,3.0,7.0,19,16.0
-Sevilla,Santander,18,13,5.0,3.0,5.0,13,14.0
-Valladolid,Salamanca,6,3,2.0,1.0,0.0,3,3.0
-Vallecano,Barcelona,14,34,4.0,7.0,3.0,34,24.0
-Ath Madrid,Sevilla,46,22,12.0,3.0,9.0,22,18.0
-Barcelona,Real Madrid,51,28,13.0,6.0,9.0,28,27.0
-Valencia,Vallecano,29,10,9.0,1.0,4.0,10,7.0
-Albacete,La Coruna,1,3,1.0,2.0,0.0,3,6.0
-Betis,Oviedo,13,2,4.0,0.0,1.0,2,1.0
-Compostela,Zaragoza,7,3,3.0,0.0,0.0,3,0.0
-Salamanca,Merida,5,3,1.0,0.0,1.0,3,1.0
-Santander,Espanol,21,19,4.0,5.0,7.0,19,22.0
-Sociedad,Celta,34,26,11.0,5.0,6.0,26,21.0
-Sp Gijon,Ath Bilbao,10,15,1.0,4.0,4.0,15,16.0
-Tenerife,Valladolid,6,10,2.0,2.0,2.0,10,8.0
-Real Madrid,Valencia,54,28,17.0,4.0,7.0,28,19.0
-Zaragoza,Salamanca,4,2,1.0,0.0,2.0,2,2.0
-Ath Bilbao,Betis,36,26,12.0,6.0,6.0,26,24.0
-Celta,Santander,12,10,2.0,3.0,5.0,10,14.0
-Espanol,Ath Madrid,37,32,9.0,8.0,8.0,32,32.0
-La Coruna,Sociedad,29,17,9.0,4.0,5.0,17,17.0
-Merida,Tenerife,3,1,1.0,0.0,1.0,1,1.0
-Oviedo,Barcelona,11,10,3.0,3.0,0.0,10,9.0
-Sevilla,Sp Gijon,18,5,7.0,0.0,1.0,5,1.0
-Valladolid,Albacete,5,0,2.0,0.0,0.0,0,0.0
-Vallecano,Compostela,0,2,0.0,2.0,0.0,2,6.0
-Santander,La Coruna,9,19,2.0,7.0,6.0,19,27.0
-Albacete,Merida,2,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Celta,39,25,12.0,4.0,4.0,25,16.0
-Barcelona,Betis,77,29,19.0,3.0,2.0,29,11.0
-Compostela,Real Madrid,6,8,0.0,2.0,1.0,8,7.0
-Salamanca,Vallecano,1,2,0.0,1.0,0.0,2,3.0
-Sevilla,Ath Bilbao,47,20,15.0,2.0,8.0,20,14.0
-Sociedad,Valladolid,31,10,11.0,3.0,1.0,10,10.0
-Sp Gijon,Espanol,13,16,4.0,4.0,1.0,16,13.0
-Tenerife,Zaragoza,6,9,0.0,2.0,4.0,9,10.0
-Valencia,Oviedo,17,5,5.0,0.0,1.0,5,1.0
-Ath Bilbao,Barcelona,28,43,6.0,14.0,8.0,43,50.0
-Espanol,Sevilla,32,38,7.0,12.0,5.0,38,41.0
-Merida,Sociedad,4,3,1.0,1.0,0.0,3,3.0
-Real Madrid,Salamanca,9,1,3.0,0.0,0.0,1,0.0
-Valladolid,Santander,12,10,5.0,3.0,3.0,10,12.0
-Betis,Valencia,34,29,11.0,8.0,5.0,29,29.0
-Celta,Sp Gijon,7,3,4.0,0.0,1.0,3,1.0
-La Coruna,Ath Madrid,27,21,7.0,5.0,7.0,21,22.0
-Oviedo,Compostela,6,4,1.0,0.0,2.0,4,2.0
-Vallecano,Tenerife,5,6,1.0,2.0,0.0,6,6.0
-Zaragoza,Albacete,7,5,2.0,1.0,0.0,5,3.0
-Valencia,Barcelona,32,44,6.0,14.0,8.0,44,50.0
-Albacete,Vallecano,1,2,0.0,1.0,0.0,2,3.0
-Ath Madrid,Valladolid,40,13,14.0,2.0,0.0,13,6.0
-Compostela,Betis,3,7,0.0,3.0,0.0,7,9.0
-Espanol,Ath Bilbao,41,26,15.0,3.0,9.0,26,18.0
-Salamanca,Oviedo,1,4,0.0,2.0,1.0,4,7.0
-Santander,Merida,4,0,2.0,0.0,0.0,0,0.0
-Sevilla,Celta,26,18,9.0,6.0,4.0,18,22.0
-Sociedad,Zaragoza,24,13,9.0,3.0,2.0,13,11.0
-Sp Gijon,La Coruna,10,12,2.0,2.0,4.0,12,10.0
-Tenerife,Real Madrid,11,14,2.0,3.0,1.0,14,10.0
-Barcelona,Compostela,6,0,3.0,0.0,0.0,0,0.0
-Real Madrid,Albacete,10,2,3.0,0.0,0.0,2,0.0
-Zaragoza,Santander,22,14,6.0,2.0,6.0,14,12.0
-Ath Bilbao,Valencia,34,30,11.0,7.0,10.0,30,31.0
-Betis,Salamanca,7,1,3.0,0.0,0.0,1,0.0
-Celta,Espanol,37,26,12.0,2.0,7.0,26,13.0
-La Coruna,Sevilla,32,26,8.0,5.0,5.0,26,20.0
-Merida,Ath Madrid,2,2,1.0,1.0,0.0,2,3.0
-Oviedo,Tenerife,3,7,1.0,3.0,0.0,7,9.0
-Valladolid,Sp Gijon,6,4,3.0,1.0,1.0,4,4.0
-Vallecano,Sociedad,23,16,7.0,3.0,4.0,16,13.0
-Sp Gijon,Merida,3,1,1.0,0.0,1.0,1,1.0
-Tenerife,Betis,9,7,3.0,2.0,0.0,7,6.0
-Albacete,Oviedo,0,1,0.0,1.0,0.0,1,3.0
-Ath Madrid,Zaragoza,24,11,7.0,2.0,5.0,11,11.0
-Celta,Ath Bilbao,23,27,7.0,9.0,6.0,27,33.0
-Compostela,Valencia,3,8,1.0,2.0,0.0,8,6.0
-Espanol,La Coruna,29,15,11.0,4.0,6.0,15,18.0
-Salamanca,Barcelona,6,10,1.0,2.0,0.0,10,6.0
-Santander,Vallecano,7,7,1.0,2.0,3.0,7,9.0
-Sevilla,Valladolid,26,14,6.0,2.0,7.0,14,13.0
-Sociedad,Real Madrid,37,44,8.0,12.0,5.0,44,41.0
-Ath Bilbao,Compostela,4,2,1.0,0.0,2.0,2,2.0
-Barcelona,Tenerife,16,7,4.0,0.0,2.0,7,2.0
-Betis,Albacete,7,6,2.0,1.0,0.0,6,3.0
-La Coruna,Celta,23,17,8.0,5.0,3.0,17,18.0
-Merida,Sevilla,3,2,1.0,0.0,0.0,2,0.0
-Real Madrid,Santander,41,18,11.0,3.0,2.0,18,11.0
-Valencia,Salamanca,3,1,2.0,1.0,0.0,1,3.0
-Valladolid,Espanol,20,12,8.0,1.0,8.0,12,11.0
-Vallecano,Ath Madrid,7,18,1.0,8.0,3.0,18,27.0
-Zaragoza,Sp Gijon,11,8,1.0,1.0,4.0,8,7.0
-Oviedo,Sociedad,3,7,2.0,2.0,2.0,7,8.0
-Albacete,Barcelona,2,5,0.0,3.0,0.0,5,9.0
-Ath Madrid,Real Madrid,26,49,3.0,15.0,8.0,49,53.0
-Celta,Valladolid,24,14,6.0,1.0,8.0,14,11.0
-Espanol,Merida,3,0,1.0,0.0,1.0,0,1.0
-La Coruna,Ath Bilbao,34,20,10.0,4.0,7.0,20,19.0
-Salamanca,Compostela,1,1,1.0,1.0,0.0,1,3.0
-Santander,Oviedo,6,1,3.0,0.0,3.0,1,3.0
-Sevilla,Zaragoza,32,12,8.0,2.0,3.0,12,9.0
-Sociedad,Betis,33,26,9.0,3.0,10.0,26,19.0
-Sp Gijon,Vallecano,10,4,3.0,0.0,1.0,4,1.0
-Tenerife,Valencia,10,7,4.0,1.0,1.0,7,4.0
-Barcelona,Sociedad,65,16,24.0,1.0,0.0,16,3.0
-Oviedo,Ath Madrid,10,7,2.0,1.0,2.0,7,5.0
-Zaragoza,Espanol,17,15,5.0,3.0,8.0,15,17.0
-Ath Bilbao,Salamanca,5,1,3.0,0.0,0.0,1,0.0
-Betis,Santander,20,16,4.0,1.0,8.0,16,11.0
-Compostela,Tenerife,2,5,0.0,2.0,1.0,5,7.0
-Merida,Celta,6,0,2.0,0.0,0.0,0,0.0
-Real Madrid,Sp Gijon,26,8,7.0,2.0,0.0,8,6.0
-Valencia,Albacete,3,1,2.0,1.0,0.0,1,3.0
-Valladolid,La Coruna,25,10,7.0,2.0,4.0,10,10.0
-Vallecano,Sevilla,13,13,4.0,4.0,5.0,13,17.0
-Santander,Barcelona,17,27,2.0,8.0,6.0,27,30.0
-Sevilla,Real Madrid,44,49,11.0,12.0,2.0,49,38.0
-Albacete,Compostela,2,1,1.0,0.0,0.0,1,0.0
-Ath Madrid,Betis,33,16,12.0,4.0,7.0,16,19.0
-Celta,Zaragoza,17,8,6.0,1.0,4.0,8,7.0
-Espanol,Vallecano,30,16,8.0,2.0,4.0,16,10.0
-La Coruna,Merida,2,2,1.0,1.0,0.0,2,3.0
-Sociedad,Valencia,34,27,8.0,8.0,9.0,27,33.0
-Sp Gijon,Oviedo,1,3,0.0,2.0,1.0,3,7.0
-Tenerife,Salamanca,7,0,3.0,0.0,0.0,0,0.0
-Valladolid,Ath Bilbao,24,21,8.0,5.0,5.0,21,20.0
-Barcelona,Ath Madrid,59,30,15.0,4.0,7.0,30,19.0
-Valencia,Santander,28,19,8.0,5.0,3.0,19,18.0
-Ath Bilbao,Tenerife,14,3,5.0,1.0,0.0,3,3.0
-Betis,Sp Gijon,9,8,3.0,2.0,2.0,8,8.0
-Compostela,Sociedad,4,5,1.0,2.0,0.0,5,6.0
-Merida,Valladolid,1,0,1.0,0.0,1.0,0,1.0
-Oviedo,Sevilla,7,5,2.0,1.0,0.0,5,3.0
-Real Madrid,Espanol,75,18,23.0,1.0,3.0,18,6.0
-Salamanca,Albacete,2,4,0.0,1.0,0.0,4,3.0
-Vallecano,Celta,24,7,10.0,1.0,2.0,7,5.0
-Zaragoza,La Coruna,23,20,6.0,5.0,4.0,20,19.0
-Ath Madrid,Valencia,41,29,13.0,7.0,6.0,29,27.0
-Albacete,Tenerife,0,0,0.0,0.0,1.0,0,1.0
-Celta,Real Madrid,33,42,6.0,14.0,2.0,42,44.0
-La Coruna,Vallecano,13,9,3.0,0.0,6.0,9,6.0
-Merida,Ath Bilbao,1,0,1.0,0.0,1.0,0,1.0
-Santander,Compostela,4,3,1.0,0.0,2.0,3,2.0
-Sevilla,Betis,41,22,14.0,4.0,4.0,22,16.0
-Sociedad,Salamanca,6,1,2.0,0.0,1.0,1,1.0
-Sp Gijon,Barcelona,4,24,0.0,7.0,2.0,24,23.0
-Valladolid,Zaragoza,17,7,5.0,1.0,5.0,7,8.0
-Compostela,Ath Madrid,6,5,2.0,1.0,0.0,5,3.0
-Valencia,Sp Gijon,14,10,3.0,2.0,4.0,10,10.0
-Ath Bilbao,Albacete,6,4,1.0,0.0,2.0,4,2.0
-Barcelona,Sevilla,63,18,20.0,1.0,4.0,18,7.0
-Betis,Espanol,31,34,6.0,8.0,9.0,34,33.0
-Oviedo,Celta,11,7,4.0,1.0,1.0,7,4.0
-Real Madrid,La Coruna,60,16,18.0,1.0,2.0,16,5.0
-Salamanca,Santander,6,2,1.0,1.0,1.0,2,4.0
-Tenerife,Sociedad,3,4,1.0,2.0,2.0,4,8.0
-Vallecano,Valladolid,12,15,4.0,6.0,0.0,15,18.0
-Zaragoza,Merida,4,2,1.0,0.0,1.0,2,1.0
-Espanol,Oviedo,13,2,5.0,0.0,1.0,2,1.0
-Ath Madrid,Salamanca,5,2,2.0,0.0,1.0,2,1.0
-Celta,Betis,33,20,11.0,6.0,3.0,20,21.0
-La Coruna,Oviedo,15,6,5.0,1.0,0.0,6,3.0
-Merida,Vallecano,0,1,0.0,1.0,0.0,1,3.0
-Santander,Tenerife,6,5,2.0,2.0,1.0,5,7.0
-Sevilla,Valencia,31,25,12.0,7.0,6.0,25,27.0
-Sociedad,Albacete,8,4,1.0,2.0,0.0,4,6.0
-Sp Gijon,Compostela,3,4,1.0,1.0,1.0,4,4.0
-Valladolid,Real Madrid,16,31,2.0,10.0,6.0,31,36.0
-Zaragoza,Ath Bilbao,25,20,7.0,3.0,6.0,20,15.0
-Espanol,Barcelona,24,44,3.0,13.0,11.0,44,50.0
-Tenerife,Ath Madrid,7,7,1.0,1.0,3.0,7,6.0
-Albacete,Santander,6,2,1.0,0.0,2.0,2,2.0
-Barcelona,Celta,52,22,14.0,2.0,6.0,22,12.0
-Betis,La Coruna,10,20,4.0,8.0,5.0,20,29.0
-Compostela,Sevilla,2,0,1.0,0.0,1.0,0,1.0
-Oviedo,Valladolid,9,12,1.0,2.0,3.0,12,9.0
-Real Madrid,Merida,5,0,2.0,0.0,0.0,0,0.0
-Salamanca,Sp Gijon,7,0,2.0,0.0,0.0,0,0.0
-Sociedad,Ath Bilbao,42,31,11.0,5.0,9.0,31,24.0
-Valencia,Espanol,45,25,16.0,5.0,6.0,25,21.0
-Vallecano,Zaragoza,6,9,1.0,3.0,3.0,9,12.0
-Ath Bilbao,Vallecano,27,19,9.0,3.0,2.0,19,11.0
-Ath Madrid,Albacete,6,1,3.0,0.0,0.0,1,0.0
-Celta,Valencia,26,30,7.0,7.0,8.0,30,29.0
-Espanol,Compostela,1,2,1.0,1.0,1.0,2,4.0
-Santander,Sociedad,14,20,3.0,7.0,3.0,20,24.0
-Sevilla,Salamanca,3,1,1.0,0.0,0.0,1,0.0
-Sp Gijon,Tenerife,2,7,1.0,3.0,0.0,7,9.0
-Valladolid,Betis,12,22,3.0,8.0,5.0,22,29.0
-Zaragoza,Real Madrid,19,34,1.0,9.0,6.0,34,33.0
-La Coruna,Barcelona,33,45,8.0,9.0,4.0,45,31.0
-Merida,Oviedo,5,2,2.0,0.0,0.0,2,0.0
-Hercules,Extremadura,2,1,1.0,0.0,0.0,1,0.0
-Zaragoza,Logrones,2,2,0.0,0.0,1.0,2,1.0
-Logrones,Tenerife,0,1,0.0,1.0,0.0,1,3.0
-Real Madrid,Hercules,5,0,2.0,0.0,0.0,0,0.0
-Extremadura,Betis,2,4,1.0,1.0,0.0,4,3.0
-Compostela,Logrones,1,2,0.0,1.0,0.0,2,3.0
-Hercules,Celta,0,2,0.0,1.0,0.0,2,3.0
-Vallecano,Extremadura,3,0,1.0,0.0,0.0,0,0.0
-Logrones,Ath Madrid,0,3,0.0,1.0,0.0,3,3.0
-Extremadura,Oviedo,0,3,0.0,2.0,0.0,3,6.0
-La Coruna,Hercules,5,0,2.0,0.0,0.0,0,0.0
-Espanol,Extremadura,5,1,1.0,0.0,1.0,1,1.0
-Logrones,Sevilla,2,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Hercules,5,1,2.0,0.0,0.0,1,0.0
-Extremadura,Santander,1,5,0.0,2.0,0.0,5,6.0
-Hercules,Betis,0,1,0.0,1.0,0.0,1,3.0
-Valencia,Logrones,0,1,0.0,1.0,0.0,1,3.0
-Logrones,Sp Gijon,0,2,0.0,1.0,0.0,2,3.0
-Sociedad,Extremadura,5,0,2.0,0.0,0.0,0,0.0
-Vallecano,Hercules,2,1,1.0,0.0,0.0,1,0.0
-Extremadura,Zaragoza,2,3,1.0,1.0,0.0,3,3.0
-Hercules,Oviedo,1,1,0.0,0.0,1.0,1,1.0
-Barcelona,Logrones,8,0,1.0,0.0,0.0,0,0.0
-Espanol,Hercules,5,1,2.0,0.0,0.0,1,0.0
-Logrones,Valladolid,0,1,0.0,1.0,0.0,1,3.0
-Tenerife,Extremadura,3,2,1.0,0.0,1.0,2,1.0
-Ath Bilbao,Logrones,6,0,1.0,0.0,0.0,0,0.0
-Extremadura,Compostela,1,1,0.0,0.0,1.0,1,1.0
-Hercules,Santander,2,4,0.0,2.0,0.0,4,6.0
-Logrones,Extremadura,0,0,0.0,0.0,1.0,0,1.0
-Sociedad,Hercules,3,4,1.0,1.0,0.0,4,3.0
-Extremadura,Sevilla,0,1,0.0,1.0,0.0,1,3.0
-Hercules,Zaragoza,3,2,1.0,0.0,1.0,2,1.0
-Real Madrid,Logrones,0,0,0.0,0.0,1.0,0,1.0
-Tenerife,Hercules,3,1,1.0,0.0,0.0,1,0.0
-Valencia,Extremadura,1,1,0.0,0.0,2.0,1,2.0
-Logrones,Celta,0,3,0.0,1.0,0.0,3,3.0
-Extremadura,Sp Gijon,1,2,0.0,1.0,0.0,2,3.0
-Hercules,Compostela,1,0,1.0,0.0,0.0,0,0.0
-La Coruna,Logrones,4,1,1.0,0.0,0.0,1,0.0
-Logrones,Hercules,3,2,1.0,0.0,0.0,2,0.0
-Barcelona,Extremadura,4,0,2.0,0.0,0.0,0,0.0
-Betis,Logrones,5,1,1.0,0.0,0.0,1,0.0
-Extremadura,Valladolid,1,1,0.0,0.0,2.0,1,2.0
-Hercules,Sevilla,5,0,2.0,0.0,0.0,0,0.0
-Ath Bilbao,Extremadura,0,0,0.0,0.0,2.0,0,2.0
-Logrones,Vallecano,0,2,0.0,1.0,0.0,2,3.0
-Valencia,Hercules,5,0,2.0,0.0,0.0,0,0.0
-Extremadura,Ath Madrid,4,5,1.0,1.0,0.0,5,3.0
-Hercules,Sp Gijon,1,1,0.0,0.0,2.0,1,2.0
-Oviedo,Logrones,2,1,1.0,0.0,0.0,1,0.0
-Extremadura,Real Madrid,1,5,0.0,1.0,1.0,5,4.0
-Logrones,Espanol,1,0,1.0,0.0,0.0,0,0.0
-Barcelona,Hercules,2,5,0.0,2.0,0.0,5,6.0
-Celta,Extremadura,5,2,1.0,1.0,0.0,2,3.0
-Hercules,Valladolid,1,0,1.0,0.0,0.0,0,0.0
-Santander,Logrones,2,1,1.0,0.0,0.0,1,0.0
-Extremadura,La Coruna,2,2,1.0,1.0,0.0,2,3.0
-Ath Bilbao,Hercules,8,0,2.0,0.0,0.0,0,0.0
-Logrones,Sociedad,1,0,1.0,0.0,0.0,0,0.0
-Logrones,Zaragoza,1,2,0.0,1.0,0.0,2,3.0
-Extremadura,Hercules,0,0,0.0,0.0,1.0,0,1.0
-Betis,Extremadura,4,2,1.0,0.0,1.0,2,1.0
-Hercules,Real Madrid,3,6,0.0,2.0,0.0,6,6.0
-Tenerife,Logrones,2,0,1.0,0.0,0.0,0,0.0
-Celta,Hercules,3,0,1.0,0.0,0.0,0,0.0
-Extremadura,Vallecano,1,0,1.0,0.0,0.0,0,0.0
-Logrones,Compostela,1,1,0.0,0.0,1.0,1,1.0
-Ath Madrid,Logrones,2,0,1.0,0.0,0.0,0,0.0
-Hercules,La Coruna,2,3,1.0,1.0,0.0,3,3.0
-Oviedo,Extremadura,1,0,1.0,0.0,1.0,0,1.0
-Hercules,Ath Madrid,4,3,1.0,1.0,0.0,3,3.0
-Extremadura,Espanol,4,0,2.0,0.0,0.0,0,0.0
-Sevilla,Logrones,1,4,0.0,1.0,0.0,4,3.0
-Logrones,Valencia,2,1,1.0,0.0,0.0,1,0.0
-Betis,Hercules,2,1,1.0,0.0,0.0,1,0.0
-Santander,Extremadura,5,4,1.0,1.0,0.0,4,3.0
-Extremadura,Sociedad,2,0,2.0,0.0,0.0,0,0.0
-Hercules,Vallecano,1,0,1.0,0.0,0.0,0,0.0
-Sp Gijon,Logrones,2,0,1.0,0.0,0.0,0,0.0
-Logrones,Barcelona,0,1,0.0,1.0,0.0,1,3.0
-Oviedo,Hercules,2,0,1.0,0.0,0.0,0,0.0
-Zaragoza,Extremadura,6,2,2.0,0.0,0.0,2,0.0
-Extremadura,Tenerife,3,0,2.0,0.0,0.0,0,0.0
-Hercules,Espanol,1,2,0.0,1.0,1.0,2,4.0
-Valladolid,Logrones,2,1,1.0,0.0,0.0,1,0.0
-Compostela,Extremadura,4,0,1.0,0.0,0.0,0,0.0
-Logrones,Ath Bilbao,1,4,0.0,1.0,0.0,4,3.0
-Santander,Hercules,1,2,0.0,1.0,1.0,2,4.0
-Extremadura,Logrones,3,0,1.0,0.0,0.0,0,0.0
-Hercules,Sociedad,4,2,2.0,0.0,0.0,2,0.0
-Sevilla,Extremadura,0,0,0.0,0.0,1.0,0,1.0
-Logrones,Real Madrid,0,2,0.0,1.0,0.0,2,3.0
-Zaragoza,Hercules,2,0,1.0,0.0,1.0,0,1.0
-Extremadura,Valencia,2,0,2.0,0.0,0.0,0,0.0
-Celta,Logrones,4,0,1.0,0.0,0.0,0,0.0
-Hercules,Tenerife,3,1,1.0,0.0,0.0,1,0.0
-Compostela,Hercules,2,2,0.0,0.0,1.0,2,1.0
-Logrones,La Coruna,1,2,0.0,1.0,0.0,2,3.0
-Sp Gijon,Extremadura,1,1,0.0,0.0,1.0,1,1.0
-Hercules,Logrones,1,0,1.0,0.0,0.0,0,0.0
-Extremadura,Barcelona,2,5,0.0,2.0,0.0,5,6.0
-Valladolid,Extremadura,4,0,1.0,0.0,1.0,0,1.0
-Logrones,Betis,2,1,1.0,0.0,0.0,1,0.0
-Sevilla,Hercules,6,0,2.0,0.0,0.0,0,0.0
-Extremadura,Ath Bilbao,1,3,0.0,2.0,0.0,3,6.0
-Hercules,Valencia,1,4,0.0,2.0,0.0,4,6.0
-Vallecano,Logrones,1,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Extremadura,6,1,1.0,0.0,1.0,1,1.0
-Logrones,Oviedo,1,1,0.0,0.0,1.0,1,1.0
-Sp Gijon,Hercules,4,0,2.0,0.0,0.0,0,0.0
-Espanol,Logrones,5,1,1.0,0.0,0.0,1,0.0
-Hercules,Barcelona,2,4,1.0,1.0,0.0,4,3.0
-Real Madrid,Extremadura,7,0,2.0,0.0,0.0,0,0.0
-Extremadura,Celta,3,1,1.0,0.0,1.0,1,1.0
-Logrones,Santander,1,1,0.0,0.0,1.0,1,1.0
-Valladolid,Hercules,1,0,1.0,0.0,0.0,0,0.0
-Hercules,Ath Bilbao,3,3,1.0,1.0,0.0,3,3.0
-La Coruna,Extremadura,2,1,1.0,0.0,1.0,1,1.0
-Sociedad,Logrones,2,1,1.0,0.0,0.0,1,0.0
-Mallorca,Valencia,23,24,8.0,7.0,4.0,24,25.0
-La Coruna,Mallorca,20,15,6.0,2.0,7.0,15,13.0
-Mallorca,Sp Gijon,10,10,2.0,3.0,0.0,10,9.0
-Tenerife,Mallorca,3,5,1.0,1.0,2.0,5,5.0
-Compostela,Mallorca,2,2,0.0,0.0,1.0,2,1.0
-Mallorca,Barcelona,13,39,4.0,14.0,1.0,39,43.0
-Santander,Mallorca,16,14,6.0,5.0,3.0,14,18.0
-Mallorca,Real Madrid,14,33,5.0,10.0,4.0,33,34.0
-Valladolid,Mallorca,23,15,7.0,3.0,3.0,15,12.0
-Mallorca,Ath Bilbao,34,21,9.0,4.0,6.0,21,18.0
-Celta,Mallorca,23,17,7.0,3.0,3.0,17,12.0
-Mallorca,Oviedo,6,4,1.0,0.0,3.0,4,3.0
-Merida,Mallorca,0,0,0.0,0.0,1.0,0,1.0
-Mallorca,Zaragoza,21,13,9.0,3.0,2.0,13,11.0
-Espanol,Mallorca,31,16,14.0,3.0,2.0,16,11.0
-Mallorca,Betis,24,18,7.0,4.0,5.0,18,17.0
-Ath Madrid,Mallorca,28,15,8.0,4.0,5.0,15,17.0
-Mallorca,Salamanca,2,0,2.0,0.0,0.0,0,0.0
-Sociedad,Mallorca,23,10,12.0,4.0,0.0,10,12.0
-Valencia,Mallorca,37,15,11.0,3.0,5.0,15,14.0
-Mallorca,La Coruna,24,15,6.0,3.0,6.0,15,15.0
-Sp Gijon,Mallorca,9,8,2.0,3.0,0.0,8,9.0
-Mallorca,Tenerife,12,2,3.0,0.0,1.0,2,1.0
-Mallorca,Compostela,2,1,1.0,0.0,0.0,1,0.0
-Barcelona,Mallorca,45,19,13.0,3.0,3.0,19,12.0
-Mallorca,Santander,19,16,6.0,4.0,4.0,16,16.0
-Real Madrid,Mallorca,48,25,14.0,4.0,1.0,25,13.0
-Mallorca,Valladolid,22,9,9.0,1.0,3.0,9,6.0
-Ath Bilbao,Mallorca,32,15,12.0,4.0,3.0,15,15.0
-Mallorca,Celta,21,12,8.0,3.0,2.0,12,11.0
-Oviedo,Mallorca,2,5,0.0,2.0,2.0,5,8.0
-Mallorca,Merida,1,0,1.0,0.0,0.0,0,0.0
-Zaragoza,Mallorca,22,18,6.0,5.0,3.0,18,18.0
-Mallorca,Espanol,34,17,13.0,2.0,4.0,17,10.0
-Betis,Mallorca,23,15,10.0,5.0,1.0,15,16.0
-Mallorca,Ath Madrid,25,20,8.0,5.0,4.0,20,19.0
-Salamanca,Mallorca,1,1,0.0,0.0,2.0,1,2.0
-Mallorca,Sociedad,20,18,7.0,5.0,4.0,18,19.0
-Alaves,Betis,7,8,3.0,5.0,3.0,8,18.0
-Real Madrid,Villareal,4,1,1.0,0.0,0.0,1,0.0
-Villareal,Celta,1,1,0.0,0.0,1.0,1,1.0
-Oviedo,Alaves,5,3,2.0,0.0,1.0,3,1.0
-Alaves,Zaragoza,4,5,3.0,2.0,0.0,5,6.0
-Valencia,Villareal,1,0,1.0,0.0,0.0,0,0.0
-Tenerife,Alaves,1,4,0.0,2.0,0.0,4,6.0
-Villareal,Salamanca,5,0,1.0,0.0,0.0,0,0.0
-Alaves,Santander,9,6,2.0,2.0,1.0,6,7.0
-Espanol,Villareal,1,1,0.0,0.0,1.0,1,1.0
-Villareal,Sociedad,1,1,0.0,0.0,1.0,1,1.0
-Mallorca,Alaves,14,6,6.0,0.0,2.0,6,2.0
-Alaves,Extremadura,0,1,0.0,1.0,0.0,1,3.0
-Oviedo,Villareal,0,0,0.0,0.0,1.0,0,1.0
-Ath Madrid,Alaves,17,5,7.0,1.0,2.0,5,5.0
-Villareal,Tenerife,2,5,0.0,1.0,0.0,5,3.0
-Alaves,Real Madrid,10,31,1.0,9.0,2.0,31,29.0
-Mallorca,Villareal,1,0,1.0,0.0,0.0,0,0.0
-La Coruna,Alaves,15,8,4.0,3.0,1.0,8,10.0
-Villareal,Ath Madrid,2,1,1.0,0.0,0.0,1,0.0
-Alaves,Celta,16,9,7.0,2.0,3.0,9,9.0
-La Coruna,Villareal,2,1,1.0,0.0,0.0,1,0.0
-Salamanca,Extremadura,2,1,1.0,0.0,0.0,1,0.0
-Villareal,Alaves,2,0,1.0,0.0,0.0,0,0.0
-Alaves,Valencia,12,14,3.0,5.0,4.0,14,19.0
-Villareal,Valladolid,2,1,1.0,0.0,0.0,1,0.0
-Barcelona,Villareal,1,3,0.0,1.0,0.0,3,3.0
-Valladolid,Alaves,9,11,3.0,4.0,1.0,11,13.0
-Alaves,Salamanca,1,0,1.0,0.0,0.0,0,0.0
-Villareal,Ath Bilbao,0,1,0.0,1.0,0.0,1,3.0
-Barcelona,Alaves,37,13,9.0,2.0,1.0,13,7.0
-Betis,Villareal,4,1,1.0,0.0,0.0,1,0.0
-Extremadura,Mallorca,1,0,1.0,0.0,0.0,0,0.0
-Alaves,Espanol,12,7,6.0,1.0,4.0,7,7.0
-Villareal,Zaragoza,1,1,0.0,0.0,1.0,1,1.0
-Alaves,Ath Bilbao,15,14,5.0,4.0,3.0,14,15.0
-Santander,Villareal,1,2,0.0,1.0,0.0,2,3.0
-Sociedad,Alaves,23,9,8.0,2.0,2.0,9,8.0
-Villareal,Extremadura,1,1,0.0,0.0,1.0,1,1.0
-Betis,Alaves,19,12,6.0,3.0,2.0,12,11.0
-Villareal,Real Madrid,0,2,0.0,1.0,0.0,2,3.0
-Alaves,Oviedo,7,2,2.0,0.0,1.0,2,1.0
-Celta,Villareal,4,1,1.0,0.0,0.0,1,0.0
-Villareal,Valencia,1,0,1.0,0.0,0.0,0,0.0
-Zaragoza,Alaves,8,6,2.0,1.0,2.0,6,5.0
-Alaves,Tenerife,4,1,2.0,0.0,0.0,1,0.0
-Salamanca,Villareal,1,0,1.0,0.0,0.0,0,0.0
-Santander,Alaves,7,3,3.0,1.0,1.0,3,4.0
-Villareal,Espanol,2,2,0.0,0.0,1.0,2,1.0
-Alaves,Mallorca,8,14,2.0,4.0,2.0,14,14.0
-Sociedad,Villareal,1,1,0.0,0.0,1.0,1,1.0
-Extremadura,Alaves,1,0,1.0,0.0,0.0,0,0.0
-Villareal,Oviedo,0,0,0.0,0.0,1.0,0,1.0
-Alaves,Ath Madrid,9,9,4.0,4.0,2.0,9,14.0
-Tenerife,Villareal,2,2,0.0,0.0,1.0,2,1.0
-Real Madrid,Alaves,35,8,10.0,2.0,0.0,8,6.0
-Villareal,Mallorca,0,2,0.0,1.0,0.0,2,3.0
-Alaves,La Coruna,12,8,5.0,2.0,1.0,8,7.0
-Ath Madrid,Villareal,2,2,0.0,0.0,1.0,2,1.0
-Celta,Alaves,24,7,8.0,1.0,3.0,7,6.0
-Extremadura,Salamanca,1,1,0.0,0.0,1.0,1,1.0
-Villareal,La Coruna,1,2,0.0,1.0,0.0,2,3.0
-Alaves,Villareal,2,1,1.0,0.0,0.0,1,0.0
-Valencia,Alaves,26,9,8.0,2.0,2.0,9,8.0
-Valladolid,Villareal,1,0,1.0,0.0,0.0,0,0.0
-Alaves,Valladolid,17,6,6.0,0.0,2.0,6,2.0
-Villareal,Barcelona,2,3,0.0,1.0,0.0,3,3.0
-Ath Bilbao,Villareal,2,0,1.0,0.0,0.0,0,0.0
-Salamanca,Alaves,1,0,1.0,0.0,0.0,0,0.0
-Alaves,Barcelona,6,23,2.0,7.0,3.0,23,24.0
-Mallorca,Extremadura,2,0,1.0,0.0,0.0,0,0.0
-Villareal,Betis,3,4,0.0,1.0,0.0,4,3.0
-Espanol,Alaves,15,7,6.0,2.0,3.0,7,9.0
-Zaragoza,Villareal,4,0,1.0,0.0,0.0,0,0.0
-Ath Bilbao,Alaves,19,5,8.0,1.0,3.0,5,6.0
-Villareal,Santander,3,0,1.0,0.0,0.0,0,0.0
-Alaves,Sociedad,15,10,6.0,3.0,3.0,10,12.0
-Extremadura,Villareal,2,2,0.0,0.0,1.0,2,1.0
-Malaga,Espanol,27,21,8.0,7.0,2.0,21,23.0
-Numancia,Valladolid,5,3,2.0,0.0,1.0,3,1.0
-Alaves,Malaga,9,7,4.0,2.0,1.0,7,7.0
-Real Madrid,Numancia,10,4,4.0,0.0,0.0,4,0.0
-Vallecano,Mallorca,10,11,3.0,4.0,1.0,11,13.0
-Malaga,Betis,23,17,5.0,6.0,2.0,17,20.0
-Mallorca,Numancia,10,3,4.0,0.0,0.0,3,0.0
-Valladolid,Malaga,10,9,2.0,1.0,6.0,9,9.0
-Numancia,Ath Bilbao,3,4,0.0,1.0,3.0,4,6.0
-Malaga,Real Madrid,16,35,1.0,11.0,5.0,35,38.0
-La Coruna,Numancia,6,4,2.0,1.0,1.0,4,4.0
-Numancia,Malaga,6,4,2.0,1.0,1.0,4,4.0
-Alaves,Sevilla,7,7,3.0,3.0,4.0,7,13.0
-Malaga,Ath Bilbao,25,18,9.0,4.0,4.0,18,16.0
-Valencia,Numancia,12,0,4.0,0.0,0.0,0,0.0
-La Coruna,Malaga,30,10,12.0,1.0,2.0,10,5.0
-Numancia,Barcelona,6,5,1.0,0.0,3.0,5,3.0
-Alaves,Vallecano,6,6,2.0,3.0,1.0,6,10.0
-Mallorca,Malaga,15,17,4.0,5.0,3.0,17,18.0
-Oviedo,Numancia,4,0,2.0,0.0,0.0,0,0.0
-Malaga,Valencia,18,23,5.0,8.0,4.0,23,28.0
-Numancia,Sevilla,4,3,2.0,1.0,0.0,3,3.0
-Ath Madrid,Numancia,7,2,2.0,0.0,1.0,2,1.0
-Barcelona,Malaga,45,10,14.0,2.0,1.0,10,7.0
-Malaga,Oviedo,6,2,1.0,0.0,1.0,2,1.0
-Numancia,Vallecano,3,3,1.0,1.0,0.0,3,3.0
-Sevilla,Malaga,19,16,6.0,5.0,5.0,16,20.0
-Sociedad,Numancia,8,3,3.0,0.0,0.0,3,0.0
-Malaga,Ath Madrid,16,17,5.0,6.0,4.0,17,22.0
-Numancia,Celta,7,3,2.0,0.0,0.0,3,0.0
-Vallecano,Malaga,22,10,7.0,2.0,0.0,10,6.0
-Zaragoza,Numancia,10,5,2.0,0.0,1.0,5,1.0
-Malaga,Sociedad,18,20,5.0,7.0,3.0,20,24.0
-Numancia,Santander,7,5,3.0,1.0,0.0,5,3.0
-Celta,Malaga,12,12,5.0,4.0,3.0,12,15.0
-Espanol,Numancia,11,5,3.0,1.0,0.0,5,3.0
-Mallorca,Sevilla,14,24,2.0,7.0,7.0,24,28.0
-Malaga,Zaragoza,14,8,4.0,2.0,4.0,8,10.0
-Numancia,Alaves,2,1,1.0,0.0,1.0,1,1.0
-Betis,Numancia,8,5,1.0,1.0,1.0,5,4.0
-Santander,Malaga,13,17,3.0,5.0,2.0,17,17.0
-Espanol,Malaga,26,18,8.0,5.0,4.0,18,19.0
-Valladolid,Numancia,4,0,2.0,0.0,1.0,0,1.0
-Malaga,Alaves,5,7,2.0,3.0,2.0,7,11.0
-Mallorca,Vallecano,17,4,6.0,0.0,2.0,4,2.0
-Numancia,Real Madrid,4,5,1.0,2.0,1.0,5,7.0
-Betis,Malaga,17,9,5.0,3.0,5.0,9,14.0
-Numancia,Mallorca,4,6,1.0,3.0,0.0,6,9.0
-Ath Bilbao,Numancia,7,4,3.0,1.0,0.0,4,3.0
-Malaga,Valladolid,12,9,4.0,2.0,3.0,9,9.0
-Real Madrid,Malaga,46,17,14.0,0.0,3.0,17,3.0
-Numancia,La Coruna,3,4,1.0,2.0,1.0,4,7.0
-Malaga,Numancia,10,5,3.0,1.0,0.0,5,3.0
-Sevilla,Alaves,18,8,7.0,0.0,3.0,8,3.0
-Numancia,Valencia,4,7,1.0,2.0,1.0,7,7.0
-Ath Bilbao,Malaga,26,17,8.0,2.0,7.0,17,13.0
-Barcelona,Numancia,10,2,3.0,0.0,1.0,2,1.0
-Malaga,La Coruna,20,17,5.0,2.0,8.0,17,14.0
-Vallecano,Alaves,7,9,2.0,3.0,1.0,9,10.0
-Malaga,Mallorca,14,8,5.0,2.0,5.0,8,11.0
-Numancia,Oviedo,2,1,1.0,0.0,1.0,1,1.0
-Valencia,Malaga,40,13,13.0,0.0,4.0,13,4.0
-Sevilla,Numancia,6,0,3.0,0.0,0.0,0,0.0
-Malaga,Barcelona,14,29,2.0,10.0,5.0,29,35.0
-Numancia,Ath Madrid,5,1,2.0,0.0,1.0,1,1.0
-Oviedo,Malaga,5,4,1.0,0.0,1.0,4,1.0
-Vallecano,Numancia,2,1,1.0,0.0,1.0,1,1.0
-Malaga,Sevilla,25,22,7.0,6.0,3.0,22,21.0
-Numancia,Sociedad,4,7,0.0,2.0,1.0,7,7.0
-Ath Madrid,Malaga,31,14,11.0,2.0,2.0,14,8.0
-Celta,Numancia,1,1,0.0,0.0,2.0,1,2.0
-Malaga,Vallecano,20,7,5.0,1.0,3.0,7,6.0
-Numancia,Zaragoza,4,4,1.0,1.0,1.0,4,4.0
-Santander,Numancia,12,3,3.0,0.0,1.0,3,1.0
-Sociedad,Malaga,25,21,5.0,4.0,6.0,21,18.0
-Numancia,Espanol,4,1,2.0,0.0,2.0,1,2.0
-Malaga,Celta,15,18,5.0,4.0,3.0,18,15.0
-Sevilla,Mallorca,28,18,8.0,4.0,4.0,18,16.0
-Alaves,Numancia,2,4,0.0,1.0,1.0,4,4.0
-Zaragoza,Malaga,12,12,4.0,3.0,3.0,12,12.0
-Malaga,Santander,18,9,6.0,2.0,2.0,9,8.0
-Numancia,Betis,4,7,0.0,2.0,1.0,7,7.0
-Las Palmas,Alaves,3,9,1.0,2.0,1.0,9,7.0
-Osasuna,Celta,10,13,5.0,5.0,3.0,13,18.0
-Villarreal,Vallecano,21,12,7.0,2.0,1.0,12,7.0
-Alaves,Villarreal,13,12,6.0,3.0,1.0,12,10.0
-Espanol,Osasuna,21,23,5.0,7.0,6.0,23,27.0
-Oviedo,Las Palmas,2,2,0.0,0.0,1.0,2,1.0
-Las Palmas,Valladolid,2,2,0.0,0.0,2.0,2,2.0
-Osasuna,Vallecano,10,5,5.0,1.0,2.0,5,5.0
-Villarreal,Oviedo,1,0,1.0,0.0,0.0,0,0.0
-Alaves,Osasuna,4,10,1.0,6.0,1.0,10,19.0
-Valencia,Las Palmas,10,6,3.0,1.0,1.0,6,4.0
-Valladolid,Villarreal,9,8,5.0,3.0,4.0,8,13.0
-Las Palmas,Malaga,5,2,3.0,0.0,2.0,2,2.0
-Villarreal,Valencia,34,19,13.0,4.0,5.0,19,17.0
-Osasuna,Oviedo,0,0,0.0,0.0,1.0,0,1.0
-Ath Bilbao,Las Palmas,10,7,2.0,1.0,2.0,7,5.0
-Malaga,Villarreal,17,15,6.0,4.0,5.0,15,17.0
-Valladolid,Osasuna,9,13,2.0,4.0,6.0,13,18.0
-Las Palmas,Santander,2,1,1.0,0.0,0.0,1,0.0
-Villarreal,Ath Bilbao,44,21,12.0,2.0,8.0,21,14.0
-Osasuna,Valencia,21,22,6.0,6.0,7.0,22,25.0
-La Coruna,Las Palmas,10,4,3.0,1.0,1.0,4,4.0
-Malaga,Osasuna,17,11,6.0,3.0,4.0,11,13.0
-Santander,Villarreal,13,13,4.0,3.0,4.0,13,13.0
-Las Palmas,Barcelona,3,8,0.0,3.0,2.0,8,11.0
-Villarreal,La Coruna,19,17,7.0,4.0,4.0,17,16.0
-Osasuna,Ath Bilbao,22,30,6.0,9.0,4.0,30,31.0
-Barcelona,Villarreal,55,21,15.0,3.0,4.0,21,13.0
-Real Madrid,Las Palmas,21,5,4.0,0.0,1.0,5,1.0
-Santander,Osasuna,15,12,4.0,2.0,5.0,12,11.0
-Las Palmas,Mallorca,4,1,2.0,0.0,0.0,1,0.0
-Osasuna,La Coruna,19,17,4.0,4.0,5.0,17,17.0
-Villarreal,Real Madrid,23,34,4.0,8.0,10.0,34,34.0
-Mallorca,Villarreal,21,16,5.0,5.0,5.0,16,20.0
-Barcelona,Osasuna,56,9,14.0,3.0,2.0,9,11.0
-Numancia,Las Palmas,0,1,0.0,1.0,0.0,1,3.0
-Osasuna,Real Madrid,19,34,4.0,10.0,5.0,34,35.0
-Sociedad,Las Palmas,8,6,1.0,1.0,3.0,6,6.0
-Villarreal,Numancia,6,1,2.0,0.0,1.0,1,1.0
-Las Palmas,Villarreal,5,9,2.0,2.0,1.0,9,7.0
-Mallorca,Osasuna,25,17,6.0,3.0,7.0,17,16.0
-Sociedad,Villarreal,17,28,4.0,10.0,5.0,28,35.0
-Zaragoza,Las Palmas,5,2,2.0,0.0,0.0,2,0.0
-Osasuna,Numancia,6,0,3.0,0.0,0.0,0,0.0
-Las Palmas,Osasuna,9,5,2.0,0.0,1.0,5,1.0
-Villarreal,Zaragoza,18,9,6.0,0.0,4.0,9,4.0
-Celta,Las Palmas,11,8,3.0,1.0,1.0,8,4.0
-Osasuna,Villarreal,24,30,9.0,6.0,3.0,30,21.0
-Las Palmas,Espanol,9,2,3.0,0.0,2.0,2,2.0
-Villarreal,Celta,35,21,9.0,6.0,1.0,21,19.0
-Zaragoza,Osasuna,21,14,6.0,4.0,1.0,14,13.0
-Espanol,Villarreal,21,19,4.0,6.0,11.0,19,29.0
-Osasuna,Sociedad,18,19,5.0,6.0,5.0,19,23.0
-Vallecano,Las Palmas,3,1,1.0,0.0,2.0,1,2.0
-Alaves,Las Palmas,5,1,3.0,0.0,1.0,1,1.0
-Celta,Osasuna,17,8,7.0,2.0,4.0,8,10.0
-Vallecano,Villarreal,14,21,3.0,5.0,2.0,21,17.0
-Las Palmas,Oviedo,1,0,1.0,0.0,0.0,0,0.0
-Osasuna,Espanol,21,16,9.0,6.0,3.0,16,21.0
-Villarreal,Alaves,20,13,6.0,4.0,0.0,13,12.0
-Vallecano,Osasuna,13,8,4.0,2.0,2.0,8,8.0
-Oviedo,Villarreal,1,3,0.0,1.0,0.0,3,3.0
-Valladolid,Las Palmas,2,0,2.0,0.0,0.0,0,0.0
-Las Palmas,Valencia,7,6,3.0,2.0,0.0,6,6.0
-Osasuna,Alaves,13,10,4.0,3.0,1.0,10,10.0
-Villarreal,Valladolid,20,12,8.0,3.0,1.0,12,10.0
-Malaga,Las Palmas,10,7,3.0,1.0,1.0,7,4.0
-Oviedo,Osasuna,2,3,0.0,1.0,0.0,3,3.0
-Valencia,Villarreal,40,27,12.0,6.0,4.0,27,22.0
-Las Palmas,Ath Bilbao,5,2,2.0,0.0,3.0,2,3.0
-Osasuna,Valladolid,13,10,3.0,1.0,8.0,10,11.0
-Villarreal,Malaga,21,13,8.0,3.0,4.0,13,13.0
-Ath Bilbao,Villarreal,25,21,9.0,6.0,7.0,21,25.0
-Valencia,Osasuna,38,9,15.0,2.0,2.0,9,8.0
-Santander,Las Palmas,2,1,1.0,0.0,0.0,1,0.0
-Las Palmas,La Coruna,4,7,1.0,3.0,1.0,7,10.0
-Osasuna,Malaga,15,23,1.0,5.0,7.0,23,22.0
-Villarreal,Santander,23,11,8.0,1.0,2.0,11,5.0
-La Coruna,Villarreal,18,16,6.0,5.0,4.0,16,19.0
-Ath Bilbao,Osasuna,24,17,9.0,4.0,6.0,17,18.0
-Barcelona,Las Palmas,15,3,4.0,0.0,1.0,3,1.0
-Las Palmas,Real Madrid,7,10,1.0,3.0,1.0,10,10.0
-Osasuna,Santander,11,15,3.0,6.0,2.0,15,20.0
-Villarreal,Barcelona,30,39,5.0,12.0,5.0,39,41.0
-La Coruna,Osasuna,18,9,7.0,3.0,3.0,9,12.0
-Real Madrid,Villarreal,50,24,14.0,2.0,6.0,24,12.0
-Mallorca,Las Palmas,2,4,1.0,1.0,0.0,4,3.0
-Las Palmas,Numancia,1,1,0.0,0.0,1.0,1,1.0
-Osasuna,Barcelona,20,29,3.0,8.0,8.0,29,32.0
-Villarreal,Mallorca,25,13,9.0,2.0,4.0,13,10.0
-Real Madrid,Osasuna,45,16,14.0,1.0,4.0,16,7.0
-Las Palmas,Sociedad,4,3,2.0,2.0,1.0,3,7.0
-Numancia,Villarreal,3,6,0.0,2.0,1.0,6,7.0
-Osasuna,Mallorca,22,12,7.0,2.0,7.0,12,13.0
-Villarreal,Las Palmas,10,3,4.0,1.0,0.0,3,3.0
-Villarreal,Sociedad,29,20,8.0,6.0,5.0,20,23.0
-Las Palmas,Zaragoza,3,2,1.0,0.0,1.0,2,1.0
-Numancia,Osasuna,3,2,1.0,0.0,2.0,2,2.0
-Osasuna,Las Palmas,8,7,1.0,0.0,2.0,7,2.0
-Zaragoza,Villarreal,18,12,6.0,2.0,2.0,12,8.0
-Las Palmas,Celta,11,12,2.0,2.0,1.0,12,7.0
-Villarreal,Osasuna,33,20,10.0,4.0,4.0,20,16.0
-Celta,Villarreal,17,18,6.0,5.0,5.0,18,20.0
-Espanol,Las Palmas,12,7,4.0,0.0,1.0,7,1.0
-Osasuna,Zaragoza,13,6,5.0,1.0,5.0,6,8.0
-Las Palmas,Vallecano,1,3,1.0,2.0,0.0,3,6.0
-Villarreal,Espanol,39,15,11.0,3.0,7.0,15,16.0
-Sociedad,Osasuna,24,9,10.0,2.0,4.0,9,10.0
-Tenerife,Villarreal,4,2,1.0,0.0,1.0,2,1.0
-Betis,Las Palmas,5,0,4.0,0.0,0.0,0,0.0
-Osasuna,Sevilla,22,19,7.0,4.0,7.0,19,19.0
-Osasuna,Tenerife,1,2,1.0,1.0,0.0,2,3.0
-Betis,Villarreal,24,25,7.0,6.0,5.0,25,23.0
-Osasuna,Betis,22,22,7.0,7.0,2.0,22,23.0
-Tenerife,Malaga,3,2,1.0,0.0,1.0,2,1.0
-Las Palmas,Sevilla,4,3,2.0,2.0,0.0,3,6.0
-Tenerife,Las Palmas,1,3,0.0,1.0,0.0,3,3.0
-Villarreal,Sevilla,30,24,7.0,5.0,9.0,24,24.0
-Villarreal,Tenerife,7,1,2.0,0.0,0.0,1,0.0
-Las Palmas,Betis,6,1,3.0,0.0,1.0,1,1.0
-Sevilla,Osasuna,28,10,13.0,3.0,2.0,10,11.0
-Tenerife,Osasuna,5,2,2.0,0.0,0.0,2,0.0
-Villarreal,Betis,27,18,9.0,4.0,5.0,18,17.0
-Betis,Osasuna,22,15,10.0,3.0,3.0,15,12.0
-Malaga,Tenerife,3,1,1.0,0.0,1.0,1,1.0
-Sevilla,Las Palmas,6,2,3.0,0.0,1.0,2,1.0
-Las Palmas,Tenerife,0,1,0.0,1.0,0.0,1,3.0
-Sevilla,Villarreal,34,17,14.0,3.0,4.0,17,13.0
-Recreativo,Malaga,2,7,0.0,2.0,0.0,7,6.0
-Valencia,Recreativo,7,2,2.0,0.0,2.0,2,2.0
-Recreativo,Celta,4,5,1.0,1.0,0.0,5,3.0
-Ath Madrid,Recreativo,10,2,3.0,0.0,1.0,2,1.0
-Recreativo,Ath Bilbao,3,4,0.0,1.0,3.0,4,6.0
-Espanol,Recreativo,4,4,1.0,2.0,1.0,4,7.0
-Recreativo,Betis,5,2,2.0,0.0,2.0,2,2.0
-Osasuna,Recreativo,2,5,0.0,3.0,1.0,5,10.0
-Recreativo,Valladolid,4,7,0.0,2.0,1.0,7,7.0
-Alaves,Recreativo,3,0,1.0,0.0,0.0,0,0.0
-Recreativo,Santander,6,4,2.0,1.0,1.0,4,4.0
-Osasuna,Ath Madrid,18,25,7.0,9.0,1.0,25,28.0
-Villarreal,Recreativo,4,3,2.0,1.0,1.0,3,4.0
-Recreativo,La Coruna,6,6,1.0,1.0,2.0,6,5.0
-Real Madrid,Recreativo,7,5,3.0,1.0,0.0,5,3.0
-Recreativo,Sociedad,2,3,1.0,1.0,0.0,3,3.0
-Barcelona,Recreativo,11,0,4.0,0.0,0.0,0,0.0
-Villarreal,Ath Madrid,31,23,8.0,4.0,8.0,23,20.0
-Recreativo,Sevilla,2,6,0.0,3.0,1.0,6,10.0
-Mallorca,Recreativo,12,6,2.0,1.0,1.0,6,4.0
-Recreativo,Vallecano,2,1,1.0,0.0,0.0,1,0.0
-Malaga,Recreativo,4,2,1.0,1.0,0.0,2,3.0
-Recreativo,Valencia,4,3,1.0,1.0,2.0,3,5.0
-Celta,Recreativo,5,3,1.0,1.0,0.0,3,3.0
-Recreativo,Ath Madrid,4,3,2.0,1.0,1.0,3,4.0
-Ath Bilbao,Recreativo,9,6,2.0,1.0,1.0,6,4.0
-Recreativo,Espanol,2,3,1.0,2.0,1.0,3,7.0
-Betis,Recreativo,2,3,0.0,1.0,3.0,3,6.0
-Recreativo,Osasuna,5,1,3.0,0.0,1.0,1,1.0
-Valladolid,Recreativo,4,3,1.0,1.0,1.0,3,4.0
-Recreativo,Alaves,1,0,1.0,0.0,0.0,0,0.0
-Santander,Recreativo,8,4,3.0,0.0,1.0,4,1.0
-Ath Madrid,Osasuna,29,12,12.0,3.0,2.0,12,11.0
-Recreativo,Villarreal,8,5,2.0,2.0,0.0,5,6.0
-La Coruna,Recreativo,11,8,2.0,2.0,0.0,8,6.0
-Recreativo,Real Madrid,4,7,0.0,3.0,1.0,7,10.0
-Sociedad,Recreativo,3,3,1.0,1.0,0.0,3,3.0
-Ath Madrid,Villarreal,31,21,10.0,5.0,5.0,21,20.0
-Recreativo,Barcelona,3,11,0.0,3.0,1.0,11,10.0
-Sevilla,Recreativo,8,2,4.0,0.0,0.0,2,0.0
-Recreativo,Mallorca,4,8,0.0,2.0,2.0,8,8.0
-Vallecano,Recreativo,0,0,0.0,0.0,1.0,0,1.0
-Albacete,Osasuna,1,3,0.0,1.0,1.0,3,4.0
-Celta,Murcia,1,1,0.0,0.0,1.0,1,1.0
-Murcia,Santander,3,2,1.0,0.0,1.0,2,1.0
-Zaragoza,Murcia,6,1,2.0,0.0,0.0,1,0.0
-Murcia,Ath Bilbao,3,4,0.0,1.0,1.0,4,4.0
-Albacete,Mallorca,2,0,1.0,0.0,1.0,0,1.0
-Sevilla,Murcia,4,1,2.0,0.0,0.0,1,0.0
-Murcia,Albacete,1,0,1.0,0.0,0.0,0,0.0
-Osasuna,Murcia,4,2,2.0,0.0,0.0,2,0.0
-Murcia,Ath Madrid,2,4,0.0,1.0,1.0,4,4.0
-Albacete,Villarreal,4,2,1.0,0.0,1.0,2,1.0
-Barcelona,Murcia,7,0,2.0,0.0,0.0,0,0.0
-Murcia,La Coruna,0,2,0.0,1.0,1.0,2,4.0
-Albacete,Malaga,1,3,0.0,2.0,0.0,3,6.0
-Mallorca,Murcia,5,2,1.0,0.0,1.0,2,1.0
-Murcia,Valencia,3,2,1.0,0.0,1.0,2,1.0
-Murcia,Sociedad,2,2,0.0,0.0,1.0,2,1.0
-Betis,Murcia,5,1,1.0,0.0,1.0,1,1.0
-Murcia,Villarreal,1,2,0.0,1.0,1.0,2,4.0
-Valladolid,Murcia,1,4,0.0,1.0,1.0,4,4.0
-Murcia,Malaga,1,2,0.0,1.0,0.0,2,3.0
-Real Madrid,Murcia,2,0,2.0,0.0,0.0,0,0.0
-Murcia,Espanol,4,1,1.0,1.0,0.0,1,3.0
-Murcia,Celta,2,2,0.0,0.0,1.0,2,1.0
-Osasuna,Albacete,4,3,1.0,0.0,1.0,3,1.0
-Santander,Murcia,6,4,2.0,0.0,0.0,4,0.0
-Murcia,Zaragoza,3,1,2.0,0.0,0.0,1,0.0
-Ath Bilbao,Murcia,3,2,1.0,0.0,1.0,2,1.0
-Murcia,Sevilla,1,3,0.0,1.0,1.0,3,4.0
-Mallorca,Albacete,2,1,1.0,0.0,1.0,1,1.0
-Albacete,Murcia,1,0,1.0,0.0,0.0,0,0.0
-Murcia,Osasuna,2,1,1.0,1.0,0.0,1,3.0
-Ath Madrid,Murcia,2,2,0.0,0.0,2.0,2,2.0
-Murcia,Barcelona,3,7,0.0,2.0,0.0,7,6.0
-Villarreal,Albacete,3,1,2.0,0.0,0.0,1,0.0
-La Coruna,Murcia,4,1,2.0,0.0,0.0,1,0.0
-Malaga,Albacete,1,3,0.0,1.0,1.0,3,4.0
-Murcia,Mallorca,3,4,1.0,1.0,0.0,4,3.0
-Valencia,Murcia,5,0,2.0,0.0,0.0,0,0.0
-Sociedad,Murcia,2,0,1.0,0.0,0.0,0,0.0
-Murcia,Betis,0,1,0.0,1.0,1.0,1,4.0
-Villarreal,Murcia,3,0,2.0,0.0,0.0,0,0.0
-Murcia,Valladolid,2,2,1.0,1.0,0.0,2,3.0
-Malaga,Murcia,1,0,1.0,0.0,0.0,0,0.0
-Murcia,Real Madrid,3,2,1.0,0.0,1.0,2,1.0
-Espanol,Murcia,2,0,1.0,0.0,1.0,0,1.0
-Sociedad,Levante,16,10,5.0,2.0,6.0,10,12.0
-Zaragoza,Getafe,14,8,4.0,2.0,2.0,8,8.0
-Getafe,Mallorca,25,12,8.0,2.0,2.0,12,8.0
-Levante,Santander,10,4,3.0,0.0,2.0,4,2.0
-Numancia,Getafe,3,0,2.0,0.0,0.0,0,0.0
-Sevilla,Levante,32,11,9.0,1.0,4.0,11,7.0
-Getafe,Espanol,22,15,7.0,5.0,5.0,15,20.0
-Levante,Ath Madrid,17,19,5.0,4.0,5.0,19,17.0
-Numancia,Albacete,0,0,0.0,0.0,1.0,0,1.0
-Osasuna,Getafe,11,14,4.0,4.0,6.0,14,18.0
-Zaragoza,Levante,11,6,4.0,1.0,1.0,6,4.0
-Getafe,Ath Bilbao,20,15,5.0,3.0,10.0,15,19.0
-Levante,Mallorca,13,5,4.0,1.0,3.0,5,6.0
-La Coruna,Getafe,13,14,4.0,3.0,4.0,14,13.0
-Numancia,Levante,1,3,0.0,1.0,0.0,3,3.0
-Getafe,Betis,16,11,7.0,4.0,4.0,11,16.0
-Levante,Espanol,19,14,5.0,2.0,6.0,14,12.0
-Osasuna,Levante,19,9,6.0,3.0,1.0,9,10.0
-Real Madrid,Getafe,47,12,16.0,1.0,1.0,12,4.0
-Getafe,Valencia,24,18,9.0,6.0,3.0,18,21.0
-Levante,Ath Bilbao,18,16,4.0,6.0,4.0,16,22.0
-Getafe,Malaga,13,10,8.0,3.0,0.0,10,9.0
-La Coruna,Levante,8,6,4.0,2.0,2.0,6,8.0
-Albacete,Getafe,1,1,0.0,0.0,1.0,1,1.0
-Levante,Betis,25,23,5.0,5.0,2.0,23,17.0
-Getafe,Barcelona,13,29,3.0,11.0,4.0,29,37.0
-Real Madrid,Levante,41,13,10.0,3.0,1.0,13,10.0
-Levante,Getafe,16,6,5.0,1.0,8.0,6,11.0
-Getafe,Villarreal,23,20,5.0,7.0,5.0,20,26.0
-Malaga,Levante,10,2,6.0,0.0,2.0,2,2.0
-Levante,Albacete,1,1,0.0,0.0,1.0,1,1.0
-Sociedad,Getafe,19,12,5.0,4.0,6.0,12,18.0
-Barcelona,Levante,42,5,14.0,0.0,0.0,5,0.0
-Getafe,Santander,7,6,3.0,3.0,2.0,6,11.0
-Sevilla,Getafe,34,12,12.0,4.0,2.0,12,14.0
-Valencia,Levante,28,10,8.0,0.0,6.0,10,6.0
-Getafe,Ath Madrid,10,28,2.0,11.0,5.0,28,38.0
-Levante,Villarreal,12,23,5.0,8.0,0.0,23,24.0
-Getafe,Zaragoza,13,9,3.0,2.0,3.0,9,9.0
-Levante,Sociedad,21,16,8.0,2.0,3.0,16,9.0
-Mallorca,Getafe,22,13,7.0,3.0,2.0,13,11.0
-Santander,Levante,6,6,1.0,1.0,3.0,6,6.0
-Getafe,Numancia,2,0,2.0,0.0,0.0,0,0.0
-Levante,Sevilla,14,28,3.0,8.0,3.0,28,27.0
-Ath Madrid,Levante,26,10,11.0,2.0,1.0,10,7.0
-Espanol,Getafe,18,17,9.0,5.0,3.0,17,18.0
-Albacete,Numancia,1,2,0.0,1.0,0.0,2,3.0
-Getafe,Osasuna,18,8,8.0,1.0,5.0,8,8.0
-Levante,Zaragoza,3,3,1.0,1.0,4.0,3,7.0
-Mallorca,Levante,14,5,6.0,1.0,1.0,5,4.0
-Getafe,La Coruna,17,10,5.0,3.0,3.0,10,12.0
-Levante,Numancia,1,1,0.0,0.0,1.0,1,1.0
-Betis,Getafe,20,16,6.0,3.0,6.0,16,15.0
-Espanol,Levante,19,15,7.0,2.0,4.0,15,10.0
-Getafe,Real Madrid,16,30,5.0,10.0,3.0,30,33.0
-Levante,Osasuna,12,12,4.0,4.0,2.0,12,14.0
-Ath Bilbao,Getafe,26,13,8.0,4.0,6.0,13,18.0
-Ath Bilbao,Levante,30,12,12.0,2.0,0.0,12,6.0
-Valencia,Getafe,39,21,11.0,2.0,5.0,21,11.0
-Levante,La Coruna,6,11,1.0,4.0,3.0,11,15.0
-Malaga,Getafe,19,12,7.0,2.0,2.0,12,8.0
-Betis,Levante,19,10,7.0,3.0,2.0,10,11.0
-Getafe,Albacete,1,0,1.0,0.0,0.0,0,0.0
-Barcelona,Getafe,47,11,14.0,0.0,4.0,11,4.0
-Levante,Real Madrid,13,30,2.0,9.0,3.0,30,30.0
-Getafe,Levante,21,8,8.0,4.0,2.0,8,14.0
-Levante,Malaga,13,6,5.0,3.0,0.0,6,9.0
-Villarreal,Getafe,29,15,13.0,3.0,1.0,15,10.0
-Albacete,Levante,3,1,1.0,0.0,0.0,1,0.0
-Getafe,Sociedad,19,15,9.0,3.0,3.0,15,12.0
-Levante,Barcelona,19,37,2.0,7.0,5.0,37,26.0
-Santander,Getafe,9,12,3.0,4.0,1.0,12,13.0
-Getafe,Sevilla,24,17,9.0,5.0,4.0,17,19.0
-Levante,Valencia,20,22,6.0,5.0,3.0,22,18.0
-Ath Madrid,Getafe,34,11,13.0,2.0,3.0,11,9.0
-Villarreal,Levante,25,10,9.0,2.0,2.0,10,8.0
-Cadiz,Real Madrid,2,8,0.0,3.0,1.0,8,10.0
-Santander,Cadiz,0,1,0.0,1.0,0.0,1,3.0
-Alaves,Getafe,7,6,1.0,1.0,4.0,6,7.0
-Cadiz,Villarreal,2,1,1.0,0.0,3.0,1,3.0
-Sevilla,Cadiz,5,1,2.0,0.0,2.0,1,2.0
-Osasuna,Cadiz,9,2,4.0,0.0,0.0,2,0.0
-Cadiz,Celta,2,1,1.0,0.0,3.0,1,3.0
-Espanol,Cadiz,2,2,1.0,1.0,1.0,2,4.0
-Cadiz,Ath Bilbao,3,11,1.0,3.0,0.0,11,9.0
-Ath Madrid,Cadiz,14,2,4.0,0.0,0.0,2,0.0
-Alaves,Cadiz,1,2,0.0,1.0,2.0,2,5.0
-Cadiz,Mallorca,4,3,1.0,1.0,1.0,3,4.0
-Cadiz,Valencia,4,3,2.0,1.0,1.0,3,4.0
-Betis,Cadiz,3,4,1.0,1.0,2.0,4,5.0
-Cadiz,Zaragoza,1,2,0.0,1.0,0.0,2,3.0
-La Coruna,Cadiz,1,0,1.0,0.0,0.0,0,0.0
-Cadiz,Barcelona,3,8,1.0,2.0,1.0,8,7.0
-Sociedad,Cadiz,9,1,3.0,0.0,1.0,1,1.0
-Cadiz,Getafe,4,5,1.0,1.0,2.0,5,5.0
-Getafe,Celta,17,9,7.0,2.0,3.0,9,9.0
-Malaga,Cadiz,0,2,0.0,1.0,0.0,2,3.0
-Real Madrid,Cadiz,5,3,2.0,1.0,1.0,3,4.0
-Cadiz,Santander,1,1,0.0,0.0,1.0,1,1.0
-Getafe,Alaves,13,6,2.0,0.0,4.0,6,4.0
-Villarreal,Cadiz,8,5,2.0,0.0,2.0,5,2.0
-Cadiz,Sevilla,1,10,0.0,4.0,0.0,10,12.0
-Cadiz,Osasuna,3,9,0.0,4.0,0.0,9,12.0
-Celta,Cadiz,10,2,3.0,1.0,0.0,2,3.0
-Cadiz,Espanol,6,4,1.0,0.0,2.0,4,2.0
-Ath Bilbao,Cadiz,5,3,2.0,2.0,0.0,3,6.0
-Cadiz,Alaves,3,3,1.0,1.0,1.0,3,4.0
-Mallorca,Cadiz,4,1,3.0,0.0,0.0,1,0.0
-Cadiz,Ath Madrid,7,11,1.0,2.0,1.0,11,7.0
-Valencia,Cadiz,6,5,1.0,1.0,2.0,5,5.0
-Cadiz,Betis,2,4,0.0,2.0,2.0,4,8.0
-Zaragoza,Cadiz,1,2,0.0,1.0,0.0,2,3.0
-Cadiz,La Coruna,1,1,0.0,0.0,1.0,1,1.0
-Barcelona,Cadiz,4,2,2.0,1.0,1.0,2,4.0
-Cadiz,Sociedad,2,6,0.0,3.0,1.0,6,10.0
-Getafe,Cadiz,7,2,2.0,1.0,1.0,2,4.0
-Cadiz,Malaga,5,0,1.0,0.0,0.0,0,0.0
-Celta,Getafe,13,10,5.0,2.0,5.0,10,11.0
-Espanol,Gimnastic,0,1,0.0,1.0,0.0,1,3.0
-Gimnastic,Celta,1,2,0.0,1.0,0.0,2,3.0
-Osasuna,Gimnastic,2,0,1.0,0.0,0.0,0,0.0
-Recreativo,Levante,2,1,1.0,1.0,0.0,1,3.0
-Gimnastic,Santander,2,2,0.0,0.0,1.0,2,1.0
-Valencia,Gimnastic,4,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Ath Bilbao,2,3,0.0,1.0,0.0,3,3.0
-Recreativo,Getafe,3,6,0.0,2.0,1.0,6,7.0
-Sevilla,Gimnastic,2,1,1.0,0.0,0.0,1,0.0
-Gimnastic,Real Madrid,1,3,0.0,1.0,0.0,3,3.0
-Recreativo,Gimnastic,2,1,1.0,0.0,0.0,1,0.0
-Gimnastic,La Coruna,0,0,0.0,0.0,1.0,0,1.0
-Zaragoza,Gimnastic,3,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Mallorca,2,3,0.0,1.0,0.0,3,3.0
-Villarreal,Gimnastic,2,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Levante,2,1,1.0,0.0,0.0,1,0.0
-Levante,Celta,7,13,1.0,7.0,2.0,13,23.0
-Sociedad,Gimnastic,3,2,1.0,0.0,0.0,2,0.0
-Gimnastic,Betis,0,1,0.0,1.0,0.0,1,3.0
-Ath Madrid,Gimnastic,0,0,0.0,0.0,1.0,0,1.0
-Gimnastic,Getafe,1,3,0.0,1.0,0.0,3,3.0
-Barcelona,Gimnastic,3,0,1.0,0.0,0.0,0,0.0
-Zaragoza,Recreativo,3,0,1.0,0.0,1.0,0,1.0
-Gimnastic,Espanol,4,0,1.0,0.0,0.0,0,0.0
-Celta,Gimnastic,1,1,0.0,0.0,1.0,1,1.0
-Gimnastic,Osasuna,2,3,0.0,1.0,0.0,3,3.0
-Levante,Recreativo,2,3,1.0,1.0,0.0,3,3.0
-Santander,Gimnastic,4,1,1.0,0.0,0.0,1,0.0
-Gimnastic,Valencia,1,1,0.0,0.0,1.0,1,1.0
-Ath Bilbao,Gimnastic,0,2,0.0,1.0,0.0,2,3.0
-Getafe,Recreativo,4,3,1.0,0.0,2.0,3,2.0
-Gimnastic,Sevilla,1,0,1.0,0.0,0.0,0,0.0
-Real Madrid,Gimnastic,2,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Recreativo,1,1,0.0,0.0,1.0,1,1.0
-La Coruna,Gimnastic,1,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Zaragoza,1,0,1.0,0.0,0.0,0,0.0
-Mallorca,Gimnastic,1,0,1.0,0.0,0.0,0,0.0
-Gimnastic,Villarreal,0,3,0.0,1.0,0.0,3,3.0
-Levante,Gimnastic,2,0,1.0,0.0,0.0,0,0.0
-Celta,Levante,19,17,4.0,4.0,2.0,17,14.0
-Gimnastic,Sociedad,1,3,0.0,1.0,0.0,3,3.0
-Betis,Gimnastic,1,1,0.0,0.0,1.0,1,1.0
-Gimnastic,Ath Madrid,0,2,0.0,1.0,0.0,2,3.0
-Getafe,Gimnastic,0,1,0.0,1.0,0.0,1,3.0
-Gimnastic,Barcelona,1,5,0.0,1.0,0.0,5,3.0
-Recreativo,Zaragoza,3,2,1.0,0.0,1.0,2,1.0
-La Coruna,Almeria,2,6,1.0,3.0,1.0,6,10.0
-Levante,Murcia,0,0,0.0,0.0,1.0,0,1.0
-Almeria,Valencia,9,16,1.0,4.0,2.0,16,14.0
-Real Madrid,Almeria,29,6,7.0,0.0,0.0,6,0.0
-Almeria,Mallorca,10,4,3.0,0.0,2.0,4,2.0
-Murcia,Almeria,0,1,0.0,1.0,0.0,1,3.0
-Almeria,Santander,4,5,0.0,1.0,3.0,5,6.0
-Ath Bilbao,Almeria,19,7,5.0,1.0,1.0,7,4.0
-Almeria,Osasuna,10,6,4.0,2.0,0.0,6,6.0
-Getafe,Murcia,2,0,1.0,0.0,0.0,0,0.0
-Barcelona,Almeria,21,2,7.0,0.0,0.0,2,0.0
-Murcia,Recreativo,1,0,1.0,0.0,0.0,0,0.0
-Almeria,Zaragoza,2,2,1.0,1.0,1.0,2,4.0
-Levante,Almeria,7,1,4.0,0.0,0.0,1,0.0
-Almeria,Ath Madrid,7,5,2.0,1.0,4.0,5,7.0
-Valladolid,Levante,7,3,3.0,0.0,3.0,3,3.0
-Villarreal,Almeria,12,4,5.0,0.0,2.0,4,2.0
-Almeria,Sevilla,6,11,2.0,5.0,0.0,11,15.0
-Almeria,Valladolid,5,2,3.0,0.0,2.0,2,2.0
-Betis,Almeria,8,3,3.0,1.0,0.0,3,3.0
-Almeria,Getafe,8,6,5.0,2.0,0.0,6,6.0
-Getafe,Valladolid,8,8,4.0,3.0,2.0,8,11.0
-Recreativo,Almeria,2,2,0.0,0.0,2.0,2,2.0
-Almeria,Espanol,8,8,3.0,2.0,2.0,8,8.0
-Almeria,La Coruna,3,3,1.0,1.0,3.0,3,6.0
-Murcia,Levante,2,3,0.0,1.0,0.0,3,3.0
-Valencia,Almeria,13,10,4.0,2.0,1.0,10,7.0
-Almeria,Real Madrid,7,15,1.0,4.0,2.0,15,14.0
-Mallorca,Almeria,10,2,4.0,0.0,1.0,2,1.0
-Almeria,Murcia,1,0,1.0,0.0,0.0,0,0.0
-Santander,Almeria,2,4,2.0,2.0,0.0,4,6.0
-Almeria,Ath Bilbao,6,12,1.0,4.0,2.0,12,14.0
-Murcia,Getafe,0,3,0.0,1.0,0.0,3,3.0
-Osasuna,Almeria,9,4,4.0,1.0,1.0,4,4.0
-Recreativo,Murcia,4,2,1.0,0.0,0.0,2,0.0
-Almeria,Barcelona,6,18,1.0,4.0,2.0,18,14.0
-Zaragoza,Almeria,4,2,2.0,0.0,1.0,2,1.0
-Almeria,Levante,5,8,1.0,2.0,1.0,8,7.0
-Ath Madrid,Almeria,21,9,5.0,0.0,2.0,9,2.0
-Levante,Valladolid,9,7,3.0,1.0,2.0,7,5.0
-Almeria,Villarreal,10,7,3.0,2.0,2.0,7,8.0
-Sevilla,Almeria,11,11,5.0,2.0,0.0,11,6.0
-Valladolid,Almeria,6,1,4.0,0.0,1.0,1,1.0
-Almeria,Betis,7,6,2.0,1.0,1.0,6,4.0
-Getafe,Almeria,14,10,3.0,1.0,3.0,10,6.0
-Almeria,Recreativo,1,2,1.0,1.0,0.0,2,3.0
-Valladolid,Getafe,9,5,4.0,0.0,5.0,5,5.0
-Espanol,Almeria,13,10,3.0,2.0,2.0,10,8.0
-Sp Gijon,Getafe,7,5,3.0,2.0,0.0,5,6.0
-Almeria,Malaga,4,3,2.0,1.0,2.0,3,5.0
-Sp Gijon,Villarreal,7,8,2.0,3.0,1.0,8,10.0
-Sp Gijon,Osasuna,10,5,4.0,0.0,1.0,5,1.0
-Sp Gijon,Numancia,3,1,1.0,0.0,0.0,1,0.0
-Numancia,Almeria,2,1,1.0,0.0,0.0,1,0.0
-Sp Gijon,Almeria,3,0,3.0,0.0,0.0,0,0.0
-Malaga,Sp Gijon,9,3,5.0,0.0,1.0,3,1.0
-Recreativo,Numancia,3,1,1.0,0.0,0.0,1,0.0
-Recreativo,Sp Gijon,2,0,1.0,0.0,0.0,0,0.0
-Getafe,Sp Gijon,12,3,3.0,0.0,2.0,3,2.0
-Malaga,Almeria,10,7,3.0,2.0,0.0,7,6.0
-Villarreal,Sp Gijon,12,3,5.0,0.0,1.0,3,1.0
-Osasuna,Sp Gijon,7,5,3.0,1.0,1.0,5,4.0
-Numancia,Sp Gijon,2,1,1.0,0.0,0.0,1,0.0
-Almeria,Numancia,2,1,1.0,0.0,0.0,1,0.0
-Almeria,Sp Gijon,7,3,2.0,0.0,1.0,3,1.0
-Numancia,Recreativo,1,0,1.0,0.0,0.0,0,0.0
-Sp Gijon,Malaga,8,7,3.0,2.0,1.0,7,7.0
-Sp Gijon,Recreativo,2,1,1.0,0.0,0.0,1,0.0
-Mallorca,Xerez,2,0,1.0,0.0,0.0,0,0.0
-Xerez,Ath Bilbao,0,1,0.0,1.0,0.0,1,3.0
-Real Madrid,Xerez,5,0,1.0,0.0,0.0,0,0.0
-Xerez,La Coruna,0,3,0.0,1.0,0.0,3,3.0
-Espanol,Xerez,0,0,0.0,0.0,1.0,0,1.0
-Xerez,Malaga,1,1,0.0,0.0,1.0,1,1.0
-Xerez,Villarreal,2,1,1.0,0.0,0.0,1,0.0
-Tenerife,Xerez,1,0,1.0,0.0,0.0,0,0.0
-Xerez,Sevilla,0,2,0.0,1.0,0.0,2,3.0
-Valladolid,Xerez,0,0,0.0,0.0,1.0,0,1.0
-Xerez,Sp Gijon,0,0,0.0,0.0,1.0,0,1.0
-Getafe,Xerez,5,1,1.0,0.0,0.0,1,0.0
-Xerez,Barcelona,0,2,0.0,1.0,0.0,2,3.0
-Xerez,Ath Madrid,0,2,0.0,1.0,0.0,2,3.0
-Getafe,Tenerife,2,1,1.0,0.0,0.0,1,0.0
-Santander,Xerez,3,2,1.0,0.0,0.0,2,0.0
-Almeria,Xerez,1,0,1.0,0.0,0.0,0,0.0
-Xerez,Valencia,1,3,0.0,1.0,0.0,3,3.0
-Almeria,Tenerife,1,1,0.0,0.0,1.0,1,1.0
-Zaragoza,Xerez,0,0,0.0,0.0,1.0,0,1.0
-Xerez,Osasuna,1,2,0.0,1.0,0.0,2,3.0
-Xerez,Mallorca,2,1,1.0,0.0,0.0,1,0.0
-Ath Bilbao,Xerez,3,2,1.0,0.0,0.0,2,0.0
-Xerez,Real Madrid,0,3,0.0,1.0,0.0,3,3.0
-La Coruna,Xerez,2,1,1.0,0.0,0.0,1,0.0
-Xerez,Espanol,1,1,0.0,0.0,1.0,1,1.0
-Malaga,Xerez,2,4,0.0,1.0,0.0,4,3.0
-Villarreal,Xerez,2,0,1.0,0.0,0.0,0,0.0
-Xerez,Tenerife,2,1,1.0,0.0,0.0,1,0.0
-Sevilla,Xerez,1,1,0.0,0.0,1.0,1,1.0
-Xerez,Valladolid,3,0,1.0,0.0,0.0,0,0.0
-Sp Gijon,Xerez,2,2,0.0,0.0,1.0,2,1.0
-Xerez,Getafe,0,1,0.0,1.0,0.0,1,3.0
-Ath Madrid,Xerez,1,2,0.0,1.0,0.0,2,3.0
-Tenerife,Getafe,3,2,1.0,0.0,0.0,2,0.0
-Xerez,Santander,2,2,0.0,0.0,1.0,2,1.0
-Barcelona,Xerez,3,1,1.0,0.0,0.0,1,0.0
-Xerez,Almeria,2,1,1.0,0.0,0.0,1,0.0
-Valencia,Xerez,3,1,1.0,0.0,0.0,1,0.0
-Tenerife,Almeria,2,2,0.0,0.0,1.0,2,1.0
-Xerez,Zaragoza,3,2,1.0,0.0,0.0,2,0.0
-Osasuna,Xerez,1,1,0.0,0.0,1.0,1,1.0
-Almeria,Sociedad,8,9,1.0,1.0,2.0,9,5.0
-Getafe,Hercules,3,0,1.0,0.0,0.0,0,0.0
-Hercules,Villarreal,2,2,0.0,0.0,1.0,2,1.0
-Almeria,Hercules,1,1,0.0,0.0,1.0,1,1.0
-Osasuna,Hercules,3,0,1.0,0.0,0.0,0,0.0
-Hercules,Levante,3,1,1.0,0.0,0.0,1,0.0
-Hercules,Malaga,4,1,1.0,0.0,0.0,1,0.0
-Sp Gijon,Levante,4,6,1.0,1.0,1.0,6,4.0
-Mallorca,Hercules,3,0,1.0,0.0,0.0,0,0.0
-Sociedad,Almeria,7,2,3.0,1.0,0.0,2,3.0
-Hercules,Getafe,0,0,0.0,0.0,1.0,0,1.0
-Villarreal,Hercules,1,0,1.0,0.0,0.0,0,0.0
-Hercules,Almeria,1,2,0.0,1.0,0.0,2,3.0
-Hercules,Osasuna,0,4,0.0,1.0,0.0,4,3.0
-Levante,Hercules,2,1,1.0,0.0,0.0,1,0.0
-Levante,Sp Gijon,4,0,1.0,0.0,2.0,0,2.0
-Malaga,Hercules,3,1,1.0,0.0,0.0,1,0.0
-Hercules,Mallorca,2,2,0.0,0.0,1.0,2,1.0
-Granada,Betis,11,10,4.0,3.0,1.0,10,10.0
-Malaga,Granada,17,5,4.0,0.0,2.0,5,2.0
-Granada,Villarreal,6,12,2.0,4.0,2.0,12,14.0
-Getafe,Vallecano,6,9,1.0,4.0,3.0,9,15.0
-Sociedad,Granada,15,10,5.0,2.0,2.0,10,8.0
-Vallecano,Levante,16,12,4.0,3.0,0.0,12,9.0
-Granada,Osasuna,8,4,3.0,1.0,3.0,4,6.0
-Valencia,Granada,17,4,8.0,0.0,1.0,4,1.0
-Granada,Ath Madrid,5,10,1.0,5.0,3.0,10,18.0
-Sp Gijon,Granada,8,4,2.0,0.0,1.0,4,1.0
-Granada,Barcelona,7,18,2.0,6.0,1.0,18,19.0
-Sevilla,Granada,24,10,7.0,2.0,0.0,10,6.0
-Granada,Santander,0,0,0.0,0.0,1.0,0,1.0
-Ath Bilbao,Granada,15,7,5.0,2.0,2.0,7,8.0
-Granada,Zaragoza,2,2,1.0,1.0,0.0,2,3.0
-Granada,Mallorca,8,5,2.0,1.0,1.0,5,4.0
-Getafe,Granada,15,13,3.0,3.0,2.0,13,11.0
-Granada,Levante,11,13,2.0,4.0,2.0,13,14.0
-Real Madrid,Granada,32,4,9.0,0.0,0.0,4,0.0
-Granada,Vallecano,7,10,1.0,3.0,2.0,10,11.0
-Espanol,Granada,12,7,5.0,2.0,1.0,7,7.0
-Betis,Granada,12,9,3.0,2.0,3.0,9,9.0
-Granada,Malaga,7,4,4.0,1.0,1.0,4,4.0
-Vallecano,Getafe,14,5,5.0,2.0,1.0,5,7.0
-Villarreal,Granada,17,7,5.0,0.0,3.0,7,3.0
-Granada,Sociedad,10,15,2.0,5.0,2.0,15,17.0
-Levante,Vallecano,12,13,2.0,3.0,2.0,13,11.0
-Osasuna,Granada,10,11,3.0,3.0,1.0,11,10.0
-Granada,Valencia,9,14,1.0,5.0,3.0,14,18.0
-Ath Madrid,Granada,27,2,8.0,0.0,1.0,2,1.0
-Granada,Sp Gijon,4,1,2.0,0.0,1.0,1,1.0
-Barcelona,Granada,25,6,7.0,1.0,1.0,6,4.0
-Granada,Sevilla,9,10,4.0,3.0,2.0,10,11.0
-Santander,Granada,0,1,0.0,1.0,0.0,1,3.0
-Mallorca,Granada,4,10,0.0,3.0,1.0,10,10.0
-Granada,Ath Bilbao,15,6,5.0,2.0,2.0,6,8.0
-Zaragoza,Granada,1,0,1.0,0.0,1.0,0,1.0
-Granada,Getafe,10,7,4.0,1.0,3.0,7,6.0
-Levante,Granada,12,12,3.0,3.0,2.0,12,11.0
-Granada,Espanol,7,8,2.0,3.0,3.0,8,12.0
-Granada,Real Madrid,6,23,1.0,8.0,0.0,23,24.0
-Vallecano,Granada,11,4,5.0,1.0,0.0,4,3.0
-Granada,La Coruna,5,4,1.0,0.0,3.0,4,3.0
-Granada,Celta,5,10,1.0,3.0,4.0,10,13.0
-Valladolid,Granada,3,4,1.0,2.0,1.0,4,7.0
-La Coruna,Granada,2,6,0.0,2.0,2.0,6,8.0
-Celta,Granada,12,7,5.0,1.0,2.0,7,5.0
-Granada,Valladolid,8,5,2.0,1.0,1.0,5,4.0
-Vallecano,Elche,9,5,3.0,1.0,0.0,5,3.0
-Elche,Sociedad,3,7,1.0,3.0,1.0,7,10.0
-Almeria,Elche,6,5,1.0,0.0,2.0,5,2.0
-Elche,Valladolid,2,2,0.0,0.0,3.0,2,3.0
-Osasuna,Elche,7,3,3.0,0.0,1.0,3,1.0
-Elche,Real Madrid,3,10,0.0,4.0,1.0,10,13.0
-Celta,Elche,6,3,3.0,1.0,1.0,3,4.0
-Elche,Espanol,6,5,2.0,1.0,1.0,5,4.0
-Almeria,Vallecano,3,3,1.0,2.0,0.0,3,6.0
-Betis,Elche,7,4,2.0,2.0,0.0,4,6.0
-Elche,Granada,1,3,0.0,2.0,2.0,3,8.0
-Ath Bilbao,Elche,6,6,2.0,2.0,1.0,6,7.0
-Elche,Villarreal,8,6,2.0,1.0,2.0,6,5.0
-Getafe,Elche,3,4,0.0,1.0,4.0,4,7.0
-Elche,Valencia,4,9,2.0,3.0,0.0,9,9.0
-Celta,Almeria,5,4,1.0,1.0,1.0,4,4.0
-Elche,Ath Madrid,1,7,1.0,4.0,0.0,7,12.0
-Levante,Elche,6,2,2.0,0.0,2.0,2,2.0
-Elche,Malaga,1,3,0.0,2.0,0.0,3,6.0
-Almeria,Granada,6,0,2.0,0.0,0.0,0,0.0
-Barcelona,Elche,16,2,5.0,0.0,0.0,2,0.0
-Elche,Sevilla,5,6,1.0,1.0,3.0,6,6.0
-Elche,Vallecano,10,1,4.0,0.0,0.0,1,0.0
-Sociedad,Elche,12,0,5.0,0.0,0.0,0,0.0
-Elche,Almeria,3,1,2.0,0.0,1.0,1,1.0
-Valladolid,Elche,6,5,1.0,0.0,2.0,5,2.0
-Elche,Osasuna,4,4,0.0,0.0,4.0,4,4.0
-Real Madrid,Elche,16,4,4.0,0.0,1.0,4,1.0
-Elche,Celta,3,3,2.0,2.0,1.0,3,7.0
-Espanol,Elche,7,6,1.0,1.0,2.0,6,5.0
-Vallecano,Almeria,7,1,3.0,0.0,0.0,1,0.0
-Elche,Betis,3,7,0.0,2.0,2.0,7,8.0
-Granada,Elche,4,2,3.0,1.0,0.0,2,3.0
-Elche,Ath Bilbao,5,7,1.0,2.0,2.0,7,8.0
-Villarreal,Elche,10,2,3.0,0.0,2.0,2,2.0
-Elche,Getafe,5,6,2.0,3.0,0.0,6,9.0
-Valencia,Elche,10,5,4.0,0.0,1.0,5,1.0
-Ath Madrid,Elche,11,1,5.0,0.0,0.0,1,0.0
-Almeria,Celta,7,7,1.0,1.0,1.0,7,4.0
-Elche,Levante,4,2,2.0,0.0,2.0,2,2.0
-Malaga,Elche,1,3,0.0,2.0,0.0,3,6.0
-Elche,Barcelona,1,14,0.0,4.0,1.0,14,13.0
-Granada,Almeria,0,2,0.0,1.0,1.0,2,4.0
-Sevilla,Elche,13,1,5.0,0.0,0.0,1,0.0
-Eibar,Sociedad,8,5,4.0,2.0,1.0,5,7.0
-Real Madrid,Cordoba,2,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Eibar,17,7,5.0,0.0,2.0,7,2.0
-Cordoba,Celta,1,1,0.0,0.0,1.0,1,1.0
-Almeria,Cordoba,1,1,0.0,0.0,1.0,1,1.0
-Eibar,La Coruna,4,3,1.0,1.0,2.0,3,5.0
-Elche,Eibar,1,2,1.0,1.0,0.0,2,3.0
-Cordoba,Sevilla,1,3,0.0,1.0,0.0,3,3.0
-Eibar,Villarreal,8,8,3.0,2.0,2.0,8,8.0
-Valencia,Cordoba,3,0,1.0,0.0,0.0,0,0.0
-Ath Bilbao,Eibar,11,5,3.0,0.0,4.0,5,4.0
-Cordoba,Espanol,0,0,0.0,0.0,1.0,0,1.0
-Getafe,Cordoba,1,1,0.0,0.0,1.0,1,1.0
-Eibar,Levante,14,10,2.0,1.0,3.0,10,6.0
-Barcelona,Eibar,25,5,6.0,0.0,1.0,5,1.0
-Cordoba,Malaga,1,2,0.0,1.0,0.0,2,3.0
-Cordoba,Sociedad,1,1,0.0,0.0,1.0,1,1.0
-Eibar,Granada,15,2,4.0,0.0,1.0,2,1.0
-Ath Madrid,Cordoba,4,2,1.0,0.0,0.0,2,0.0
-Vallecano,Eibar,4,4,1.0,1.0,1.0,4,4.0
-Cordoba,La Coruna,0,0,0.0,0.0,1.0,0,1.0
-Malaga,Eibar,4,3,2.0,1.0,1.0,3,4.0
-Eibar,Real Madrid,6,19,1.0,6.0,0.0,19,18.0
-Elche,Cordoba,2,2,0.0,0.0,1.0,2,1.0
-Celta,Eibar,10,6,3.0,2.0,2.0,6,8.0
-Cordoba,Villarreal,0,2,0.0,1.0,0.0,2,3.0
-Ath Bilbao,Cordoba,0,1,0.0,1.0,0.0,1,3.0
-Eibar,Almeria,5,2,1.0,0.0,0.0,2,0.0
-Cordoba,Levante,0,0,0.0,0.0,1.0,0,1.0
-Sevilla,Eibar,9,3,4.0,1.0,2.0,3,5.0
-La Coruna,Elche,1,0,1.0,0.0,0.0,0,0.0
-Barcelona,Cordoba,5,0,1.0,0.0,0.0,0,0.0
-Eibar,Valencia,6,4,3.0,1.0,3.0,4,6.0
-Espanol,Eibar,9,10,2.0,3.0,1.0,10,10.0
-Cordoba,Granada,2,0,1.0,0.0,0.0,0,0.0
-Eibar,Getafe,7,6,2.0,2.0,2.0,6,8.0
-Vallecano,Cordoba,0,1,0.0,1.0,0.0,1,3.0
-Cordoba,Eibar,1,1,0.0,0.0,1.0,1,1.0
-Cordoba,Real Madrid,1,2,0.0,1.0,0.0,2,3.0
-Sociedad,Eibar,14,7,4.0,0.0,3.0,7,3.0
-Celta,Cordoba,1,0,1.0,0.0,0.0,0,0.0
-Eibar,Ath Madrid,4,11,1.0,6.0,0.0,11,18.0
-La Coruna,Eibar,7,2,3.0,0.0,1.0,2,1.0
-Cordoba,Almeria,1,2,0.0,1.0,0.0,2,3.0
-Sevilla,Cordoba,3,0,1.0,0.0,0.0,0,0.0
-Eibar,Elche,0,2,0.0,2.0,0.0,2,6.0
-Cordoba,Valencia,1,2,0.0,1.0,0.0,2,3.0
-Villarreal,Eibar,14,5,5.0,1.0,1.0,5,4.0
-Espanol,Cordoba,1,0,1.0,0.0,0.0,0,0.0
-Eibar,Ath Bilbao,6,8,1.0,4.0,2.0,8,14.0
-Levante,Eibar,10,7,3.0,0.0,3.0,7,3.0
-Cordoba,Getafe,1,2,0.0,1.0,0.0,2,3.0
-Eibar,Barcelona,2,18,0.0,6.0,1.0,18,19.0
-Malaga,Cordoba,2,0,1.0,0.0,0.0,0,0.0
-Granada,Eibar,7,8,1.0,3.0,1.0,8,10.0
-Sociedad,Cordoba,3,1,1.0,0.0,0.0,1,0.0
-Eibar,Vallecano,4,3,2.0,1.0,0.0,3,3.0
-Cordoba,Ath Madrid,0,2,0.0,1.0,0.0,2,3.0
-Eibar,Malaga,6,3,2.0,1.0,1.0,3,4.0
-La Coruna,Cordoba,1,1,0.0,0.0,1.0,1,1.0
-Real Madrid,Eibar,18,3,6.0,0.0,1.0,3,1.0
-Cordoba,Elche,0,2,0.0,1.0,0.0,2,3.0
-Eibar,Celta,5,6,3.0,2.0,2.0,6,8.0
-Villarreal,Cordoba,0,0,0.0,0.0,1.0,0,1.0
-Cordoba,Ath Bilbao,0,1,0.0,1.0,0.0,1,3.0
-Almeria,Eibar,2,0,1.0,0.0,0.0,0,0.0
-Levante,Cordoba,1,0,1.0,0.0,0.0,0,0.0
-Eibar,Sevilla,12,13,2.0,3.0,2.0,13,11.0
-Elche,La Coruna,4,0,1.0,0.0,0.0,0,0.0
-Cordoba,Barcelona,0,8,0.0,1.0,0.0,8,3.0
-Valencia,Eibar,12,7,4.0,2.0,1.0,7,7.0
-Eibar,Espanol,10,7,3.0,2.0,1.0,7,7.0
-Granada,Cordoba,2,0,1.0,0.0,0.0,0,0.0
-Cordoba,Vallecano,1,2,0.0,1.0,0.0,2,3.0
-Getafe,Eibar,5,4,1.0,1.0,4.0,4,7.0
-Eibar,Cordoba,3,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Las Palmas,5,0,3.0,0.0,0.0,0,0.0
-Las Palmas,Levante,0,2,0.0,1.0,1.0,2,4.0
-Las Palmas,Eibar,2,4,1.0,2.0,0.0,4,6.0
-Getafe,Las Palmas,6,0,2.0,0.0,0.0,0,0.0
-Sp Gijon,Las Palmas,4,1,2.0,0.0,0.0,1,0.0
-Eibar,Sp Gijon,2,1,1.0,1.0,0.0,1,3.0
-Las Palmas,Granada,9,2,2.0,0.0,0.0,2,0.0
-Betis,Eibar,6,8,2.0,2.0,2.0,8,8.0
-Las Palmas,Ath Madrid,1,13,0.0,3.0,0.0,13,9.0
-Levante,Las Palmas,5,3,2.0,0.0,0.0,3,0.0
-Eibar,Las Palmas,4,2,2.0,1.0,0.0,2,3.0
-Las Palmas,Getafe,4,1,1.0,1.0,0.0,1,3.0
-Las Palmas,Sp Gijon,2,1,1.0,0.0,1.0,1,1.0
-Sp Gijon,Eibar,4,3,1.0,1.0,0.0,3,3.0
-Granada,Las Palmas,4,2,2.0,0.0,0.0,2,0.0
-Eibar,Betis,12,4,3.0,0.0,3.0,4,3.0
-Celta,Leganes,2,1,2.0,1.0,1.0,1,4.0
-Leganes,Ath Madrid,1,2,0.0,1.0,3.0,2,6.0
-Alaves,Sp Gijon,0,0,0.0,0.0,1.0,0,1.0
-Sp Gijon,Leganes,2,1,1.0,0.0,0.0,1,0.0
-Leganes,Barcelona,4,11,1.0,3.0,0.0,11,9.0
-La Coruna,Leganes,2,2,1.0,1.0,0.0,2,3.0
-Leganes,Valencia,3,4,1.0,2.0,1.0,4,7.0
-Alaves,Granada,9,8,2.0,2.0,0.0,8,6.0
-Granada,Leganes,1,1,1.0,1.0,0.0,1,3.0
-Leganes,Sevilla,5,8,1.0,2.0,1.0,8,7.0
-Eibar,Osasuna,2,5,0.0,2.0,1.0,5,7.0
-Malaga,Leganes,4,2,1.0,1.0,0.0,2,3.0
-Leganes,Sociedad,5,5,2.0,1.0,1.0,5,4.0
-Real Madrid,Leganes,14,2,4.0,0.0,0.0,2,0.0
-Leganes,Osasuna,2,1,1.0,1.0,0.0,1,3.0
-Espanol,Leganes,4,2,2.0,2.0,0.0,2,6.0
-Leganes,Villarreal,3,5,1.0,2.0,1.0,5,7.0
-Las Palmas,Leganes,1,3,0.0,1.0,1.0,3,4.0
-Eibar,Alaves,5,4,2.0,2.0,1.0,4,7.0
-Leganes,Eibar,4,6,0.0,2.0,2.0,6,8.0
-Betis,Leganes,8,3,4.0,0.0,0.0,3,0.0
-Leganes,Ath Bilbao,2,2,1.0,1.0,2.0,2,5.0
-Alaves,Leganes,6,6,0.0,0.0,4.0,6,4.0
-Leganes,Celta,4,4,2.0,1.0,1.0,4,4.0
-Ath Madrid,Leganes,7,0,3.0,0.0,1.0,0,1.0
-Sp Gijon,Alaves,2,4,0.0,1.0,0.0,4,3.0
-Leganes,Sp Gijon,0,2,0.0,1.0,0.0,2,3.0
-Barcelona,Leganes,10,3,4.0,0.0,0.0,3,0.0
-Leganes,La Coruna,4,0,1.0,0.0,1.0,0,1.0
-Valencia,Leganes,6,2,2.0,0.0,2.0,2,2.0
-Granada,Alaves,9,3,4.0,0.0,0.0,3,0.0
-Leganes,Granada,1,0,1.0,0.0,1.0,0,1.0
-Sevilla,Leganes,4,5,2.0,1.0,1.0,5,4.0
-Osasuna,Eibar,3,2,1.0,0.0,2.0,2,2.0
-Leganes,Malaga,2,0,1.0,0.0,1.0,0,1.0
-Sociedad,Leganes,8,4,2.0,0.0,2.0,4,2.0
-Leganes,Real Madrid,6,10,0.0,2.0,2.0,10,8.0
-Osasuna,Leganes,4,2,2.0,0.0,0.0,2,0.0
-Leganes,Espanol,5,5,2.0,2.0,0.0,5,6.0
-Villarreal,Leganes,7,5,3.0,1.0,0.0,5,3.0
-Leganes,Las Palmas,3,0,1.0,0.0,1.0,0,1.0
-Alaves,Eibar,6,5,2.0,1.0,2.0,5,5.0
-Eibar,Leganes,4,0,3.0,0.0,1.0,0,1.0
-Leganes,Betis,10,2,3.0,0.0,1.0,2,1.0
-Ath Bilbao,Leganes,5,4,2.0,1.0,1.0,4,4.0
-Leganes,Alaves,4,2,2.0,0.0,2.0,2,2.0
-Girona,Ath Madrid,3,4,0.0,1.0,2.0,4,5.0
-Girona,Malaga,1,0,1.0,0.0,0.0,0,0.0
-Leganes,Getafe,2,6,0.0,2.0,1.0,6,7.0
-Ath Bilbao,Girona,5,3,2.0,1.0,0.0,3,3.0
-Girona,Sevilla,3,2,2.0,1.0,0.0,2,3.0
-Leganes,Girona,0,2,0.0,1.0,1.0,2,4.0
-Girona,Barcelona,0,6,0.0,3.0,0.0,6,9.0
-Celta,Girona,6,5,1.0,0.0,2.0,5,2.0
-Levante,Alaves,6,6,2.0,2.0,1.0,6,7.0
-Girona,Villarreal,2,5,0.0,3.0,0.0,5,9.0
-La Coruna,Girona,1,2,0.0,1.0,0.0,2,3.0
-Girona,Real Madrid,7,7,2.0,1.0,0.0,7,3.0
-Levante,Girona,3,4,0.0,1.0,1.0,4,4.0
-Girona,Sociedad,4,6,0.0,1.0,2.0,6,5.0
-Betis,Girona,7,5,2.0,0.0,1.0,5,1.0
-Girona,Alaves,3,4,0.0,1.0,1.0,4,4.0
-Espanol,Girona,3,6,0.0,2.0,1.0,6,7.0
-Girona,Getafe,5,2,2.0,0.0,1.0,2,1.0
-Levante,Leganes,4,0,2.0,0.0,1.0,0,1.0
-Eibar,Girona,7,1,2.0,0.0,0.0,1,0.0
-Valencia,Girona,3,2,2.0,1.0,0.0,2,3.0
-Girona,Las Palmas,6,0,1.0,0.0,0.0,0,0.0
-Ath Madrid,Girona,5,2,2.0,0.0,1.0,2,1.0
-Malaga,Girona,0,0,0.0,0.0,1.0,0,1.0
-Getafe,Leganes,2,2,1.0,1.0,1.0,2,4.0
-Girona,Ath Bilbao,5,3,2.0,1.0,0.0,3,3.0
-Sevilla,Girona,3,2,2.0,1.0,0.0,2,3.0
-Girona,Leganes,3,0,1.0,0.0,1.0,0,1.0
-Barcelona,Girona,8,3,1.0,0.0,2.0,3,2.0
-Girona,Celta,4,3,2.0,1.0,0.0,3,3.0
-Alaves,Levante,8,3,4.0,0.0,1.0,3,1.0
-Villarreal,Girona,1,3,1.0,2.0,0.0,3,6.0
-Girona,La Coruna,2,0,1.0,0.0,0.0,0,0.0
-Real Madrid,Girona,8,6,1.0,1.0,1.0,6,4.0
-Girona,Levante,2,3,0.0,1.0,1.0,3,4.0
-Sociedad,Girona,7,2,1.0,0.0,2.0,2,2.0
-Girona,Betis,1,4,0.0,3.0,0.0,4,9.0
-Alaves,Girona,3,3,1.0,1.0,0.0,3,3.0
-Girona,Espanol,3,5,1.0,2.0,0.0,5,6.0
-Getafe,Girona,6,3,2.0,0.0,1.0,3,1.0
-Girona,Eibar,3,7,0.0,2.0,0.0,7,6.0
-Leganes,Levante,2,5,1.0,2.0,0.0,5,6.0
-Girona,Valencia,3,4,1.0,2.0,0.0,4,6.0
-Las Palmas,Girona,1,2,0.0,1.0,0.0,2,3.0
-Girona,Valladolid,2,1,1.0,0.0,1.0,1,1.0
-Eibar,Huesca,2,3,0.0,1.0,1.0,3,4.0
-Ath Bilbao,Huesca,4,2,1.0,0.0,1.0,2,1.0
-Barcelona,Huesca,12,3,2.0,0.0,0.0,3,0.0
-Huesca,Vallecano,0,1,0.0,1.0,0.0,1,3.0
-Huesca,Sociedad,1,1,1.0,1.0,0.0,1,3.0
-Ath Madrid,Huesca,5,0,2.0,0.0,0.0,0,0.0
-Huesca,Girona,1,1,0.0,0.0,1.0,1,1.0
-Leganes,Vallecano,1,0,1.0,0.0,0.0,0,0.0
-Valladolid,Huesca,2,3,1.0,1.0,0.0,3,3.0
-Huesca,Espanol,0,2,0.0,1.0,0.0,2,3.0
-Girona,Vallecano,4,3,1.0,0.0,1.0,3,1.0
-Sevilla,Huesca,3,1,2.0,0.0,0.0,1,0.0
-Huesca,Getafe,1,3,0.0,1.0,1.0,3,4.0
-Valladolid,Eibar,3,2,1.0,1.0,1.0,2,4.0
-Alaves,Huesca,3,1,2.0,0.0,0.0,1,0.0
-Huesca,Levante,3,3,0.0,0.0,2.0,3,2.0
-Celta,Huesca,4,1,2.0,0.0,0.0,1,0.0
-Valladolid,Leganes,4,6,0.0,1.0,1.0,6,4.0
-Huesca,Real Madrid,1,3,0.0,2.0,0.0,3,6.0
-Huesca,Villarreal,2,2,0.0,0.0,2.0,2,2.0
-Valencia,Huesca,3,2,1.0,0.0,1.0,2,1.0
-Huesca,Betis,2,3,1.0,1.0,0.0,3,3.0
-Leganes,Huesca,1,0,1.0,0.0,0.0,0,0.0
-Huesca,Ath Madrid,0,3,0.0,1.0,1.0,3,4.0
-Sociedad,Huesca,4,1,1.0,0.0,1.0,1,1.0
-Huesca,Valladolid,6,2,1.0,0.0,1.0,2,1.0
-Vallecano,Leganes,1,2,0.0,1.0,0.0,2,3.0
-Girona,Huesca,0,2,0.0,1.0,0.0,2,3.0
-Huesca,Ath Bilbao,1,1,1.0,1.0,0.0,1,3.0
-Espanol,Huesca,1,1,0.0,0.0,1.0,1,1.0
-Vallecano,Girona,2,4,0.0,1.0,1.0,4,4.0
-Huesca,Sevilla,2,2,1.0,1.0,0.0,2,3.0
-Getafe,Huesca,3,1,2.0,0.0,0.0,1,0.0
-Huesca,Alaves,2,3,1.0,1.0,0.0,3,3.0
-Eibar,Valladolid,5,4,1.0,1.0,1.0,4,4.0
-Real Madrid,Huesca,7,3,2.0,0.0,0.0,3,0.0
-Huesca,Celta,6,7,0.0,1.0,1.0,7,4.0
-Leganes,Valladolid,2,2,1.0,1.0,0.0,2,3.0
-Levante,Huesca,2,4,0.0,1.0,1.0,4,4.0
-Huesca,Barcelona,0,1,0.0,1.0,1.0,1,4.0
-Vallecano,Huesca,0,0,0.0,0.0,1.0,0,1.0
-Huesca,Eibar,3,1,1.0,0.0,1.0,1,1.0
-Valladolid,Girona,2,0,2.0,0.0,0.0,0,0.0
-Villarreal,Huesca,2,2,0.0,0.0,2.0,2,2.0
-Huesca,Valencia,2,6,0.0,1.0,1.0,6,4.0
-Betis,Huesca,3,1,2.0,0.0,0.0,1,0.0
-Huesca,Leganes,2,1,1.0,0.0,0.0,1,0.0
-Mallorca,Eibar,2,1,1.0,0.0,0.0,1,0.0
-Leganes,Mallorca,1,0,1.0,0.0,0.0,0,0.0
-Eibar,Mallorca,1,2,0.0,1.0,0.0,2,3.0
-Mallorca,Leganes,1,1,0.0,0.0,1.0,1,1.0
-Huesca,Cadiz,0,2,0.0,1.0,0.0,2,3.0
-Elche,Huesca,0,0,0.0,0.0,1.0,0,1.0
-Cadiz,Granada,2,2,0.0,0.0,2.0,2,2.0
-Alaves,Elche,1,2,1.0,1.0,0.0,2,3.0
-Eibar,Cadiz,0,2,0.0,1.0,0.0,2,3.0
-Osasuna,Huesca,1,1,0.0,0.0,1.0,1,1.0
-Elche,Cadiz,5,3,1.0,0.0,2.0,3,2.0
-Granada,Huesca,3,3,0.0,0.0,1.0,3,1.0
-Cadiz,Valladolid,2,0,1.0,0.0,1.0,0,1.0
-Cadiz,Levante,3,3,0.0,0.0,2.0,3,2.0
-Huesca,Granada,3,2,1.0,0.0,0.0,2,0.0
-Cadiz,Eibar,1,0,1.0,0.0,0.0,0,0.0
-Huesca,Osasuna,0,0,0.0,0.0,1.0,0,1.0
-Huesca,Elche,3,1,1.0,0.0,0.0,1,0.0
-Valladolid,Cadiz,1,2,0.0,1.0,1.0,2,4.0
-Granada,Cadiz,0,1,0.0,1.0,1.0,1,4.0
-Cadiz,Huesca,2,1,1.0,0.0,0.0,1,0.0
-Elche,Alaves,3,3,1.0,1.0,0.0,3,3.0
-Cadiz,Elche,5,4,1.0,1.0,1.0,4,4.0
-Levante,Cadiz,2,4,0.0,1.0,1.0,4,4.0
-Vallecano,Cadiz,8,2,2.0,0.0,0.0,2,0.0
-Mallorca,Elche,2,3,0.0,1.0,1.0,3,4.0
-Cadiz,Vallecano,3,0,2.0,0.0,0.0,0,0.0
-Elche,Mallorca,4,1,1.0,0.0,1.0,1,1.0
-Mallorca,Girona,1,1,0.0,0.0,1.0,1,1.0
-Girona,Cadiz,1,1,0.0,0.0,1.0,1,1.0
-Almeria,Girona,3,2,1.0,0.0,0.0,2,0.0
-Girona,Osasuna,1,1,0.0,0.0,1.0,1,1.0
-Elche,Girona,1,2,0.0,1.0,0.0,2,3.0
-Cadiz,Almeria,1,1,0.0,0.0,1.0,1,1.0
-Cadiz,Girona,2,0,1.0,0.0,0.0,0,0.0
-Girona,Almeria,6,2,1.0,0.0,0.0,2,0.0
-Almeria,Cadiz,1,1,0.0,0.0,1.0,1,1.0
-Girona,Elche,2,0,1.0,0.0,0.0,0,0.0
-Girona,Mallorca,2,1,1.0,0.0,0.0,1,0.0
-Osasuna,Girona,2,1,1.0,0.0,0.0,1,0.0
+home,away,weight1,weight2
+La Coruna,Valencia,64.0,73.0
+Sp Gijon,Albacete,1.0,0.0
+Ath Bilbao,Santander,38.0,25.0
+Ath Madrid,Sociedad,52.0,52.0
+Celta,Compostela,9.0,12.0
+Espanol,Salamanca,7.0,4.0
+Merida,Betis,6.0,7.0
+Sevilla,Tenerife,8.0,7.0
+Valladolid,Barcelona,82.0,83.0
+Vallecano,Real Madrid,73.0,70.0
+Zaragoza,Oviedo,14.0,14.0
+Albacete,Sevilla,12.0,13.0
+Barcelona,Merida,4.0,2.0
+Betis,Zaragoza,36.0,28.0
+Real Madrid,Ath Bilbao,49.0,40.0
+Compostela,La Coruna,5.0,8.0
+Oviedo,Vallecano,7.0,4.0
+Salamanca,Celta,10.0,16.0
+Santander,Ath Madrid,50.0,57.0
+Sociedad,Sp Gijon,14.0,7.0
+Tenerife,Espanol,18.0,24.0
+Valencia,Valladolid,35.0,38.0
+Ath Bilbao,Ath Madrid,85.0,96.0
+Celta,Tenerife,6.0,7.0
+Espanol,Albacete,5.0,8.0
+La Coruna,Salamanca,7.0,6.0
+Merida,Valencia,9.0,9.0
+Real Madrid,Oviedo,15.0,10.0
+Sevilla,Sociedad,55.0,59.0
+Sp Gijon,Santander,20.0,25.0
+Valladolid,Compostela,4.0,3.0
+Vallecano,Betis,37.0,41.0
+Zaragoza,Barcelona,83.0,76.0
+Barcelona,Vallecano,24.0,23.0
+Betis,Real Madrid,89.0,89.0
+Santander,Sevilla,46.0,43.0
+Albacete,Celta,6.0,5.0
+Ath Madrid,Sp Gijon,16.0,8.0
+Compostela,Merida,3.0,1.0
+Oviedo,Ath Bilbao,16.0,15.0
+Salamanca,Valladolid,6.0,7.0
+Sociedad,Espanol,51.0,54.0
+Tenerife,La Coruna,15.0,20.0
+Valencia,Zaragoza,38.0,27.0
+Ath Bilbao,Sp Gijon,17.0,12.0
+Real Madrid,Barcelona,103.0,89.0
+Celta,Sociedad,70.0,66.0
+Espanol,Santander,38.0,38.0
+La Coruna,Albacete,1.0,4.0
+Merida,Salamanca,5.0,5.0
+Oviedo,Betis,17.0,22.0
+Sevilla,Ath Madrid,72.0,71.0
+Valladolid,Tenerife,13.0,13.0
+Vallecano,Valencia,53.0,49.0
+Zaragoza,Compostela,12.0,13.0
+Albacete,Valladolid,7.0,6.0
+Barcelona,Oviedo,19.0,13.0
+Betis,Ath Bilbao,66.0,72.0
+Compostela,Vallecano,1.0,0.0
+Salamanca,Zaragoza,9.0,14.0
+Santander,Celta,22.0,17.0
+Sociedad,La Coruna,43.0,49.0
+Sp Gijon,Sevilla,23.0,27.0
+Tenerife,Merida,4.0,5.0
+Valencia,Real Madrid,105.0,100.0
+Ath Madrid,Espanol,63.0,59.0
+Betis,Barcelona,139.0,109.0
+Ath Bilbao,Sevilla,73.0,83.0
+Celta,Ath Madrid,70.0,81.0
+Espanol,Sp Gijon,24.0,28.0
+La Coruna,Santander,32.0,33.0
+Merida,Albacete,3.0,4.0
+Oviedo,Valencia,20.0,23.0
+Real Madrid,Compostela,8.0,2.0
+Valladolid,Sociedad,48.0,47.0
+Vallecano,Salamanca,5.0,3.0
+Zaragoza,Tenerife,11.0,9.0
+Ath Madrid,La Coruna,37.0,36.0
+Barcelona,Ath Bilbao,44.0,32.0
+Sevilla,Espanol,58.0,43.0
+Valencia,Betis,56.0,55.0
+Albacete,Zaragoza,10.0,9.0
+Compostela,Oviedo,9.0,8.0
+Salamanca,Real Madrid,14.0,16.0
+Santander,Valladolid,23.0,31.0
+Sociedad,Merida,7.0,6.0
+Sp Gijon,Celta,11.0,20.0
+Tenerife,Vallecano,10.0,7.0
+Valladolid,Ath Madrid,68.0,68.0
+Ath Bilbao,Espanol,72.0,81.0
+Barcelona,Valencia,72.0,50.0
+Betis,Compostela,3.0,1.0
+Celta,Sevilla,47.0,53.0
+La Coruna,Sp Gijon,20.0,19.0
+Merida,Santander,7.0,9.0
+Oviedo,Salamanca,5.0,2.0
+Real Madrid,Tenerife,12.0,8.0
+Vallecano,Albacete,1.0,0.0
+Zaragoza,Sociedad,38.0,41.0
+Albacete,Real Madrid,15.0,16.0
+Compostela,Barcelona,14.0,13.0
+Sevilla,La Coruna,49.0,52.0
+Ath Madrid,Merida,3.0,4.0
+Espanol,Celta,54.0,62.0
+Salamanca,Betis,11.0,13.0
+Santander,Zaragoza,40.0,46.0
+Sociedad,Vallecano,36.0,33.0
+Sp Gijon,Valladolid,15.0,19.0
+Tenerife,Oviedo,10.0,8.0
+Valencia,Ath Bilbao,66.0,64.0
+Real Madrid,Sociedad,66.0,40.0
+Ath Bilbao,Celta,49.0,46.0
+Barcelona,Salamanca,12.0,7.0
+Betis,Tenerife,13.0,10.0
+La Coruna,Espanol,42.0,55.0
+Merida,Sp Gijon,3.0,4.0
+Oviedo,Albacete,0.0,0.0
+Valencia,Compostela,7.0,3.0
+Valladolid,Sevilla,45.0,44.0
+Vallecano,Santander,15.0,13.0
+Zaragoza,Ath Madrid,42.0,48.0
+Celta,La Coruna,42.0,42.0
+Albacete,Betis,7.0,8.0
+Ath Madrid,Vallecano,18.0,14.0
+Compostela,Ath Bilbao,10.0,9.0
+Espanol,Valladolid,30.0,44.0
+Salamanca,Valencia,4.0,9.0
+Santander,Real Madrid,66.0,64.0
+Sevilla,Merida,3.0,3.0
+Sociedad,Oviedo,9.0,12.0
+Sp Gijon,Zaragoza,18.0,15.0
+Tenerife,Barcelona,32.0,25.0
+Barcelona,Albacete,2.0,0.0
+Betis,Sociedad,52.0,58.0
+Real Madrid,Ath Madrid,52.0,41.0
+Zaragoza,Sevilla,48.0,41.0
+Ath Bilbao,La Coruna,61.0,62.0
+Compostela,Salamanca,1.0,4.0
+Merida,Espanol,5.0,8.0
+Oviedo,Santander,15.0,21.0
+Valencia,Tenerife,16.0,19.0
+Valladolid,Celta,45.0,51.0
+Vallecano,Sp Gijon,15.0,16.0
+Sociedad,Barcelona,112.0,110.0
+Albacete,Valencia,8.0,15.0
+Ath Madrid,Oviedo,11.0,9.0
+Celta,Merida,6.0,6.0
+Espanol,Zaragoza,35.0,42.0
+La Coruna,Valladolid,37.0,39.0
+Salamanca,Ath Bilbao,7.0,10.0
+Santander,Betis,32.0,37.0
+Sevilla,Vallecano,27.0,24.0
+Sp Gijon,Real Madrid,40.0,42.0
+Tenerife,Compostela,4.0,2.0
+Barcelona,Santander,24.0,14.0
+Real Madrid,Sevilla,73.0,42.0
+Vallecano,Espanol,50.0,49.0
+Ath Bilbao,Valladolid,41.0,41.0
+Betis,Ath Madrid,68.0,85.0
+Compostela,Albacete,3.0,3.0
+Merida,La Coruna,4.0,6.0
+Oviedo,Sp Gijon,2.0,2.0
+Salamanca,Tenerife,11.0,15.0
+Valencia,Sociedad,64.0,64.0
+Zaragoza,Celta,24.0,35.0
+Ath Madrid,Barcelona,100.0,91.0
+Santander,Valencia,47.0,46.0
+Albacete,Salamanca,5.0,1.0
+Celta,Vallecano,36.0,47.0
+Espanol,Real Madrid,124.0,123.0
+La Coruna,Zaragoza,41.0,35.0
+Sevilla,Oviedo,12.0,10.0
+Sociedad,Compostela,7.0,6.0
+Sp Gijon,Betis,26.0,27.0
+Tenerife,Ath Bilbao,25.0,25.0
+Valladolid,Merida,2.0,6.0
+Barcelona,Sp Gijon,8.0,2.0
+Betis,Sevilla,67.0,77.0
+Ath Bilbao,Merida,3.0,5.0
+Compostela,Santander,6.0,6.0
+Oviedo,Espanol,20.0,22.0
+Real Madrid,Celta,51.0,32.0
+Salamanca,Sociedad,10.0,12.0
+Tenerife,Albacete,3.0,4.0
+Valencia,Ath Madrid,68.0,74.0
+Vallecano,La Coruna,31.0,31.0
+Zaragoza,Valladolid,27.0,33.0
+Albacete,Ath Bilbao,7.0,6.0
+Ath Madrid,Compostela,8.0,6.0
+Celta,Oviedo,17.0,13.0
+Espanol,Betis,58.0,52.0
+Merida,Zaragoza,6.0,8.0
+Santander,Salamanca,8.0,4.0
+Sevilla,Barcelona,111.0,113.0
+Sociedad,Tenerife,8.0,13.0
+Sp Gijon,Valencia,31.0,35.0
+Valladolid,Vallecano,23.0,26.0
+La Coruna,Real Madrid,93.0,79.0
+Albacete,Sociedad,16.0,7.0
+Ath Bilbao,Zaragoza,37.0,38.0
+Betis,Celta,62.0,59.0
+Compostela,Sp Gijon,4.0,4.0
+Oviedo,La Coruna,25.0,31.0
+Real Madrid,Valladolid,33.0,17.0
+Salamanca,Ath Madrid,13.0,10.0
+Tenerife,Santander,13.0,10.0
+Valencia,Sevilla,53.0,67.0
+Vallecano,Merida,1.0,0.0
+Barcelona,Espanol,37.0,27.0
+Ath Bilbao,Sociedad,68.0,71.0
+Ath Madrid,Tenerife,14.0,10.0
+Celta,Barcelona,90.0,78.0
+Espanol,Valencia,79.0,84.0
+La Coruna,Betis,29.0,37.0
+Merida,Real Madrid,9.0,8.0
+Santander,Albacete,13.0,9.0
+Sevilla,Compostela,4.0,10.0
+Sp Gijon,Salamanca,10.0,7.0
+Valladolid,Oviedo,14.0,10.0
+Zaragoza,Vallecano,15.0,11.0
+Albacete,Ath Madrid,10.0,14.0
+Betis,Valladolid,24.0,27.0
+Barcelona,La Coruna,56.0,41.0
+Compostela,Espanol,4.0,5.0
+Oviedo,Merida,5.0,7.0
+Real Madrid,Zaragoza,37.0,20.0
+Salamanca,Sevilla,4.0,3.0
+Sociedad,Santander,24.0,20.0
+Tenerife,Sp Gijon,4.0,3.0
+Valencia,Celta,42.0,41.0
+Vallecano,Ath Bilbao,51.0,53.0
+Valencia,La Coruna,44.0,43.0
+Albacete,Sp Gijon,6.0,6.0
+Barcelona,Valladolid,26.0,20.0
+Betis,Merida,4.0,4.0
+Compostela,Celta,6.0,3.0
+Oviedo,Zaragoza,19.0,20.0
+Real Madrid,Vallecano,26.0,13.0
+Salamanca,Espanol,16.0,13.0
+Santander,Ath Bilbao,56.0,61.0
+Sociedad,Ath Madrid,74.0,76.0
+Tenerife,Sevilla,14.0,16.0
+Ath Bilbao,Real Madrid,121.0,121.0
+Ath Madrid,Santander,27.0,24.0
+Celta,Salamanca,3.0,1.0
+Espanol,Tenerife,14.0,9.0
+La Coruna,Compostela,10.0,8.0
+Sevilla,Albacete,5.0,4.0
+Sp Gijon,Sociedad,27.0,31.0
+Valladolid,Valencia,49.0,59.0
+Vallecano,Oviedo,16.0,19.0
+Zaragoza,Betis,47.0,43.0
+Merida,Barcelona,7.0,8.0
+Salamanca,La Coruna,11.0,12.0
+Albacete,Espanol,5.0,8.0
+Ath Madrid,Ath Bilbao,56.0,51.0
+Barcelona,Zaragoza,32.0,16.0
+Betis,Vallecano,28.0,26.0
+Compostela,Valladolid,11.0,12.0
+Oviedo,Real Madrid,29.0,22.0
+Santander,Sp Gijon,12.0,13.0
+Sociedad,Sevilla,60.0,62.0
+Tenerife,Celta,16.0,19.0
+Valencia,Merida,2.0,3.0
+Sp Gijon,Ath Madrid,44.0,44.0
+Zaragoza,Valencia,47.0,57.0
+Ath Bilbao,Oviedo,18.0,18.0
+Celta,Albacete,8.0,5.0
+Espanol,Sociedad,62.0,78.0
+La Coruna,Tenerife,10.0,11.0
+Merida,Compostela,9.0,10.0
+Real Madrid,Betis,48.0,41.0
+Sevilla,Santander,25.0,25.0
+Valladolid,Salamanca,5.0,10.0
+Vallecano,Barcelona,78.0,56.0
+Ath Madrid,Sevilla,49.0,56.0
+Barcelona,Real Madrid,75.0,65.0
+Valencia,Vallecano,28.0,28.0
+Albacete,La Coruna,11.0,13.0
+Betis,Oviedo,4.0,4.0
+Compostela,Zaragoza,7.0,4.0
+Salamanca,Merida,4.0,5.0
+Santander,Espanol,37.0,47.0
+Sociedad,Celta,65.0,54.0
+Sp Gijon,Ath Bilbao,36.0,36.0
+Tenerife,Valladolid,20.0,19.0
+Real Madrid,Valencia,71.0,55.0
+Zaragoza,Salamanca,4.0,2.0
+Ath Bilbao,Betis,56.0,60.0
+Celta,Santander,31.0,35.0
+Espanol,Ath Madrid,70.0,77.0
+La Coruna,Sociedad,43.0,46.0
+Merida,Tenerife,3.0,5.0
+Oviedo,Barcelona,24.0,22.0
+Sevilla,Sp Gijon,16.0,18.0
+Valladolid,Albacete,6.0,6.0
+Vallecano,Compostela,5.0,12.0
+Santander,La Coruna,42.0,48.0
+Albacete,Merida,1.0,1.0
+Ath Madrid,Celta,39.0,30.0
+Barcelona,Betis,61.0,31.0
+Compostela,Real Madrid,12.0,14.0
+Salamanca,Vallecano,3.0,3.0
+Sevilla,Ath Bilbao,52.0,56.0
+Sociedad,Valladolid,33.0,35.0
+Sp Gijon,Espanol,23.0,22.0
+Tenerife,Zaragoza,16.0,21.0
+Valencia,Oviedo,10.0,8.0
+Ath Bilbao,Barcelona,124.0,125.0
+Espanol,Sevilla,85.0,91.0
+Merida,Sociedad,6.0,6.0
+Real Madrid,Salamanca,2.0,1.0
+Valladolid,Santander,23.0,28.0
+Betis,Valencia,77.0,82.0
+Celta,Sp Gijon,7.0,8.0
+La Coruna,Ath Madrid,59.0,69.0
+Oviedo,Compostela,9.0,8.0
+Vallecano,Tenerife,12.0,10.0
+Zaragoza,Albacete,10.0,9.0
+Valencia,Barcelona,112.0,104.0
+Albacete,Vallecano,4.0,6.0
+Ath Madrid,Valladolid,31.0,26.0
+Compostela,Betis,13.0,16.0
+Espanol,Ath Bilbao,65.0,63.0
+Salamanca,Oviedo,11.0,14.0
+Santander,Merida,4.0,3.0
+Sevilla,Celta,48.0,53.0
+Sociedad,Zaragoza,36.0,38.0
+Sp Gijon,La Coruna,21.0,22.0
+Tenerife,Real Madrid,30.0,26.0
+Barcelona,Compostela,5.0,4.0
+Real Madrid,Albacete,5.0,1.0
+Zaragoza,Santander,29.0,28.0
+Ath Bilbao,Valencia,81.0,85.0
+Betis,Salamanca,4.0,4.0
+Celta,Espanol,50.0,50.0
+La Coruna,Sevilla,51.0,46.0
+Merida,Ath Madrid,7.0,7.0
+Oviedo,Tenerife,13.0,14.0
+Valladolid,Sp Gijon,12.0,10.0
+Vallecano,Sociedad,49.0,45.0
+Sp Gijon,Merida,3.0,7.0
+Tenerife,Betis,18.0,19.0
+Albacete,Oviedo,2.0,6.0
+Ath Madrid,Zaragoza,23.0,27.0
+Celta,Ath Bilbao,57.0,73.0
+Compostela,Valencia,19.0,15.0
+Espanol,La Coruna,48.0,61.0
+Salamanca,Barcelona,16.0,10.0
+Santander,Vallecano,20.0,19.0
+Sevilla,Valladolid,31.0,32.0
+Sociedad,Real Madrid,115.0,103.0
+Ath Bilbao,Compostela,6.0,6.0
+Barcelona,Tenerife,15.0,7.0
+Betis,Albacete,7.0,8.0
+La Coruna,Celta,37.0,45.0
+Merida,Sevilla,5.0,3.0
+Real Madrid,Santander,35.0,25.0
+Valencia,Salamanca,11.0,9.0
+Valladolid,Espanol,33.0,47.0
+Vallecano,Ath Madrid,48.0,56.0
+Zaragoza,Sp Gijon,18.0,15.0
+Oviedo,Sociedad,17.0,18.0
+Albacete,Barcelona,15.0,18.0
+Ath Madrid,Real Madrid,90.0,101.0
+Celta,Valladolid,31.0,27.0
+Espanol,Merida,1.0,2.0
+La Coruna,Ath Bilbao,52.0,50.0
+Salamanca,Compostela,3.0,7.0
+Santander,Oviedo,7.0,12.0
+Sevilla,Zaragoza,33.0,32.0
+Sociedad,Betis,60.0,61.0
+Sp Gijon,Vallecano,9.0,7.0
+Tenerife,Valencia,14.0,13.0
+Barcelona,Sociedad,46.0,32.0
+Oviedo,Ath Madrid,22.0,18.0
+Zaragoza,Espanol,43.0,42.0
+Ath Bilbao,Salamanca,5.0,7.0
+Betis,Santander,30.0,28.0
+Compostela,Tenerife,17.0,14.0
+Merida,Celta,4.0,6.0
+Real Madrid,Sp Gijon,10.0,9.0
+Valencia,Albacete,2.0,3.0
+Valladolid,La Coruna,31.0,33.0
+Vallecano,Sevilla,47.0,48.0
+Santander,Barcelona,66.0,74.0
+Sevilla,Real Madrid,127.0,105.0
+Albacete,Compostela,4.0,3.0
+Ath Madrid,Betis,40.0,43.0
+Celta,Zaragoza,17.0,23.0
+Espanol,Vallecano,33.0,28.0
+La Coruna,Merida,3.0,6.0
+Sociedad,Valencia,70.0,73.0
+Sp Gijon,Oviedo,6.0,14.0
+Tenerife,Salamanca,4.0,3.0
+Valladolid,Ath Bilbao,50.0,56.0
+Barcelona,Ath Madrid,67.0,52.0
+Valencia,Santander,36.0,43.0
+Ath Bilbao,Tenerife,12.0,10.0
+Betis,Sp Gijon,20.0,12.0
+Compostela,Sociedad,14.0,12.0
+Merida,Valladolid,1.0,3.0
+Oviedo,Sevilla,10.0,7.0
+Real Madrid,Espanol,41.0,33.0
+Salamanca,Albacete,7.0,4.0
+Vallecano,Celta,30.0,26.0
+Zaragoza,La Coruna,46.0,47.0
+Ath Madrid,Valencia,72.0,71.0
+Albacete,Tenerife,1.0,1.0
+Celta,Real Madrid,101.0,98.0
+La Coruna,Vallecano,20.0,16.0
+Merida,Ath Bilbao,6.0,5.0
+Santander,Compostela,9.0,9.0
+Sevilla,Betis,42.0,38.0
+Sociedad,Salamanca,4.0,3.0
+Sp Gijon,Barcelona,53.0,50.0
+Valladolid,Zaragoza,20.0,24.0
+Compostela,Ath Madrid,15.0,12.0
+Valencia,Sp Gijon,17.0,14.0
+Ath Bilbao,Albacete,8.0,9.0
+Barcelona,Sevilla,45.0,29.0
+Betis,Espanol,67.0,70.0
+Oviedo,Celta,26.0,22.0
+Real Madrid,La Coruna,54.0,40.0
+Salamanca,Santander,9.0,13.0
+Tenerife,Sociedad,9.0,13.0
+Vallecano,Valladolid,34.0,32.0
+Zaragoza,Merida,3.0,2.0
+Espanol,Oviedo,11.0,10.0
+Ath Madrid,Salamanca,10.0,7.0
+Celta,Betis,49.0,53.0
+La Coruna,Oviedo,10.0,4.0
+Merida,Vallecano,5.0,6.0
+Santander,Tenerife,15.0,16.0
+Sevilla,Valencia,65.0,76.0
+Sociedad,Albacete,12.0,10.0
+Sp Gijon,Compostela,9.0,13.0
+Valladolid,Real Madrid,87.0,83.0
+Zaragoza,Ath Bilbao,43.0,47.0
+Espanol,Barcelona,110.0,120.0
+Tenerife,Ath Madrid,17.0,16.0
+Albacete,Santander,8.0,6.0
+Barcelona,Celta,60.0,45.0
+Betis,La Coruna,44.0,52.0
+Compostela,Sevilla,0.0,1.0
+Oviedo,Valladolid,20.0,22.0
+Real Madrid,Merida,4.0,2.0
+Salamanca,Sp Gijon,4.0,4.0
+Sociedad,Ath Bilbao,67.0,65.0
+Valencia,Espanol,72.0,66.0
+Vallecano,Zaragoza,27.0,26.0
+Ath Bilbao,Vallecano,36.0,23.0
+Ath Madrid,Albacete,3.0,2.0
+Celta,Valencia,65.0,77.0
+Espanol,Compostela,8.0,11.0
+Santander,Sociedad,39.0,53.0
+Sevilla,Salamanca,5.0,3.0
+Sp Gijon,Tenerife,20.0,21.0
+Valladolid,Betis,48.0,60.0
+Zaragoza,Real Madrid,71.0,68.0
+La Coruna,Barcelona,93.0,77.0
+Merida,Oviedo,4.0,4.0
+Hercules,Extremadura,61.0,56.0
+Zaragoza,Logrones,16.0,15.0
+Logrones,Tenerife,41.0,48.0
+Real Madrid,Hercules,0.0,1.0
+Extremadura,Betis,18.0,16.0
+Compostela,Logrones,30.0,30.0
+Hercules,Celta,36.0,43.0
+Vallecano,Extremadura,2.0,1.0
+Logrones,Ath Madrid,22.0,17.0
+Extremadura,Oviedo,4.0,6.0
+La Coruna,Hercules,13.0,13.0
+Espanol,Extremadura,25.0,21.0
+Logrones,Sevilla,10.0,9.0
+Ath Madrid,Hercules,3.0,3.0
+Extremadura,Santander,39.0,39.0
+Hercules,Betis,18.0,15.0
+Valencia,Logrones,24.0,30.0
+Logrones,Sp Gijon,5.0,3.0
+Sociedad,Extremadura,21.0,23.0
+Vallecano,Hercules,13.0,15.0
+Extremadura,Zaragoza,12.0,9.0
+Hercules,Oviedo,5.0,5.0
+Barcelona,Logrones,24.0,33.0
+Espanol,Hercules,28.0,28.0
+Logrones,Valladolid,2.0,4.0
+Tenerife,Extremadura,22.0,33.0
+Ath Bilbao,Logrones,3.0,3.0
+Extremadura,Compostela,15.0,11.0
+Hercules,Santander,43.0,50.0
+Logrones,Extremadura,9.0,6.0
+Sociedad,Hercules,11.0,12.0
+Extremadura,Sevilla,2.0,6.0
+Hercules,Zaragoza,47.0,50.0
+Real Madrid,Logrones,41.0,55.0
+Tenerife,Hercules,3.0,3.0
+Valencia,Extremadura,11.0,15.0
+Logrones,Celta,16.0,19.0
+Extremadura,Sp Gijon,32.0,32.0
+Hercules,Compostela,29.0,32.0
+La Coruna,Logrones,2.0,4.0
+Logrones,Hercules,4.0,3.0
+Barcelona,Extremadura,14.0,9.0
+Betis,Logrones,12.0,7.0
+Extremadura,Valladolid,3.0,6.0
+Hercules,Sevilla,24.0,23.0
+Ath Bilbao,Extremadura,4.0,8.0
+Logrones,Vallecano,34.0,36.0
+Valencia,Hercules,23.0,25.0
+Extremadura,Ath Madrid,16.0,12.0
+Hercules,Sp Gijon,2.0,2.0
+Oviedo,Logrones,22.0,13.0
+Extremadura,Real Madrid,7.0,7.0
+Logrones,Espanol,23.0,21.0
+Barcelona,Hercules,54.0,50.0
+Celta,Extremadura,6.0,6.0
+Hercules,Valladolid,23.0,27.0
+Santander,Logrones,46.0,45.0
+Extremadura,La Coruna,10.0,8.0
+Ath Bilbao,Hercules,11.0,13.0
+Logrones,Sociedad,5.0,3.0
+Logrones,Zaragoza,4.0,6.0
+Extremadura,Hercules,11.0,11.0
+Betis,Extremadura,7.0,10.0
+Hercules,Real Madrid,8.0,9.0
+Tenerife,Logrones,13.0,16.0
+Celta,Hercules,46.0,45.0
+Extremadura,Vallecano,24.0,24.0
+Logrones,Compostela,7.0,10.0
+Ath Madrid,Logrones,37.0,43.0
+Hercules,La Coruna,41.0,49.0
+Oviedo,Extremadura,10.0,12.0
+Hercules,Ath Madrid,26.0,35.0
+Extremadura,Espanol,2.0,3.0
+Sevilla,Logrones,19.0,18.0
+Logrones,Valencia,42.0,35.0
+Betis,Hercules,3.0,6.0
+Santander,Extremadura,5.0,6.0
+Extremadura,Sociedad,9.0,7.0
+Hercules,Vallecano,6.0,6.0
+Sp Gijon,Logrones,2.0,3.0
+Logrones,Barcelona,30.0,42.0
+Oviedo,Hercules,37.0,29.0
+Zaragoza,Extremadura,4.0,2.0
+Extremadura,Tenerife,0.0,0.0
+Hercules,Espanol,17.0,17.0
+Valladolid,Logrones,22.0,21.0
+Compostela,Extremadura,41.0,45.0
+Logrones,Ath Bilbao,22.0,25.0
+Santander,Hercules,39.0,39.0
+Extremadura,Logrones,7.0,6.0
+Hercules,Sociedad,6.0,5.0
+Sevilla,Extremadura,1.0,2.0
+Logrones,Real Madrid,4.0,6.0
+Zaragoza,Hercules,13.0,14.0
+Extremadura,Valencia,23.0,21.0
+Celta,Logrones,64.0,67.0
+Hercules,Tenerife,39.0,32.0
+Compostela,Hercules,5.0,7.0
+Logrones,La Coruna,9.0,7.0
+Sp Gijon,Extremadura,33.0,27.0
+Hercules,Logrones,33.0,37.0
+Extremadura,Barcelona,16.0,13.0
+Valladolid,Extremadura,26.0,28.0
+Logrones,Betis,2.0,0.0
+Sevilla,Hercules,9.0,16.0
+Extremadura,Ath Bilbao,7.0,9.0
+Hercules,Valencia,5.0,7.0
+Vallecano,Logrones,26.0,29.0
+Ath Madrid,Extremadura,9.0,10.0
+Logrones,Oviedo,27.0,26.0
+Sp Gijon,Hercules,20.0,20.0
+Espanol,Logrones,11.0,8.0
+Hercules,Barcelona,8.0,10.0
+Real Madrid,Extremadura,17.0,18.0
+Extremadura,Celta,4.0,4.0
+Logrones,Santander,33.0,43.0
+Valladolid,Hercules,4.0,6.0
+Hercules,Ath Bilbao,13.0,14.0
+La Coruna,Extremadura,17.0,20.0
+Sociedad,Logrones,27.0,28.0
+Mallorca,Valencia,53.0,52.0
+La Coruna,Mallorca,52.0,46.0
+Mallorca,Sp Gijon,61.0,63.0
+Tenerife,Mallorca,38.0,42.0
+Compostela,Mallorca,5.0,6.0
+Mallorca,Barcelona,41.0,45.0
+Santander,Mallorca,16.0,22.0
+Mallorca,Real Madrid,40.0,43.0
+Valladolid,Mallorca,28.0,28.0
+Mallorca,Ath Bilbao,21.0,19.0
+Celta,Mallorca,25.0,21.0
+Mallorca,Oviedo,12.0,9.0
+Merida,Mallorca,37.0,36.0
+Mallorca,Zaragoza,18.0,17.0
+Espanol,Mallorca,19.0,14.0
+Mallorca,Betis,20.0,23.0
+Ath Madrid,Mallorca,19.0,20.0
+Mallorca,Salamanca,6.0,9.0
+Sociedad,Mallorca,88.0,79.0
+Valencia,Mallorca,38.0,39.0
+Mallorca,La Coruna,36.0,35.0
+Sp Gijon,Mallorca,35.0,34.0
+Mallorca,Tenerife,18.0,15.0
+Mallorca,Compostela,82.0,75.0
+Barcelona,Mallorca,20.0,13.0
+Mallorca,Santander,25.0,25.0
+Real Madrid,Mallorca,51.0,44.0
+Mallorca,Valladolid,30.0,25.0
+Ath Bilbao,Mallorca,17.0,16.0
+Mallorca,Celta,13.0,11.0
+Oviedo,Mallorca,15.0,18.0
+Mallorca,Merida,43.0,36.0
+Zaragoza,Mallorca,36.0,32.0
+Mallorca,Espanol,57.0,52.0
+Betis,Mallorca,32.0,32.0
+Mallorca,Ath Madrid,46.0,40.0
+Salamanca,Mallorca,6.0,5.0
+Mallorca,Sociedad,44.0,48.0
+Alaves,Betis,14.0,25.0
+Real Madrid,Villareal,2.0,3.0
+Villareal,Celta,33.0,30.0
+Oviedo,Alaves,34.0,32.0
+Alaves,Zaragoza,34.0,42.0
+Valencia,Villareal,9.0,13.0
+Tenerife,Alaves,6.0,6.0
+Villareal,Salamanca,51.0,48.0
+Alaves,Santander,53.0,63.0
+Espanol,Villareal,3.0,4.0
+Villareal,Sociedad,5.0,8.0
+Mallorca,Alaves,23.0,25.0
+Alaves,Extremadura,5.0,7.0
+Oviedo,Villareal,37.0,43.0
+Ath Madrid,Alaves,11.0,10.0
+Villareal,Tenerife,24.0,32.0
+Alaves,Real Madrid,34.0,35.0
+Mallorca,Villareal,6.0,6.0
+La Coruna,Alaves,64.0,57.0
+Villareal,Ath Madrid,2.0,0.0
+Alaves,Celta,43.0,48.0
+La Coruna,Villareal,37.0,33.0
+Salamanca,Extremadura,7.0,5.0
+Villareal,Alaves,1.0,3.0
+Alaves,Valencia,34.0,41.0
+Villareal,Valladolid,10.0,12.0
+Barcelona,Villareal,14.0,21.0
+Valladolid,Alaves,26.0,29.0
+Alaves,Salamanca,1.0,0.0
+Villareal,Ath Bilbao,18.0,19.0
+Barcelona,Alaves,61.0,53.0
+Betis,Villareal,7.0,7.0
+Extremadura,Mallorca,6.0,4.0
+Alaves,Espanol,11.0,13.0
+Villareal,Zaragoza,2.0,2.0
+Alaves,Ath Bilbao,42.0,45.0
+Santander,Villareal,12.0,12.0
+Sociedad,Alaves,32.0,35.0
+Villareal,Extremadura,49.0,54.0
+Betis,Alaves,17.0,16.0
+Villareal,Real Madrid,25.0,30.0
+Alaves,Oviedo,14.0,17.0
+Celta,Villareal,5.0,5.0
+Villareal,Valencia,7.0,6.0
+Zaragoza,Alaves,11.0,8.0
+Alaves,Tenerife,8.0,6.0
+Salamanca,Villareal,18.0,21.0
+Santander,Alaves,24.0,27.0
+Villareal,Espanol,4.0,4.0
+Alaves,Mallorca,54.0,62.0
+Sociedad,Villareal,83.0,63.0
+Extremadura,Alaves,3.0,4.0
+Villareal,Oviedo,1.0,4.0
+Alaves,Ath Madrid,41.0,45.0
+Tenerife,Villareal,19.0,17.0
+Real Madrid,Alaves,9.0,7.0
+Villareal,Mallorca,6.0,6.0
+Alaves,La Coruna,18.0,17.0
+Ath Madrid,Villareal,8.0,5.0
+Celta,Alaves,55.0,57.0
+Extremadura,Salamanca,3.0,5.0
+Villareal,La Coruna,49.0,48.0
+Alaves,Villareal,4.0,3.0
+Valencia,Alaves,23.0,23.0
+Valladolid,Villareal,4.0,4.0
+Alaves,Valladolid,8.0,5.0
+Villareal,Barcelona,36.0,23.0
+Ath Bilbao,Villareal,12.0,11.0
+Salamanca,Alaves,3.0,7.0
+Alaves,Barcelona,49.0,55.0
+Mallorca,Extremadura,39.0,40.0
+Villareal,Betis,32.0,39.0
+Espanol,Alaves,18.0,18.0
+Zaragoza,Villareal,12.0,7.0
+Ath Bilbao,Alaves,7.0,7.0
+Villareal,Santander,38.0,35.0
+Alaves,Sociedad,40.0,49.0
+Extremadura,Villareal,9.0,10.0
+Malaga,Espanol,38.0,48.0
+Numancia,Valladolid,15.0,13.0
+Alaves,Malaga,9.0,10.0
+Real Madrid,Numancia,47.0,40.0
+Vallecano,Mallorca,19.0,20.0
+Malaga,Betis,19.0,23.0
+Mallorca,Numancia,69.0,70.0
+Valladolid,Malaga,14.0,15.0
+Numancia,Ath Bilbao,24.0,33.0
+Malaga,Real Madrid,43.0,51.0
+La Coruna,Numancia,12.0,14.0
+Numancia,Malaga,4.0,4.0
+Alaves,Sevilla,37.0,42.0
+Malaga,Ath Bilbao,50.0,43.0
+Valencia,Numancia,29.0,25.0
+La Coruna,Malaga,16.0,9.0
+Numancia,Barcelona,31.0,21.0
+Alaves,Vallecano,15.0,21.0
+Mallorca,Malaga,34.0,30.0
+Oviedo,Numancia,0.0,0.0
+Malaga,Valencia,26.0,31.0
+Numancia,Sevilla,41.0,50.0
+Ath Madrid,Numancia,3.0,1.0
+Barcelona,Malaga,25.0,24.0
+Malaga,Oviedo,23.0,37.0
+Numancia,Vallecano,3.0,3.0
+Sevilla,Malaga,16.0,20.0
+Sociedad,Numancia,36.0,36.0
+Malaga,Ath Madrid,56.0,67.0
+Numancia,Celta,8.0,6.0
+Vallecano,Malaga,10.0,6.0
+Zaragoza,Numancia,17.0,19.0
+Malaga,Sociedad,27.0,33.0
+Numancia,Santander,49.0,40.0
+Celta,Malaga,22.0,23.0
+Espanol,Numancia,70.0,75.0
+Mallorca,Sevilla,29.0,34.0
+Malaga,Zaragoza,29.0,26.0
+Numancia,Alaves,19.0,15.0
+Betis,Numancia,29.0,36.0
+Santander,Malaga,22.0,21.0
+Espanol,Malaga,28.0,36.0
+Valladolid,Numancia,7.0,7.0
+Malaga,Alaves,9.0,14.0
+Mallorca,Vallecano,17.0,14.0
+Numancia,Real Madrid,36.0,41.0
+Betis,Malaga,12.0,17.0
+Numancia,Mallorca,33.0,47.0
+Ath Bilbao,Numancia,4.0,3.0
+Malaga,Valladolid,25.0,23.0
+Real Madrid,Malaga,30.0,18.0
+Numancia,La Coruna,4.0,7.0
+Malaga,Numancia,8.0,7.0
+Sevilla,Alaves,27.0,21.0
+Numancia,Valencia,8.0,7.0
+Ath Bilbao,Malaga,53.0,54.0
+Barcelona,Numancia,19.0,21.0
+Malaga,La Coruna,92.0,86.0
+Vallecano,Alaves,43.0,41.0
+Malaga,Mallorca,17.0,22.0
+Numancia,Oviedo,33.0,43.0
+Valencia,Malaga,38.0,31.0
+Sevilla,Numancia,5.0,4.0
+Malaga,Barcelona,62.0,78.0
+Numancia,Ath Madrid,25.0,38.0
+Oviedo,Malaga,9.0,7.0
+Vallecano,Numancia,3.0,4.0
+Malaga,Sevilla,26.0,22.0
+Numancia,Sociedad,7.0,7.0
+Ath Madrid,Malaga,20.0,16.0
+Celta,Numancia,18.0,16.0
+Malaga,Vallecano,21.0,21.0
+Numancia,Zaragoza,47.0,48.0
+Santander,Numancia,36.0,44.0
+Sociedad,Malaga,28.0,25.0
+Numancia,Espanol,9.0,5.0
+Malaga,Celta,19.0,16.0
+Sevilla,Mallorca,30.0,27.0
+Alaves,Numancia,15.0,21.0
+Zaragoza,Malaga,32.0,34.0
+Malaga,Santander,11.0,11.0
+Numancia,Betis,78.0,69.0
+Las Palmas,Alaves,11.0,10.0
+Osasuna,Celta,48.0,58.0
+Villarreal,Vallecano,16.0,11.0
+Alaves,Villarreal,39.0,32.0
+Espanol,Osasuna,26.0,31.0
+Oviedo,Las Palmas,7.0,7.0
+Las Palmas,Valladolid,11.0,14.0
+Osasuna,Vallecano,24.0,14.0
+Villarreal,Oviedo,0.0,0.0
+Alaves,Osasuna,35.0,48.0
+Valencia,Las Palmas,20.0,17.0
+Valladolid,Villarreal,37.0,45.0
+Las Palmas,Malaga,3.0,3.0
+Villarreal,Valencia,50.0,44.0
+Osasuna,Oviedo,6.0,4.0
+Ath Bilbao,Las Palmas,11.0,6.0
+Malaga,Villarreal,17.0,17.0
+Valladolid,Osasuna,30.0,37.0
+Las Palmas,Santander,17.0,16.0
+Villarreal,Ath Bilbao,89.0,68.0
+Osasuna,Valencia,39.0,47.0
+La Coruna,Las Palmas,15.0,12.0
+Malaga,Osasuna,14.0,18.0
+Santander,Villarreal,28.0,26.0
+Las Palmas,Barcelona,55.0,64.0
+Villarreal,La Coruna,21.0,18.0
+Osasuna,Ath Bilbao,46.0,51.0
+Barcelona,Villarreal,21.0,14.0
+Real Madrid,Las Palmas,8.0,4.0
+Santander,Osasuna,35.0,33.0
+Las Palmas,Mallorca,28.0,32.0
+Osasuna,La Coruna,47.0,45.0
+Villarreal,Real Madrid,40.0,35.0
+Mallorca,Villarreal,17.0,23.0
+Barcelona,Osasuna,19.0,25.0
+Numancia,Las Palmas,35.0,46.0
+Osasuna,Real Madrid,93.0,87.0
+Sociedad,Las Palmas,10.0,7.0
+Villarreal,Numancia,1.0,2.0
+Las Palmas,Villarreal,22.0,17.0
+Mallorca,Osasuna,51.0,58.0
+Sociedad,Villarreal,34.0,45.0
+Zaragoza,Las Palmas,5.0,4.0
+Osasuna,Numancia,9.0,9.0
+Las Palmas,Osasuna,6.0,3.0
+Villarreal,Zaragoza,19.0,11.0
+Celta,Las Palmas,26.0,22.0
+Osasuna,Villarreal,30.0,21.0
+Las Palmas,Espanol,5.0,5.0
+Villarreal,Celta,25.0,24.0
+Zaragoza,Osasuna,58.0,48.0
+Espanol,Villarreal,71.0,74.0
+Osasuna,Sociedad,52.0,55.0
+Vallecano,Las Palmas,39.0,47.0
+Alaves,Las Palmas,7.0,13.0
+Celta,Osasuna,21.0,26.0
+Vallecano,Villarreal,40.0,38.0
+Las Palmas,Oviedo,28.0,26.0
+Osasuna,Espanol,17.0,24.0
+Villarreal,Alaves,17.0,15.0
+Vallecano,Osasuna,26.0,33.0
+Oviedo,Villarreal,33.0,34.0
+Valladolid,Las Palmas,3.0,8.0
+Las Palmas,Valencia,7.0,6.0
+Osasuna,Alaves,16.0,16.0
+Villarreal,Valladolid,66.0,68.0
+Malaga,Las Palmas,32.0,30.0
+Oviedo,Osasuna,27.0,32.0
+Valencia,Villarreal,30.0,22.0
+Las Palmas,Ath Bilbao,37.0,51.0
+Osasuna,Valladolid,38.0,55.0
+Villarreal,Malaga,16.0,16.0
+Ath Bilbao,Villarreal,36.0,41.0
+Valencia,Osasuna,13.0,14.0
+Santander,Las Palmas,29.0,32.0
+Las Palmas,La Coruna,13.0,14.0
+Osasuna,Malaga,27.0,28.0
+Villarreal,Santander,58.0,43.0
+La Coruna,Villarreal,17.0,21.0
+Ath Bilbao,Osasuna,52.0,52.0
+Barcelona,Las Palmas,3.0,1.0
+Las Palmas,Real Madrid,15.0,13.0
+Osasuna,Santander,20.0,26.0
+Villarreal,Barcelona,57.0,56.0
+La Coruna,Osasuna,16.0,25.0
+Real Madrid,Villarreal,27.0,15.0
+Mallorca,Las Palmas,32.0,28.0
+Las Palmas,Numancia,28.0,29.0
+Osasuna,Barcelona,41.0,45.0
+Villarreal,Mallorca,54.0,56.0
+Real Madrid,Osasuna,27.0,16.0
+Las Palmas,Sociedad,3.0,10.0
+Numancia,Villarreal,11.0,13.0
+Osasuna,Mallorca,22.0,23.0
+Villarreal,Las Palmas,8.0,9.0
+Villarreal,Sociedad,36.0,35.0
+Las Palmas,Zaragoza,24.0,25.0
+Numancia,Osasuna,48.0,51.0
+Osasuna,Las Palmas,7.0,2.0
+Zaragoza,Villarreal,67.0,59.0
+Las Palmas,Celta,46.0,35.0
+Villarreal,Osasuna,90.0,83.0
+Celta,Villarreal,22.0,23.0
+Espanol,Las Palmas,8.0,5.0
+Osasuna,Zaragoza,8.0,11.0
+Las Palmas,Vallecano,16.0,23.0
+Villarreal,Espanol,16.0,18.0
+Sociedad,Osasuna,15.0,17.0
+Tenerife,Villarreal,26.0,27.0
+Betis,Las Palmas,24.0,29.0
+Osasuna,Sevilla,56.0,61.0
+Osasuna,Tenerife,14.0,7.0
+Betis,Villarreal,54.0,54.0
+Osasuna,Betis,52.0,63.0
+Tenerife,Malaga,3.0,4.0
+Las Palmas,Sevilla,5.0,6.0
+Tenerife,Las Palmas,28.0,28.0
+Villarreal,Sevilla,29.0,28.0
+Villarreal,Tenerife,2.0,1.0
+Las Palmas,Betis,7.0,8.0
+Sevilla,Osasuna,13.0,16.0
+Tenerife,Osasuna,26.0,26.0
+Villarreal,Betis,49.0,40.0
+Betis,Osasuna,47.0,32.0
+Malaga,Tenerife,10.0,7.0
+Sevilla,Las Palmas,7.0,4.0
+Las Palmas,Tenerife,3.0,6.0
+Sevilla,Villarreal,49.0,39.0
+Recreativo,Malaga,12.0,12.0
+Valencia,Recreativo,9.0,13.0
+Recreativo,Celta,10.0,10.0
+Ath Madrid,Recreativo,3.0,4.0
+Recreativo,Ath Bilbao,38.0,43.0
+Espanol,Recreativo,16.0,21.0
+Recreativo,Betis,47.0,56.0
+Osasuna,Recreativo,63.0,61.0
+Recreativo,Valladolid,15.0,13.0
+Alaves,Recreativo,2.0,3.0
+Recreativo,Santander,5.0,5.0
+Osasuna,Ath Madrid,45.0,51.0
+Villarreal,Recreativo,4.0,7.0
+Recreativo,La Coruna,50.0,37.0
+Real Madrid,Recreativo,12.0,12.0
+Recreativo,Sociedad,10.0,9.0
+Barcelona,Recreativo,29.0,20.0
+Villarreal,Ath Madrid,64.0,74.0
+Recreativo,Sevilla,36.0,39.0
+Mallorca,Recreativo,15.0,20.0
+Recreativo,Vallecano,4.0,4.0
+Malaga,Recreativo,39.0,41.0
+Recreativo,Valencia,8.0,11.0
+Celta,Recreativo,9.0,7.0
+Recreativo,Ath Madrid,13.0,18.0
+Ath Bilbao,Recreativo,32.0,35.0
+Recreativo,Espanol,21.0,27.0
+Betis,Recreativo,43.0,51.0
+Recreativo,Osasuna,38.0,44.0
+Valladolid,Recreativo,27.0,28.0
+Recreativo,Alaves,4.0,6.0
+Santander,Recreativo,13.0,10.0
+Ath Madrid,Osasuna,26.0,23.0
+Recreativo,Villarreal,18.0,18.0
+La Coruna,Recreativo,17.0,19.0
+Recreativo,Real Madrid,75.0,64.0
+Sociedad,Recreativo,50.0,59.0
+Ath Madrid,Villarreal,54.0,48.0
+Recreativo,Barcelona,48.0,39.0
+Sevilla,Recreativo,4.0,7.0
+Recreativo,Mallorca,37.0,40.0
+Vallecano,Recreativo,12.0,8.0
+Albacete,Osasuna,7.0,8.0
+Celta,Murcia,14.0,17.0
+Murcia,Santander,30.0,28.0
+Zaragoza,Murcia,10.0,6.0
+Murcia,Ath Bilbao,18.0,18.0
+Albacete,Mallorca,2.0,4.0
+Sevilla,Murcia,10.0,12.0
+Murcia,Albacete,5.0,9.0
+Osasuna,Murcia,25.0,25.0
+Murcia,Ath Madrid,33.0,31.0
+Albacete,Villarreal,14.0,11.0
+Barcelona,Murcia,54.0,58.0
+Murcia,La Coruna,9.0,13.0
+Albacete,Malaga,4.0,7.0
+Mallorca,Murcia,47.0,46.0
+Murcia,Valencia,30.0,26.0
+Murcia,Sociedad,10.0,6.0
+Betis,Murcia,2.0,2.0
+Murcia,Villarreal,4.0,7.0
+Valladolid,Murcia,19.0,17.0
+Murcia,Malaga,40.0,38.0
+Real Madrid,Murcia,8.0,10.0
+Murcia,Espanol,27.0,34.0
+Murcia,Celta,4.0,4.0
+Osasuna,Albacete,48.0,43.0
+Santander,Murcia,6.0,3.0
+Murcia,Zaragoza,19.0,18.0
+Ath Bilbao,Murcia,8.0,8.0
+Murcia,Sevilla,28.0,29.0
+Mallorca,Albacete,8.0,8.0
+Albacete,Murcia,38.0,32.0
+Murcia,Osasuna,27.0,24.0
+Ath Madrid,Murcia,8.0,9.0
+Murcia,Barcelona,41.0,49.0
+Villarreal,Albacete,35.0,37.0
+La Coruna,Murcia,7.0,9.0
+Malaga,Albacete,14.0,11.0
+Murcia,Mallorca,12.0,9.0
+Valencia,Murcia,24.0,26.0
+Sociedad,Murcia,35.0,48.0
+Murcia,Betis,32.0,31.0
+Villarreal,Murcia,5.0,4.0
+Murcia,Valladolid,12.0,13.0
+Malaga,Murcia,19.0,22.0
+Murcia,Real Madrid,22.0,28.0
+Espanol,Murcia,37.0,36.0
+Sociedad,Levante,27.0,24.0
+Zaragoza,Getafe,11.0,8.0
+Getafe,Mallorca,16.0,13.0
+Levante,Santander,8.0,5.0
+Numancia,Getafe,21.0,20.0
+Sevilla,Levante,21.0,18.0
+Getafe,Espanol,20.0,27.0
+Levante,Ath Madrid,67.0,60.0
+Numancia,Albacete,9.0,8.0
+Osasuna,Getafe,47.0,61.0
+Zaragoza,Levante,57.0,52.0
+Getafe,Ath Bilbao,37.0,49.0
+Levante,Mallorca,9.0,13.0
+La Coruna,Getafe,18.0,18.0
+Numancia,Levante,9.0,7.0
+Getafe,Betis,26.0,31.0
+Levante,Espanol,38.0,41.0
+Osasuna,Levante,16.0,16.0
+Real Madrid,Getafe,54.0,39.0
+Getafe,Valencia,24.0,27.0
+Levante,Ath Bilbao,32.0,36.0
+Getafe,Malaga,11.0,12.0
+La Coruna,Levante,38.0,47.0
+Albacete,Getafe,8.0,10.0
+Levante,Betis,54.0,48.0
+Getafe,Barcelona,32.0,45.0
+Real Madrid,Levante,23.0,21.0
+Levante,Getafe,32.0,29.0
+Getafe,Villarreal,28.0,33.0
+Malaga,Levante,35.0,39.0
+Levante,Albacete,22.0,27.0
+Sociedad,Getafe,19.0,25.0
+Barcelona,Levante,50.0,54.0
+Getafe,Santander,9.0,15.0
+Sevilla,Getafe,18.0,19.0
+Valencia,Levante,23.0,22.0
+Getafe,Ath Madrid,54.0,66.0
+Levante,Villarreal,104.0,99.0
+Getafe,Zaragoza,55.0,58.0
+Levante,Sociedad,52.0,42.0
+Mallorca,Getafe,42.0,50.0
+Santander,Levante,8.0,8.0
+Getafe,Numancia,2.0,4.0
+Levante,Sevilla,60.0,60.0
+Ath Madrid,Levante,21.0,14.0
+Espanol,Getafe,20.0,22.0
+Albacete,Numancia,39.0,44.0
+Getafe,Osasuna,26.0,20.0
+Levante,Zaragoza,73.0,74.0
+Mallorca,Levante,48.0,48.0
+Getafe,La Coruna,24.0,25.0
+Levante,Numancia,25.0,24.0
+Betis,Getafe,37.0,36.0
+Espanol,Levante,22.0,17.0
+Getafe,Real Madrid,31.0,36.0
+Levante,Osasuna,18.0,21.0
+Ath Bilbao,Getafe,21.0,23.0
+Ath Bilbao,Levante,25.0,19.0
+Valencia,Getafe,30.0,22.0
+Levante,La Coruna,49.0,62.0
+Malaga,Getafe,34.0,29.0
+Betis,Levante,43.0,31.0
+Getafe,Albacete,6.0,9.0
+Barcelona,Getafe,15.0,7.0
+Levante,Real Madrid,41.0,48.0
+Getafe,Levante,18.0,20.0
+Levante,Malaga,35.0,45.0
+Villarreal,Getafe,16.0,11.0
+Albacete,Levante,12.0,8.0
+Getafe,Sociedad,49.0,55.0
+Levante,Barcelona,58.0,39.0
+Santander,Getafe,61.0,57.0
+Getafe,Sevilla,26.0,28.0
+Levante,Valencia,39.0,34.0
+Ath Madrid,Getafe,15.0,14.0
+Villarreal,Levante,14.0,14.0
+Cadiz,Real Madrid,12.0,19.0
+Santander,Cadiz,44.0,43.0
+Alaves,Getafe,29.0,34.0
+Cadiz,Villarreal,26.0,23.0
+Sevilla,Cadiz,24.0,33.0
+Osasuna,Cadiz,28.0,29.0
+Cadiz,Celta,5.0,5.0
+Espanol,Cadiz,24.0,28.0
+Cadiz,Ath Bilbao,18.0,15.0
+Ath Madrid,Cadiz,14.0,10.0
+Alaves,Cadiz,5.0,8.0
+Cadiz,Mallorca,12.0,10.0
+Cadiz,Valencia,28.0,32.0
+Betis,Cadiz,9.0,7.0
+Cadiz,Zaragoza,23.0,22.0
+La Coruna,Cadiz,1.0,2.0
+Cadiz,Barcelona,22.0,17.0
+Sociedad,Cadiz,8.0,10.0
+Cadiz,Getafe,14.0,10.0
+Getafe,Celta,46.0,44.0
+Malaga,Cadiz,29.0,31.0
+Real Madrid,Cadiz,40.0,37.0
+Cadiz,Santander,2.0,5.0
+Getafe,Alaves,17.0,17.0
+Villarreal,Cadiz,10.0,8.0
+Cadiz,Sevilla,33.0,39.0
+Cadiz,Osasuna,29.0,32.0
+Celta,Cadiz,16.0,16.0
+Cadiz,Espanol,9.0,7.0
+Ath Bilbao,Cadiz,16.0,22.0
+Cadiz,Alaves,4.0,6.0
+Mallorca,Cadiz,46.0,49.0
+Cadiz,Ath Madrid,28.0,23.0
+Valencia,Cadiz,25.0,37.0
+Cadiz,Betis,14.0,18.0
+Zaragoza,Cadiz,6.0,9.0
+Cadiz,La Coruna,6.0,7.0
+Barcelona,Cadiz,22.0,29.0
+Cadiz,Sociedad,16.0,23.0
+Getafe,Cadiz,25.0,36.0
+Cadiz,Malaga,6.0,4.0
+Celta,Getafe,50.0,59.0
+Espanol,Gimnastic,40.0,48.0
+Gimnastic,Celta,9.0,12.0
+Osasuna,Gimnastic,2.0,4.0
+Recreativo,Levante,8.0,12.0
+Gimnastic,Santander,67.0,73.0
+Valencia,Gimnastic,5.0,9.0
+Gimnastic,Ath Bilbao,20.0,25.0
+Recreativo,Getafe,29.0,35.0
+Sevilla,Gimnastic,25.0,37.0
+Gimnastic,Real Madrid,18.0,19.0
+Recreativo,Gimnastic,41.0,42.0
+Gimnastic,La Coruna,28.0,37.0
+Zaragoza,Gimnastic,3.0,1.0
+Gimnastic,Mallorca,23.0,28.0
+Villarreal,Gimnastic,1.0,1.0
+Gimnastic,Levante,20.0,29.0
+Levante,Celta,15.0,26.0
+Sociedad,Gimnastic,34.0,26.0
+Gimnastic,Betis,36.0,37.0
+Ath Madrid,Gimnastic,33.0,37.0
+Gimnastic,Getafe,12.0,12.0
+Barcelona,Gimnastic,48.0,46.0
+Zaragoza,Recreativo,71.0,63.0
+Gimnastic,Espanol,10.0,6.0
+Celta,Gimnastic,3.0,2.0
+Gimnastic,Osasuna,20.0,28.0
+Levante,Recreativo,4.0,4.0
+Santander,Gimnastic,7.0,6.0
+Gimnastic,Valencia,5.0,8.0
+Ath Bilbao,Gimnastic,5.0,8.0
+Getafe,Recreativo,16.0,15.0
+Gimnastic,Sevilla,4.0,2.0
+Real Madrid,Gimnastic,39.0,40.0
+Gimnastic,Recreativo,5.0,5.0
+La Coruna,Gimnastic,3.0,4.0
+Gimnastic,Zaragoza,23.0,21.0
+Mallorca,Gimnastic,31.0,34.0
+Gimnastic,Villarreal,46.0,39.0
+Levante,Gimnastic,2.0,1.0
+Celta,Levante,34.0,37.0
+Gimnastic,Sociedad,63.0,59.0
+Betis,Gimnastic,3.0,2.0
+Gimnastic,Ath Madrid,9.0,12.0
+Getafe,Gimnastic,37.0,44.0
+Gimnastic,Barcelona,17.0,18.0
+Recreativo,Zaragoza,18.0,15.0
+La Coruna,Almeria,22.0,29.0
+Levante,Murcia,10.0,9.0
+Almeria,Valencia,39.0,38.0
+Real Madrid,Almeria,57.0,54.0
+Almeria,Mallorca,19.0,16.0
+Murcia,Almeria,36.0,43.0
+Almeria,Santander,6.0,10.0
+Ath Bilbao,Almeria,12.0,8.0
+Almeria,Osasuna,7.0,7.0
+Getafe,Murcia,2.0,3.0
+Barcelona,Almeria,12.0,9.0
+Murcia,Recreativo,27.0,25.0
+Almeria,Zaragoza,8.0,14.0
+Levante,Almeria,17.0,16.0
+Almeria,Ath Madrid,10.0,11.0
+Valladolid,Levante,36.0,40.0
+Villarreal,Almeria,37.0,33.0
+Almeria,Sevilla,27.0,36.0
+Almeria,Valladolid,3.0,6.0
+Betis,Almeria,6.0,11.0
+Almeria,Getafe,32.0,35.0
+Getafe,Valladolid,20.0,27.0
+Recreativo,Almeria,14.0,16.0
+Almeria,Espanol,14.0,15.0
+Almeria,La Coruna,41.0,51.0
+Murcia,Levante,17.0,22.0
+Valencia,Almeria,20.0,14.0
+Almeria,Real Madrid,41.0,44.0
+Mallorca,Almeria,5.0,4.0
+Almeria,Murcia,17.0,16.0
+Santander,Almeria,10.0,14.0
+Almeria,Ath Bilbao,14.0,14.0
+Murcia,Getafe,42.0,47.0
+Osasuna,Almeria,51.0,42.0
+Recreativo,Murcia,26.0,24.0
+Almeria,Barcelona,22.0,15.0
+Zaragoza,Almeria,25.0,25.0
+Almeria,Levante,18.0,16.0
+Ath Madrid,Almeria,15.0,9.0
+Levante,Valladolid,30.0,32.0
+Almeria,Villarreal,14.0,21.0
+Sevilla,Almeria,26.0,21.0
+Valladolid,Almeria,2.0,4.0
+Almeria,Betis,16.0,13.0
+Getafe,Almeria,27.0,20.0
+Almeria,Recreativo,5.0,7.0
+Valladolid,Getafe,8.0,10.0
+Espanol,Almeria,38.0,52.0
+Sp Gijon,Getafe,7.0,9.0
+Almeria,Malaga,4.0,6.0
+Sp Gijon,Villarreal,60.0,55.0
+Sp Gijon,Osasuna,29.0,34.0
+Sp Gijon,Numancia,35.0,34.0
+Numancia,Almeria,6.0,7.0
+Sp Gijon,Almeria,28.0,26.0
+Malaga,Sp Gijon,26.0,23.0
+Recreativo,Numancia,24.0,24.0
+Recreativo,Sp Gijon,6.0,1.0
+Getafe,Sp Gijon,15.0,20.0
+Malaga,Almeria,41.0,48.0
+Villarreal,Sp Gijon,5.0,7.0
+Osasuna,Sp Gijon,8.0,7.0
+Numancia,Sp Gijon,48.0,45.0
+Almeria,Numancia,35.0,39.0
+Almeria,Sp Gijon,51.0,54.0
+Numancia,Recreativo,56.0,47.0
+Sp Gijon,Malaga,28.0,23.0
+Sp Gijon,Recreativo,56.0,51.0
+Mallorca,Xerez,1.0,3.0
+Xerez,Ath Bilbao,34.0,46.0
+Real Madrid,Xerez,2.0,4.0
+Xerez,La Coruna,9.0,9.0
+Espanol,Xerez,10.0,9.0
+Xerez,Malaga,12.0,10.0
+Xerez,Villarreal,11.0,17.0
+Tenerife,Xerez,26.0,27.0
+Xerez,Sevilla,2.0,4.0
+Valladolid,Xerez,12.0,12.0
+Xerez,Sp Gijon,3.0,3.0
+Getafe,Xerez,8.0,9.0
+Xerez,Barcelona,9.0,14.0
+Xerez,Ath Madrid,43.0,48.0
+Getafe,Tenerife,3.0,2.0
+Santander,Xerez,84.0,62.0
+Almeria,Xerez,27.0,28.0
+Xerez,Valencia,61.0,54.0
+Almeria,Tenerife,6.0,5.0
+Zaragoza,Xerez,24.0,30.0
+Xerez,Osasuna,11.0,9.0
+Xerez,Mallorca,12.0,9.0
+Ath Bilbao,Xerez,8.0,12.0
+Xerez,Real Madrid,6.0,9.0
+La Coruna,Xerez,22.0,29.0
+Xerez,Espanol,13.0,5.0
+Malaga,Xerez,38.0,36.0
+Villarreal,Xerez,4.0,4.0
+Xerez,Tenerife,19.0,14.0
+Sevilla,Xerez,8.0,7.0
+Xerez,Valladolid,31.0,44.0
+Sp Gijon,Xerez,9.0,7.0
+Xerez,Getafe,5.0,6.0
+Ath Madrid,Xerez,28.0,30.0
+Tenerife,Getafe,13.0,13.0
+Xerez,Santander,26.0,27.0
+Barcelona,Xerez,25.0,26.0
+Xerez,Almeria,67.0,70.0
+Valencia,Xerez,8.0,6.0
+Tenerife,Almeria,32.0,41.0
+Xerez,Zaragoza,13.0,9.0
+Osasuna,Xerez,6.0,7.0
+Almeria,Sociedad,17.0,18.0
+Getafe,Hercules,4.0,4.0
+Hercules,Villarreal,17.0,17.0
+Almeria,Hercules,30.0,33.0
+Osasuna,Hercules,37.0,42.0
+Hercules,Levante,10.0,11.0
+Hercules,Malaga,33.0,20.0
+Sp Gijon,Levante,9.0,9.0
+Mallorca,Hercules,28.0,29.0
+Sociedad,Almeria,20.0,28.0
+Hercules,Getafe,15.0,18.0
+Villarreal,Hercules,4.0,3.0
+Hercules,Almeria,3.0,7.0
+Hercules,Osasuna,23.0,12.0
+Levante,Hercules,76.0,72.0
+Levante,Sp Gijon,7.0,6.0
+Malaga,Hercules,60.0,52.0
+Hercules,Mallorca,16.0,18.0
+Granada,Betis,15.0,16.0
+Malaga,Granada,11.0,6.0
+Granada,Villarreal,31.0,32.0
+Getafe,Vallecano,11.0,21.0
+Sociedad,Granada,16.0,13.0
+Vallecano,Levante,29.0,29.0
+Granada,Osasuna,29.0,33.0
+Valencia,Granada,10.0,4.0
+Granada,Ath Madrid,16.0,24.0
+Sp Gijon,Granada,10.0,6.0
+Granada,Barcelona,41.0,55.0
+Sevilla,Granada,39.0,31.0
+Granada,Santander,28.0,33.0
+Ath Bilbao,Granada,14.0,17.0
+Granada,Zaragoza,23.0,39.0
+Granada,Mallorca,16.0,16.0
+Getafe,Granada,32.0,31.0
+Granada,Levante,54.0,59.0
+Real Madrid,Granada,27.0,27.0
+Granada,Vallecano,23.0,23.0
+Espanol,Granada,11.0,11.0
+Betis,Granada,11.0,15.0
+Granada,Malaga,43.0,48.0
+Vallecano,Getafe,8.0,15.0
+Villarreal,Granada,30.0,35.0
+Granada,Sociedad,15.0,17.0
+Levante,Vallecano,34.0,27.0
+Osasuna,Granada,19.0,16.0
+Granada,Valencia,16.0,18.0
+Ath Madrid,Granada,21.0,19.0
+Granada,Sp Gijon,38.0,43.0
+Barcelona,Granada,11.0,9.0
+Granada,Sevilla,66.0,58.0
+Santander,Granada,5.0,6.0
+Mallorca,Granada,41.0,54.0
+Granada,Ath Bilbao,13.0,15.0
+Zaragoza,Granada,51.0,49.0
+Granada,Getafe,15.0,14.0
+Levante,Granada,29.0,27.0
+Granada,Espanol,46.0,57.0
+Granada,Real Madrid,23.0,26.0
+Vallecano,Granada,10.0,8.0
+Granada,La Coruna,8.0,12.0
+Granada,Celta,30.0,33.0
+Valladolid,Granada,24.0,32.0
+La Coruna,Granada,7.0,11.0
+Celta,Granada,77.0,72.0
+Granada,Valladolid,39.0,43.0
+Vallecano,Elche,41.0,36.0
+Elche,Sociedad,9.0,13.0
+Almeria,Elche,31.0,33.0
+Elche,Valladolid,31.0,42.0
+Osasuna,Elche,5.0,3.0
+Elche,Real Madrid,14.0,19.0
+Celta,Elche,4.0,7.0
+Elche,Espanol,20.0,20.0
+Almeria,Vallecano,73.0,63.0
+Betis,Elche,11.0,16.0
+Elche,Granada,33.0,48.0
+Ath Bilbao,Elche,8.0,8.0
+Elche,Villarreal,12.0,11.0
+Getafe,Elche,19.0,20.0
+Elche,Valencia,38.0,34.0
+Celta,Almeria,10.0,10.0
+Elche,Ath Madrid,36.0,44.0
+Levante,Elche,14.0,12.0
+Elche,Malaga,54.0,60.0
+Almeria,Granada,10.0,7.0
+Barcelona,Elche,8.0,3.0
+Elche,Sevilla,39.0,42.0
+Elche,Vallecano,2.0,1.0
+Sociedad,Elche,37.0,35.0
+Elche,Almeria,5.0,2.0
+Valladolid,Elche,13.0,10.0
+Elche,Osasuna,5.0,4.0
+Real Madrid,Elche,25.0,37.0
+Elche,Celta,12.0,23.0
+Espanol,Elche,7.0,8.0
+Vallecano,Almeria,67.0,70.0
+Elche,Betis,35.0,37.0
+Granada,Elche,2.0,4.0
+Elche,Ath Bilbao,24.0,22.0
+Villarreal,Elche,7.0,11.0
+Elche,Getafe,29.0,34.0
+Valencia,Elche,15.0,15.0
+Ath Madrid,Elche,38.0,41.0
+Almeria,Celta,51.0,61.0
+Elche,Levante,11.0,16.0
+Malaga,Elche,33.0,35.0
+Elche,Barcelona,17.0,17.0
+Granada,Almeria,9.0,10.0
+Sevilla,Elche,13.0,11.0
+Eibar,Sociedad,29.0,40.0
+Real Madrid,Cordoba,24.0,24.0
+Ath Madrid,Eibar,16.0,8.0
+Cordoba,Celta,3.0,2.0
+Almeria,Cordoba,32.0,28.0
+Eibar,La Coruna,38.0,35.0
+Elche,Eibar,29.0,31.0
+Cordoba,Sevilla,6.0,7.0
+Eibar,Villarreal,8.0,8.0
+Valencia,Cordoba,14.0,13.0
+Ath Bilbao,Eibar,9.0,9.0
+Cordoba,Espanol,36.0,42.0
+Getafe,Cordoba,11.0,12.0
+Eibar,Levante,27.0,31.0
+Barcelona,Eibar,38.0,21.0
+Cordoba,Malaga,11.0,14.0
+Cordoba,Sociedad,9.0,6.0
+Eibar,Granada,35.0,38.0
+Ath Madrid,Cordoba,3.0,2.0
+Vallecano,Eibar,16.0,20.0
+Cordoba,La Coruna,6.0,5.0
+Malaga,Eibar,25.0,34.0
+Eibar,Real Madrid,21.0,19.0
+Elche,Cordoba,30.0,26.0
+Celta,Eibar,20.0,23.0
+Cordoba,Villarreal,27.0,31.0
+Ath Bilbao,Cordoba,19.0,23.0
+Eibar,Almeria,47.0,42.0
+Cordoba,Levante,13.0,14.0
+Sevilla,Eibar,26.0,32.0
+La Coruna,Elche,54.0,58.0
+Barcelona,Cordoba,21.0,19.0
+Eibar,Valencia,5.0,6.0
+Espanol,Eibar,11.0,11.0
+Cordoba,Granada,37.0,33.0
+Eibar,Getafe,40.0,42.0
+Vallecano,Cordoba,10.0,12.0
+Cordoba,Eibar,36.0,49.0
+Cordoba,Real Madrid,7.0,7.0
+Sociedad,Eibar,26.0,32.0
+Celta,Cordoba,21.0,23.0
+Eibar,Ath Madrid,13.0,21.0
+La Coruna,Eibar,11.0,14.0
+Cordoba,Almeria,37.0,37.0
+Sevilla,Cordoba,75.0,72.0
+Eibar,Elche,50.0,52.0
+Cordoba,Valencia,25.0,34.0
+Villarreal,Eibar,12.0,13.0
+Espanol,Cordoba,2.0,6.0
+Eibar,Ath Bilbao,34.0,40.0
+Levante,Eibar,13.0,15.0
+Cordoba,Getafe,9.0,14.0
+Eibar,Barcelona,19.0,22.0
+Malaga,Cordoba,33.0,43.0
+Granada,Eibar,42.0,47.0
+Sociedad,Cordoba,3.0,0.0
+Eibar,Vallecano,27.0,40.0
+Cordoba,Ath Madrid,3.0,7.0
+Eibar,Malaga,40.0,33.0
+La Coruna,Cordoba,11.0,10.0
+Real Madrid,Eibar,13.0,7.0
+Cordoba,Elche,19.0,23.0
+Eibar,Celta,27.0,37.0
+Villarreal,Cordoba,10.0,18.0
+Cordoba,Ath Bilbao,2.0,6.0
+Almeria,Eibar,12.0,16.0
+Levante,Cordoba,45.0,54.0
+Eibar,Sevilla,29.0,32.0
+Elche,La Coruna,21.0,13.0
+Cordoba,Barcelona,46.0,35.0
+Valencia,Eibar,10.0,13.0
+Eibar,Espanol,59.0,52.0
+Granada,Cordoba,2.0,3.0
+Cordoba,Vallecano,36.0,36.0
+Getafe,Eibar,28.0,36.0
+Eibar,Cordoba,6.0,9.0
+Ath Madrid,Las Palmas,3.0,0.0
+Las Palmas,Levante,13.0,17.0
+Las Palmas,Eibar,6.0,9.0
+Getafe,Las Palmas,11.0,7.0
+Sp Gijon,Las Palmas,11.0,9.0
+Eibar,Sp Gijon,29.0,35.0
+Las Palmas,Granada,28.0,28.0
+Betis,Eibar,9.0,9.0
+Las Palmas,Ath Madrid,41.0,35.0
+Levante,Las Palmas,18.0,21.0
+Eibar,Las Palmas,6.0,6.0
+Las Palmas,Getafe,10.0,15.0
+Las Palmas,Sp Gijon,49.0,44.0
+Sp Gijon,Eibar,20.0,19.0
+Granada,Las Palmas,5.0,2.0
+Eibar,Betis,14.0,14.0
+Celta,Leganes,27.0,35.0
+Leganes,Ath Madrid,6.0,9.0
+Alaves,Sp Gijon,21.0,27.0
+Sp Gijon,Leganes,20.0,27.0
+Leganes,Barcelona,93.0,71.0
+La Coruna,Leganes,30.0,47.0
+Leganes,Valencia,6.0,11.0
+Alaves,Granada,37.0,26.0
+Granada,Leganes,8.0,10.0
+Leganes,Sevilla,11.0,10.0
+Eibar,Osasuna,15.0,20.0
+Malaga,Leganes,19.0,23.0
+Leganes,Sociedad,33.0,40.0
+Real Madrid,Leganes,16.0,14.0
+Leganes,Osasuna,19.0,17.0
+Espanol,Leganes,62.0,62.0
+Leganes,Villarreal,42.0,45.0
+Las Palmas,Leganes,16.0,20.0
+Eibar,Alaves,19.0,28.0
+Leganes,Eibar,10.0,11.0
+Betis,Leganes,16.0,16.0
+Leganes,Ath Bilbao,4.0,6.0
+Alaves,Leganes,31.0,31.0
+Leganes,Celta,47.0,48.0
+Ath Madrid,Leganes,7.0,13.0
+Sp Gijon,Alaves,5.0,5.0
+Leganes,Sp Gijon,12.0,13.0
+Barcelona,Leganes,7.0,3.0
+Leganes,La Coruna,17.0,13.0
+Valencia,Leganes,22.0,29.0
+Granada,Alaves,14.0,18.0
+Leganes,Granada,1.0,3.0
+Sevilla,Leganes,32.0,32.0
+Osasuna,Eibar,7.0,9.0
+Leganes,Malaga,1.0,2.0
+Sociedad,Leganes,38.0,45.0
+Leganes,Real Madrid,14.0,14.0
+Osasuna,Leganes,18.0,12.0
+Leganes,Espanol,10.0,13.0
+Villarreal,Leganes,37.0,36.0
+Leganes,Las Palmas,3.0,6.0
+Alaves,Eibar,32.0,30.0
+Eibar,Leganes,37.0,36.0
+Leganes,Betis,9.0,7.0
+Ath Bilbao,Leganes,27.0,40.0
+Leganes,Alaves,3.0,2.0
+Girona,Ath Madrid,51.0,43.0
+Girona,Malaga,14.0,17.0
+Leganes,Getafe,9.0,10.0
+Ath Bilbao,Girona,27.0,29.0
+Girona,Sevilla,3.0,6.0
+Leganes,Girona,6.0,13.0
+Girona,Barcelona,10.0,13.0
+Celta,Girona,31.0,29.0
+Levante,Alaves,28.0,31.0
+Girona,Villarreal,6.0,9.0
+La Coruna,Girona,57.0,54.0
+Girona,Real Madrid,43.0,49.0
+Levante,Girona,10.0,10.0
+Girona,Sociedad,11.0,8.0
+Betis,Girona,51.0,50.0
+Girona,Alaves,20.0,23.0
+Espanol,Girona,29.0,34.0
+Girona,Getafe,12.0,9.0
+Levante,Leganes,32.0,27.0
+Eibar,Girona,46.0,49.0
+Valencia,Girona,28.0,32.0
+Girona,Las Palmas,3.0,5.0
+Ath Madrid,Girona,11.0,8.0
+Malaga,Girona,2.0,8.0
+Getafe,Leganes,3.0,5.0
+Girona,Ath Bilbao,5.0,6.0
+Sevilla,Girona,19.0,21.0
+Girona,Leganes,14.0,21.0
+Barcelona,Girona,32.0,34.0
+Girona,Celta,23.0,35.0
+Alaves,Levante,8.0,4.0
+Villarreal,Girona,24.0,18.0
+Girona,La Coruna,6.0,4.0
+Real Madrid,Girona,7.0,5.0
+Girona,Levante,13.0,14.0
+Sociedad,Girona,37.0,46.0
+Girona,Betis,29.0,37.0
+Alaves,Girona,51.0,56.0
+Girona,Espanol,46.0,41.0
+Getafe,Girona,20.0,23.0
+Girona,Eibar,11.0,13.0
+Leganes,Levante,29.0,26.0
+Girona,Valencia,4.0,6.0
+Las Palmas,Girona,9.0,12.0
+Girona,Valladolid,32.0,35.0
+Eibar,Huesca,3.0,5.0
+Ath Bilbao,Huesca,41.0,46.0
+Barcelona,Huesca,20.0,23.0
+Huesca,Vallecano,22.0,24.0
+Huesca,Sociedad,21.0,28.0
+Ath Madrid,Huesca,8.0,13.0
+Huesca,Girona,2.0,2.0
+Leganes,Vallecano,7.0,9.0
+Valladolid,Huesca,68.0,75.0
+Huesca,Espanol,4.0,3.0
+Girona,Vallecano,29.0,19.0
+Sevilla,Huesca,39.0,47.0
+Huesca,Getafe,31.0,31.0
+Valladolid,Eibar,47.0,49.0
+Alaves,Huesca,12.0,9.0
+Huesca,Levante,36.0,39.0
+Celta,Huesca,6.0,3.0
+Valladolid,Leganes,16.0,9.0
+Huesca,Real Madrid,9.0,14.0
+Huesca,Villarreal,3.0,5.0
+Valencia,Huesca,4.0,1.0
+Huesca,Betis,19.0,17.0
+Leganes,Huesca,15.0,13.0
+Huesca,Ath Madrid,5.0,7.0
+Sociedad,Huesca,59.0,52.0
+Huesca,Valladolid,19.0,24.0
+Vallecano,Leganes,25.0,27.0
+Girona,Huesca,16.0,13.0
+Huesca,Ath Bilbao,8.0,12.0
+Espanol,Huesca,35.0,43.0
+Vallecano,Girona,6.0,10.0
+Huesca,Sevilla,17.0,17.0
+Getafe,Huesca,41.0,42.0
+Huesca,Alaves,12.0,10.0
+Eibar,Valladolid,6.0,7.0
+Real Madrid,Huesca,19.0,24.0
+Huesca,Celta,9.0,7.0
+Leganes,Valladolid,45.0,39.0
+Levante,Huesca,22.0,29.0
+Huesca,Barcelona,3.0,7.0
+Vallecano,Huesca,24.0,30.0
+Huesca,Eibar,27.0,30.0
+Valladolid,Girona,2.0,3.0
+Villarreal,Huesca,61.0,54.0
+Huesca,Valencia,10.0,10.0
+Betis,Huesca,26.0,25.0
+Huesca,Leganes,33.0,39.0
+Mallorca,Eibar,16.0,16.0
+Leganes,Mallorca,9.0,9.0
+Eibar,Mallorca,16.0,15.0
+Mallorca,Leganes,12.0,14.0
+Huesca,Cadiz,25.0,30.0
+Elche,Huesca,13.0,17.0
+Cadiz,Granada,49.0,58.0
+Alaves,Elche,35.0,31.0
+Eibar,Cadiz,26.0,29.0
+Osasuna,Huesca,2.0,2.0
+Elche,Cadiz,8.0,8.0
+Granada,Huesca,9.0,10.0
+Cadiz,Valladolid,2.0,4.0
+Cadiz,Levante,9.0,6.0
+Huesca,Granada,73.0,62.0
+Cadiz,Eibar,9.0,10.0
+Huesca,Osasuna,24.0,25.0
+Huesca,Elche,38.0,43.0
+Valladolid,Cadiz,34.0,35.0
+Granada,Cadiz,23.0,25.0
+Cadiz,Huesca,1.0,0.0
+Elche,Alaves,6.0,9.0
+Cadiz,Elche,10.0,11.0
+Levante,Cadiz,5.0,4.0
+Vallecano,Cadiz,21.0,22.0
+Mallorca,Elche,19.0,18.0
+Cadiz,Vallecano,0.0,1.0
+Elche,Mallorca,25.0,24.0
+Mallorca,Girona,36.0,41.0
+Girona,Cadiz,4.0,5.0
+Almeria,Girona,9.0,6.0
+Girona,Osasuna,2.0,4.0
+Elche,Girona,49.0,48.0
+Cadiz,Almeria,26.0,28.0
+Cadiz,Girona,37.0,28.0
+Girona,Almeria,19.0,16.0
+Almeria,Cadiz,7.0,5.0
+Girona,Elche,23.0,22.0
+Girona,Mallorca,5.0,3.0
+Osasuna,Girona,20.0,18.0
+Granada,Girona,47.0,43.0
