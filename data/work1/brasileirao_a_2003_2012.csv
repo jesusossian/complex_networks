@@ -380,7 +380,7 @@ São Paulo;Santos FC;51.0;49.0
 São Paulo;Chapecoense;12.0;18.0
 São Paulo;Botafogo;40.0;42.0
 Paraná;Fluminense;12.0;11.0
-Paraná;Goiás EC;11.0;13.0
+Paraná;Goiás;11.0;13.0
 Paraná;Vasco da Gama;11.0;13.0
 Paraná;São Paulo;25.0;25.0
 Botafogo;Figueirense FC;21.0;34.0
@@ -388,9 +388,9 @@ Botafogo;Internacional;49.0;56.0
 Cruzeiro;Paraná;19.0;18.0
 Fortaleza;Coritiba FC;9.0;11.0
 Fortaleza;Santos FC;12.0;12.0
-Goiás EC;São Caetano;7.0;4.0
-Goiás EC;Figueirense FC;18.0;18.0
-Goiás EC;Internacional;34.0;40.0
+Goiás;São Caetano;7.0;4.0
+Goiás;Figueirense FC;18.0;18.0
+Goiás;Internacional;41.0;50.0
 Juventude;Cruzeiro;10.0;13.0
 Juventude;Coritiba FC;8.0;8.0
 Juventude;Botafogo;12.0;13.0
@@ -400,9 +400,9 @@ Santos FC;Internacional;38.0;47.0
 Fluminense;Paraná;17.0;20.0
 Fluminense;São Caetano;10.0;12.0
 São Paulo;São Caetano;4.0;5.0
-São Paulo;Goiás EC;26.0;31.0
+São Paulo;Goiás;32.0;35.0
 Corinthians;São Caetano;6.0;9.0
-Coritiba FC;Goiás EC;27.0;22.0
+Coritiba FC;Goiás;29.0;25.0
 Paysandu SC;Vasco da Gama;4.0;6.0
 Paysandu SC;Corinthians;16.0;13.0
 Paysandu SC;Atlético-MG;8.0;7.0
@@ -412,7 +412,7 @@ Atlético-PR;Figueirense FC;26.0;26.0
 Atlético-PR;Fortaleza;6.0;5.0
 São Caetano;Botafogo;8.0;14.0
 São Caetano;Cruzeiro;7.0;7.0
-São Caetano;Goiás EC;10.0;16.0
+São Caetano;Goiás;10.0;16.0
 São Caetano;Figueirense FC;11.0;16.0
 São Caetano;São Paulo;8.0;14.0
 Internacional;Botafogo;43.0;38.0
@@ -444,12 +444,12 @@ Fortaleza;Internacional;20.0;26.0
 Fortaleza;Atlético-PR;11.0;11.0
 Fortaleza;Paysandu SC;8.0;9.0
 Fortaleza;Palmeiras;22.0;21.0
-Fortaleza;Goiás EC;10.0;9.0
-Goiás EC;Brasiliense-DF;4.0;3.0
-Goiás EC;Juventude;7.0;8.0
-Goiás EC;Paraná;8.0;13.0
-Goiás EC;Cruzeiro;34.0;45.0
-Goiás EC;Fluminense;42.0;40.0
+Fortaleza;Goiás;12.0;13.0
+Goiás;Brasiliense-DF;4.0;3.0
+Goiás;Juventude;7.0;9.0
+Goiás;Paraná;8.0;13.0
+Goiás;Cruzeiro;34.0;45.0
+Goiás;Fluminense;55.0;50.0
 Juventude;Atlético-PR;18.0;15.0
 Juventude;Ponte Preta;13.0;19.0
 Juventude;Palmeiras;21.0;21.0
@@ -457,27 +457,27 @@ Juventude;Corinthians;20.0;17.0
 Palmeiras;Paraná;13.0;11.0
 Palmeiras;Fortaleza;10.0;15.0
 Santos FC;Brasiliense-DF;1.0;1.0
-Santos FC;Goiás EC;40.0;24.0
-Fluminense;Goiás EC;45.0;34.0
+Santos FC;Goiás;40.0;24.0
+Fluminense;Goiás;52.0;35.0
 Fluminense;Brasiliense-DF;1.0;1.0
 São Paulo;Paraná;10.0;7.0
 São Paulo;Internacional;46.0;52.0
 São Paulo;Brasiliense-DF;5.0;4.0
-Corinthians;Goiás EC;22.0;18.0
+Corinthians;Goiás;26.0;23.0
 Corinthians;Paraná;6.0;5.0
 Coritiba FC;Juventude;10.0;14.0
 Coritiba FC;Brasiliense-DF;2.0;2.0
 Paysandu SC;Fluminense;14.0;10.0
-Paysandu SC;Goiás EC;13.0;8.0
+Paysandu SC;Goiás;13.0;8.0
 Paysandu SC;Fortaleza;4.0;3.0
 Paysandu SC;Internacional;7.0;13.0
 Ponte Preta;Internacional;22.0;27.0
 Ponte Preta;Paraná;13.0;13.0
 Ponte Preta;São Caetano;8.0;14.0
 Atlético-MG;Internacional;54.0;57.0
-Atlético-MG;Goiás EC;26.0;28.0
+Atlético-MG;Goiás;29.0;33.0
 Atlético-PR;Internacional;44.0;47.0
-Atlético-PR;Goiás EC;32.0;29.0
+Atlético-PR;Goiás;32.0;29.0
 São Caetano;Flamengo;12.0;15.0
 São Caetano;Santos FC;8.0;10.0
 São Caetano;Paraná;6.0;8.0
@@ -489,14 +489,14 @@ Internacional;Flamengo;47.0;49.0
 Internacional;Fortaleza;21.0;17.0
 Internacional;Atlético-MG;43.0;45.0
 Internacional;Paysandu SC;4.0;4.0
-Vasco da Gama;Goiás EC;34.0;25.0
+Vasco da Gama;Goiás;35.0;28.0
 Vasco da Gama;Brasiliense-DF;2.0;1.0
 Brasiliense-DF;Paraná;4.0;3.0
 Brasiliense-DF;Cruzeiro;3.0;6.0
 Brasiliense-DF;Atlético-MG;2.0;3.0
 Brasiliense-DF;São Caetano;3.0;4.0
 Brasiliense-DF;Juventude;2.0;3.0
-Brasiliense-DF;Goiás EC;3.0;3.0
+Brasiliense-DF;Goiás;3.0;3.0
 Brasiliense-DF;Coritiba FC;2.0;2.0
 Figueirense FC;Internacional;34.0;32.0
 Figueirense FC;Palmeiras;32.0;35.0
@@ -520,10 +520,10 @@ Fortaleza;Corinthians;25.0;28.0
 Fortaleza;Juventude;11.0;8.0
 Fortaleza;Flamengo;21.0;23.0
 Fortaleza;Paraná;12.0;11.0
-Goiás EC;Palmeiras;33.0;29.0
-Goiás EC;Coritiba FC;26.0;22.0
-Goiás EC;Fortaleza;13.0;18.0
-Goiás EC;Flamengo;44.0;40.0
+Goiás;Palmeiras;43.0;39.0
+Goiás;Coritiba FC;31.0;28.0
+Goiás;Fortaleza;15.0;22.0
+Goiás;Flamengo;48.0;48.0
 Juventude;Paysandu SC;3.0;3.0
 Juventude;Brasiliense-DF;2.0;3.0
 Juventude;Figueirense FC;14.0;15.0
@@ -551,7 +551,7 @@ Paysandu SC;Ponte Preta;13.0;8.0
 Paysandu SC;Coritiba FC;9.0;10.0
 Paysandu SC;Brasiliense-DF;1.0;1.0
 Ponte Preta;Paysandu SC;12.0;8.0
-Ponte Preta;Goiás EC;20.0;20.0
+Ponte Preta;Goiás;20.0;20.0
 Ponte Preta;Figueirense FC;16.0;20.0
 Ponte Preta;Fortaleza;9.0;9.0
 Atlético-MG;São Caetano;10.0;10.0
@@ -566,7 +566,7 @@ São Caetano;Brasiliense-DF;1.0;1.0
 São Caetano;Ponte Preta;5.0;5.0
 São Caetano;Fluminense;6.0;6.0
 Internacional;São Caetano;5.0;6.0
-Internacional;Goiás EC;33.0;34.0
+Internacional;Goiás;36.0;35.0
 Internacional;Fluminense;56.0;57.0
 Internacional;Ponte Preta;12.0;12.0
 Vasco da Gama;Internacional;49.0;49.0
@@ -584,21 +584,21 @@ Paraná;Figueirense FC;13.0;14.0
 Paraná;Coritiba FC;10.0;10.0
 Paraná;Internacional;11.0;16.0
 Botafogo;Juventude;10.0;10.0
-Botafogo;Goiás EC;40.0;38.0
+Botafogo;Goiás;45.0;45.0
 Cruzeiro;Internacional;38.0;36.0
-Cruzeiro;Goiás EC;21.0;24.0
+Cruzeiro;Goiás;22.0;27.0
 Cruzeiro;Fortaleza;7.0;11.0
 Flamengo;Brasiliense-DF;6.0;3.0
 Flamengo;Juventude;16.0;15.0
 Fortaleza;Botafogo;15.0;19.0
 Fortaleza;Cruzeiro;10.0;11.0
-Goiás EC;Santos FC;54.0;42.0
-Goiás EC;Atlético-MG;34.0;31.0
+Goiás;Santos FC;54.0;42.0
+Goiás;Atlético-MG;36.0;33.0
 Juventude;Fluminense;25.0;18.0
 Juventude;Santos FC;15.0;18.0
 Juventude;São Caetano;6.0;6.0
 Palmeiras;Internacional;44.0;48.0
-Palmeiras;Goiás EC;33.0;32.0
+Palmeiras;Goiás;34.0;33.0
 Fluminense;Internacional;49.0;51.0
 São Paulo;Fortaleza;14.0;16.0
 São Paulo;Juventude;14.0;10.0
@@ -624,16 +624,16 @@ Brasiliense-DF;São Paulo;4.0;1.0
 Brasiliense-DF;Palmeiras;4.0;3.0
 Figueirense FC;Paysandu SC;11.0;11.0
 Figueirense FC;São Paulo;35.0;44.0
-Figueirense FC;Goiás EC;18.0;24.0
+Figueirense FC;Goiás;18.0;24.0
 Paraná;Brasiliense-DF;2.0;3.0
 Cruzeiro;Figueirense FC;27.0;27.0
 Cruzeiro;Paysandu SC;13.0;9.0
 Fortaleza;Vasco da Gama;10.0;17.0
-Goiás EC;Botafogo;26.0;23.0
-Goiás EC;Paysandu SC;12.0;8.0
-Goiás EC;Ponte Preta;10.0;14.0
-Goiás EC;Vasco da Gama;36.0;31.0
-Goiás EC;Atlético-PR;34.0;32.0
+Goiás;Botafogo;30.0;27.0
+Goiás;Paysandu SC;12.0;8.0
+Goiás;Ponte Preta;10.0;14.0
+Goiás;Vasco da Gama;36.0;31.0
+Goiás;Atlético-PR;34.0;32.0
 Juventude;Vasco da Gama;9.0;8.0
 Santos FC;Paysandu SC;5.0;3.0
 Santos FC;Figueirense FC;25.0;26.0
@@ -750,21 +750,21 @@ América-MG;Santa Cruz;4.0;6.0
 Paraná;Santa Cruz;1.0;0.0
 Paraná;Cruzeiro;17.0;9.0
 Grêmio;Juventude;17.0;10.0
-Flamengo;Goiás EC;27.0;25.0
+Flamengo;Goiás;28.0;27.0
 Santos FC;Paraná;12.0;6.0
 Cruzeiro;São Caetano;7.0;10.0
 Santa Cruz;Juventude;4.0;3.0
-Goiás EC;Grêmio;28.0;35.0
+Goiás;Grêmio;29.0;36.0
 Figueirense FC;Vasco da Gama;23.0;19.0
 Fortaleza;Grêmio;13.0;15.0
 Botafogo;Fortaleza;10.0;10.0
 Fortaleza;São Paulo;19.0;25.0
 Flamengo;Fortaleza;15.0;14.0
-Grêmio;Goiás EC;26.0;29.0
-Goiás EC;Corinthians;34.0;39.0
+Grêmio;Goiás;27.0;30.0
+Goiás;Corinthians;37.0;44.0
 Grêmio;São Caetano;6.0;9.0
 Vasco da Gama;Santa Cruz;1.0;0.0
-Santa Cruz;Goiás EC;6.0;3.0
+Santa Cruz;Goiás;6.0;3.0
 Vasco da Gama;Paraná;10.0;13.0
 São Caetano;Santa Cruz;1.0;0.0
 Palmeiras;Juventude;10.0;9.0
@@ -773,17 +773,17 @@ São Caetano;Corinthians;6.0;9.0
 Grêmio;Paraná;12.0;10.0
 Atlético-PR;São Caetano;6.0;7.0
 Santa Cruz;Fortaleza;2.0;3.0
-Juventude;Goiás EC;18.0;17.0
+Juventude;Goiás;19.0;21.0
 Juventude;Santa Cruz;2.0;3.0
 Fluminense;Juventude;16.0;15.0
 Juventude;Grêmio;17.0;19.0
-Goiás EC;São Paulo;33.0;40.0
+Goiás;São Paulo;42.0;47.0
 São Caetano;Grêmio;5.0;6.0
 Paraná;Flamengo;17.0;16.0
 Paraná;Grêmio;13.0;13.0
 Santa Cruz;São Caetano;5.0;6.0
 Santa Cruz;Paraná;6.0;6.0
-Goiás EC;Santa Cruz;5.0;3.0
+Goiás;Santa Cruz;5.0;3.0
 Fortaleza;Santa Cruz;4.0;3.0
 Santa Cruz;Vasco da Gama;6.0;6.0
 Fortaleza;Fluminense;21.0;27.0
@@ -820,9 +820,9 @@ Sport Recife;América-RN;3.0;2.0
 Sport Recife;Paraná;3.0;3.0
 Sport Recife;Náutico;12.0;12.0
 Sport Recife;Juventude;4.0;6.0
-Sport Recife;Goiás EC;10.0;14.0
+Sport Recife;Goiás;10.0;14.0
 Náutico;Paraná;6.0;1.0
-Náutico;Goiás EC;13.0;13.0
+Náutico;Goiás;13.0;13.0
 Náutico;Cruzeiro;26.0;20.0
 Náutico;Fluminense;14.0;21.0
 Náutico;Atlético-MG;19.0;20.0
@@ -844,16 +844,16 @@ Atlético-MG;América-RN;1.0;0.0
 Cruzeiro;América-RN;1.0;0.0
 Cruzeiro;Náutico;15.0;8.0
 Atlético-MG;Náutico;6.0;8.0
-Goiás EC;América-RN;1.0;1.0
-Goiás EC;Sport Recife;15.0;20.0
-Goiás EC;Náutico;11.0;10.0
+Goiás;América-RN;1.0;1.0
+Goiás;Sport Recife;15.0;20.0
+Goiás;Náutico;11.0;10.0
 Corinthians;América-RN;1.0;0.0
 Flamengo;América-RN;1.0;0.0
 América-RN;Vasco da Gama;3.0;6.0
 América-RN;Figueirense FC;4.0;6.0
 América-RN;Corinthians;3.0;6.0
 América-RN;Fluminense;3.0;6.0
-América-RN;Goiás EC;4.0;4.0
+América-RN;Goiás;4.0;4.0
 América-RN;Internacional;4.0;6.0
 América-RN;Atlético-PR;3.0;3.0
 América-RN;São Paulo;4.0;6.0
@@ -876,9 +876,9 @@ Flamengo;Portuguesa;5.0;6.0
 Náutico;Ipatinga FC;0.0;1.0
 Náutico;Portuguesa;12.0;12.0
 Náutico;EC Vitória;11.0;13.0
-Goiás EC;Ipatinga FC;2.0;4.0
-Goiás EC;Portuguesa;2.0;1.0
-Goiás EC;EC Vitória;14.0;12.0
+Goiás;Ipatinga FC;2.0;4.0
+Goiás;Portuguesa;2.0;1.0
+Goiás;EC Vitória;14.0;12.0
 Palmeiras;Portuguesa;7.0;5.0
 Palmeiras;Ipatinga FC;1.0;0.0
 Santos FC;Ipatinga FC;1.0;1.0
@@ -891,13 +891,13 @@ Portuguesa;Vasco da Gama;8.0;15.0
 Portuguesa;Coritiba FC;7.0;9.0
 Portuguesa;Grêmio;8.0;8.0
 Portuguesa;Ipatinga FC;4.0;3.0
-Portuguesa;Goiás EC;8.0;10.0
+Portuguesa;Goiás;8.0;10.0
 São Paulo;Ipatinga FC;2.0;1.0
 São Paulo;Portuguesa;8.0;6.0
 Coritiba FC;Portuguesa;4.0;6.0
 Coritiba FC;Ipatinga FC;2.0;3.0
 Coritiba FC;Náutico;8.0;4.0
-EC Vitória;Goiás EC;20.0;21.0
+EC Vitória;Goiás;20.0;21.0
 EC Vitória;Náutico;4.0;4.0
 EC Vitória;Ipatinga FC;2.0;4.0
 EC Vitória;Portuguesa;4.0;1.0
@@ -908,7 +908,7 @@ Ipatinga FC;Cruzeiro;3.0;4.0
 Ipatinga FC;Portuguesa;3.0;3.0
 Ipatinga FC;Internacional;4.0;3.0
 Ipatinga FC;Santos FC;5.0;4.0
-Ipatinga FC;Goiás EC;1.0;1.0
+Ipatinga FC;Goiás;1.0;1.0
 Ipatinga FC;Atlético-MG;6.0;3.0
 Ipatinga FC;Vasco da Gama;5.0;3.0
 Ipatinga FC;Coritiba FC;1.0;3.0
@@ -971,9 +971,9 @@ Fortaleza;RB Bragantino;10.0;12.0
 Fortaleza;Sport Recife;1.0;3.0
 Fortaleza;Atlético-GO;6.0;9.0
 Fortaleza;Ceará SC;13.0;18.0
-Goiás EC;Atlético-GO;4.0;3.0
-Goiás EC;EC Bahia;15.0;12.0
-Goiás EC;RB Bragantino;2.0;4.0
+Goiás;Atlético-GO;5.0;3.0
+Goiás;EC Bahia;22.0;16.0
+Goiás;RB Bragantino;6.0;9.0
 Palmeiras;Athletico-PR;7.0;6.0
 Palmeiras;RB Bragantino;13.0;11.0
 Santos FC;RB Bragantino;2.0;2.0
@@ -1013,7 +1013,7 @@ RB Bragantino;Botafogo;7.0;10.0
 RB Bragantino;Palmeiras;12.0;11.0
 RB Bragantino;Corinthians;5.0;8.0
 RB Bragantino;Sport Recife;0.0;2.0
-RB Bragantino;Goiás EC;0.0;1.0
+RB Bragantino;Goiás;2.0;3.0
 RB Bragantino;Santos FC;2.0;2.0
 RB Bragantino;EC Bahia;11.0;8.0
 RB Bragantino;Atlético-MG;14.0;14.0
@@ -1027,10 +1027,10 @@ Botafogo;Ceará SC;11.0;11.0
 Botafogo;RB Bragantino;4.0;4.0
 Botafogo;Athletico-PR;10.0;14.0
 EC Bahia;Internacional;33.0;45.0
-EC Bahia;Goiás EC;20.0;15.0
+EC Bahia;Goiás;25.0;16.0
 Flamengo;Ceará SC;14.0;14.0
 Ceará SC;Santos FC;14.0;21.0
-Ceará SC;Goiás EC;6.0;9.0
+Ceará SC;Goiás;8.0;11.0
 Ceará SC;Corinthians;19.0;20.0
 Ceará SC;São Paulo;19.0;25.0
 Ceará SC;Coritiba FC;8.0;7.0
@@ -1038,20 +1038,20 @@ Ceará SC;Atlético-MG;16.0;20.0
 Ceará SC;Palmeiras;17.0;24.0
 Ceará SC;Fluminense;18.0;22.0
 Fortaleza;EC Bahia;16.0;18.0
-Goiás EC;Athletico-PR;8.0;9.0
+Goiás;Athletico-PR;15.0;16.0
 Palmeiras;Ceará SC;16.0;15.0
 Santos FC;Ceará SC;8.0;6.0
 Fluminense;Ceará SC;12.0;16.0
 Fluminense;Athletico-PR;14.0;13.0
 Corinthians;Ceará SC;18.0;17.0
-Athletico-PR;Goiás EC;4.0;3.0
+Athletico-PR;Goiás;9.0;7.0
 Athletico-PR;Fluminense;13.0;16.0
 Athletico-PR;RB Bragantino;12.0;9.0
 Athletico-PR;Fortaleza;10.0;11.0
 Athletico-PR;Atlético-MG;10.0;16.0
 Athletico-PR;Flamengo;20.0;16.0
 Atlético-GO;RB Bragantino;10.0;12.0
-Atlético-GO;Goiás EC;7.0;9.0
+Atlético-GO;Goiás;10.0;15.0
 Sport Recife;Ceará SC;5.0;8.0
 Internacional;EC Bahia;15.0;12.0
 Internacional;Athletico-PR;10.0;15.0
@@ -1064,7 +1064,7 @@ RB Bragantino;Athletico-PR;13.0;12.0
 RB Bragantino;São Paulo;8.0;6.0
 RB Bragantino;Flamengo;9.0;6.0
 Fortaleza;Athletico-PR;12.0;14.0
-Goiás EC;Ceará SC;8.0;6.0
+Goiás;Ceará SC;10.0;8.0
 Corinthians;RB Bragantino;7.0;11.0
 Corinthians;Athletico-PR;8.0;6.0
 Atlético-MG;Athletico-PR;9.0;13.0
@@ -1116,22 +1116,22 @@ Santo André;Palmeiras;1.0;3.0
 Santo André;Grêmio;3.0;3.0
 Santo André;Avaí FC;3.0;3.0
 Cruzeiro;Santo André;2.0;0.0
-Santo André;Goiás EC;5.0;6.0
+Santo André;Goiás;5.0;6.0
 Santo André;Internacional;6.0;6.0
 Santo André;Coritiba FC;2.0;0.0
 Grêmio;Barueri;5.0;6.0
 EC Vitória;Barueri;5.0;4.0
-Goiás EC;Avaí FC;11.0;16.0
+Goiás;Avaí FC;15.0;20.0
 Sport Recife;Barueri;3.0;4.0
 Santos FC;Santo André;3.0;1.0
 EC Vitória;Santo André;2.0;3.0
 Santo André;São Paulo;2.0;2.0
 Internacional;Barueri;3.0;1.0
 Avaí FC;Internacional;20.0;28.0
-Avaí FC;Goiás EC;6.0;7.0
+Avaí FC;Goiás;9.0;8.0
 Náutico;Avaí FC;3.0;6.0
 Botafogo;Barueri;5.0;3.0
-Barueri;Goiás EC;5.0;1.0
+Barueri;Goiás;5.0;1.0
 Grêmio;Santo André;4.0;3.0
 Barueri;Avaí FC;12.0;7.0
 São Paulo;Santo André;2.0;2.0
@@ -1139,8 +1139,8 @@ Santo André;Flamengo;5.0;6.0
 Santo André;Sport Recife;3.0;3.0
 Santo André;Barueri;1.0;2.0
 Santo André;Náutico;5.0;3.0
-Goiás EC;Barueri;11.0;10.0
-Goiás EC;Santo André;2.0;0.0
+Goiás;Barueri;11.0;10.0
+Goiás;Santo André;2.0;0.0
 Sport Recife;Santo André;3.0;3.0
 Fluminense;Santo André;2.0;3.0
 Barueri;São Paulo;7.0;10.0
@@ -1191,7 +1191,7 @@ EC Bahia;CSA;1.0;0.0
 Flamengo;CSA;0.0;0.0
 Ceará SC;Chapecoense;5.0;7.0
 Ceará SC;Cruzeiro;7.0;14.0
-Goiás EC;CSA;1.0;3.0
+Goiás;CSA;1.0;3.0
 Palmeiras;CSA;3.0;1.0
 Santos FC;CSA;0.0;1.0
 Fluminense;CSA;1.0;3.0
@@ -1202,11 +1202,11 @@ Athletico-PR;Avaí FC;3.0;5.0
 Athletico-PR;CSA;0.0;0.0
 Athletico-PR;Cruzeiro;3.0;2.0
 Vasco da Gama;CSA;0.0;1.0
-CSA;Goiás EC;1.0;3.0
+CSA;Goiás;1.0;3.0
 CSA;Botafogo;4.0;6.0
 CSA;Athletico-PR;5.0;6.0
 Avaí FC;CSA;3.0;4.0
-Goiás EC;Chapecoense;6.0;3.0
+Goiás;Chapecoense;6.0;3.0
 Chapecoense;Athletico-PR;5.0;4.0
 Corinthians;CSA;2.0;3.0
 Athletico-PR;Chapecoense;5.0;4.0
@@ -1222,7 +1222,7 @@ Fortaleza;CSA;0.0;0.0
 Internacional;CSA;1.0;3.0
 Cruzeiro;Ceará SC;5.0;8.0
 Chapecoense;Fortaleza;10.0;12.0
-Chapecoense;Goiás EC;12.0;12.0
+Chapecoense;Goiás;12.0;12.0
 Ceará SC;Avaí FC;12.0;9.0
 Santos;Ceará SC;3.0;5.0
 Santos;Juventude;5.0;4.0
@@ -1347,7 +1347,7 @@ Barueri;Vasco da Gama;4.0;6.0
 Vasco da Gama;Guarani;8.0;14.0
 Internacional;Guarani;8.0;9.0
 Fluminense;Guarani;8.0;8.0
-Guarani;Goiás EC;7.0;6.0
+Guarani;Goiás;7.0;6.0
 Guarani;Barueri;4.0;3.0
 Guarani;Internacional;10.0;9.0
 Guarani;Ceará SC;3.0;4.0
@@ -1378,7 +1378,7 @@ Guarani;Botafogo;4.0;5.0
 Barueri;Atlético-GO;3.0;3.0
 EC Vitória;Guarani;6.0;3.0
 Palmeiras;Guarani;1.0;4.0
-Goiás EC;Guarani;5.0;6.0
+Goiás;Guarani;5.0;6.0
 Barueri;Guarani;3.0;3.0
 Cruzeiro;Guarani;8.0;5.0
 Guarani;Cruzeiro;13.0;11.0
@@ -1404,7 +1404,7 @@ EC Bahia;Criciúma EC;7.0;6.0
 Fortaleza;EC Vitória;2.0;3.0
 Fortaleza;Guarani;2.0;3.0
 Fortaleza;Criciúma EC;1.0;3.0
-Goiás EC;Criciúma EC;13.0;14.0
+Goiás;Criciúma EC;13.0;14.0
 Juventude;EC Vitória;6.0;4.0
 Juventude;Guarani;6.0;7.0
 Santos FC;Criciúma EC;12.0;6.0
@@ -1437,7 +1437,7 @@ Criciúma EC;Juventude;1.0;3.0
 Criciúma EC;Ponte Preta;6.0;5.0
 Criciúma EC;Atlético-PR;11.0;12.0
 Criciúma EC;Corinthians;10.0;17.0
-Criciúma EC;Goiás EC;6.0;8.0
+Criciúma EC;Goiás;6.0;8.0
 Criciúma EC;São Paulo;8.0;10.0
 Criciúma EC;EC Vitória;10.0;12.0
 Criciúma EC;São Caetano;13.0;12.0
@@ -1471,7 +1471,7 @@ Avaí FC;Figueirense FC;4.0;2.0
 Avaí FC;Joinville-SC;3.0;3.0
 Cruzeiro;Joinville-SC;3.0;3.0
 Flamengo;Joinville-SC;0.0;0.0
-Goiás EC;Joinville-SC;2.0;3.0
+Goiás;Joinville-SC;2.0;3.0
 Palmeiras;Joinville-SC;2.0;1.0
 Santos FC;Joinville-SC;0.0;1.0
 Fluminense;Joinville-SC;2.0;3.0
@@ -1485,7 +1485,7 @@ Atlético-PR;Joinville-SC;1.0;1.0
 Joinville-SC;Palmeiras;3.0;4.0
 Joinville-SC;Atlético-PR;2.0;4.0
 Joinville-SC;Corinthians;4.0;6.0
-Joinville-SC;Goiás EC;4.0;3.0
+Joinville-SC;Goiás;4.0;3.0
 Joinville-SC;Flamengo;3.0;6.0
 Joinville-SC;Internacional;3.0;6.0
 Joinville-SC;Ponte Preta;2.0;4.0
@@ -1512,62 +1512,30 @@ Náutico;Criciúma EC;4.0;6.0
 Atlético-MG;Criciúma EC;11.0;11.0
 Criciúma EC;EC Bahia;6.0;6.0
 Criciúma EC;Náutico;0.0;0.0
-Goiás;Palmeiras;10.0;10.0
 Goiás;Santos;5.0;3.0
 Goiás;Cuiabá-MT;3.0;4.0
-Goiás;Athletico-PR;7.0;7.0
-Goiás;Coritiba FC;5.0;6.0
-Goiás;Atlético-GO;1.0;0.0
-Goiás;Flamengo;4.0;8.0
-Goiás;Botafogo;4.0;4.0
-Goiás;Corinthians;3.0;5.0
 Goiás;América-MG;3.0;4.0
-Goiás;Juventude;0.0;1.0
 Santos;Botafogo;5.0;4.0
 Santos;Avaí FC;2.0;4.0
 Avaí FC;América-MG;7.0;5.0
-Avaí FC;Goiás;3.0;1.0
 Avaí FC;Cuiabá-MT;3.0;6.0
 Avaí FC;Santos;1.0;1.0
 Avaí FC;RB Bragantino;6.0;6.0
-Botafogo;Goiás;5.0;7.0
 Botafogo;Santos;4.0;4.0
-Flamengo;Goiás;1.0;2.0
-Ceará SC;Goiás;2.0;2.0
-Fortaleza;Goiás;2.0;4.0
-Juventude;Goiás;1.0;4.0
 Juventude;Avaí FC;2.0;1.0
-Palmeiras;Goiás;1.0;1.0
 Cuiabá-MT;Botafogo;1.0;3.0
 Cuiabá-MT;Avaí FC;1.0;0.0
 Cuiabá-MT;Coritiba FC;3.0;4.0
-Fluminense;Goiás;7.0;1.0
 América-MG;Goiás;3.0;4.0
-Corinthians;Goiás;4.0;5.0
-Coritiba FC;Goiás;2.0;3.0
 Coritiba FC;Cuiabá-MT;6.0;7.0
 Coritiba FC;Santos;6.0;10.0
-Atlético-MG;Goiás;3.0;5.0
 RB Bragantino;Avaí FC;1.0;0.0
-RB Bragantino;Goiás;2.0;2.0
-Goiás;Atlético-MG;2.0;2.0
-Goiás;RB Bragantino;4.0;5.0
-Goiás;Ceará SC;2.0;2.0
-Goiás;Internacional;7.0;10.0
-Goiás;Fluminense;13.0;10.0
-Goiás;Avaí FC;4.0;4.0
-Goiás;Fortaleza;2.0;4.0
-Goiás;São Paulo;9.0;7.0
 Santos;Coritiba FC;3.0;1.0
 Santos;Goiás;6.0;6.0
 Avaí FC;Juventude;3.0;4.0
 Botafogo;Cuiabá-MT;4.0;6.0
 América-MG;Avaí FC;6.0;5.0
-Athletico-PR;Goiás;5.0;4.0
-Atlético-GO;Goiás;3.0;6.0
 Cuiabá-MT;Goiás;4.0;7.0
-São Paulo;Goiás;6.0;4.0
-Internacional;Goiás;3.0;1.0
 Palmeiras;Criciúma EC;2.0;0.0
 Criciúma EC;Sport Recife;4.0;4.0
 Sport Recife;Criciúma EC;2.0;1.0
@@ -1576,16 +1544,20 @@ Criciúma EC;Chapecoense;1.0;1.0
 Vasco da Gama;Cuiabá-MT;0.0;0.0
 Cuiabá-MT;Cruzeiro;0.0;1.0
 Cruzeiro;RB Bragantino;0.0;1.0
-EC Bahia;Goiás;5.0;1.0
 Vasco da Gama;Santos;5.0;6.0
-Vasco da Gama;Goiás;1.0;3.0
 Santos;Vasco da Gama;1.0;0.0
 Cruzeiro;Santos;1.0;0.0
-Cruzeiro;Goiás;1.0;3.0
-Goiás;Grêmio;1.0;1.0
 Cruzeiro;Cuiabá-MT;1.0;4.0
 Santos;Cruzeiro;5.0;6.0
 RB Bragantino;Cruzeiro;3.0;4.0
-Goiás;EC Bahia;7.0;4.0
 Figueirense FC;Ceará SC;2.0;2.0
 Ceará SC;Figueirense FC;2.0;2.0
+Internacional;Brasiliense-DF;0.0;1.0
+Brasiliense-DF;Santos FC;1.0;1.0
+Brasiliense-DF;Figueirense FC;2.0;1.0
+Ponte Preta;Brasiliense-DF;4.0;3.0
+Criciúma EC;Paraná;2.0;3.0
+Guarani;EC Bahia;2.0;3.0
+São Caetano;EC Bahia;0.0;1.0
+Criciúma EC;Fortaleza;0.0;0.0
+Cuiabá-MT;Vasco da Gama;1.0;3.0
