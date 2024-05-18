@@ -121,19 +121,19 @@ Boa Esporte;Cruzeiro;1.0;1.0
 Atlético-GO;Santa Cruz;1.0;1.0
 Atlético-MG;Athletico-PR;1.0;0.0
 Fortaleza;Atlético-MG;6.0;6.0
-ABC FC;Chapecoense;2.0;1.0
-EC Bahia;Vila Nova FC;3.0;3.0
-Athletico-PR;Avaí FC;0.0;0.0
-Palmeiras;CRB;2.0;4.0
-Juazeirense;Cruzeiro;0.0;0.0
-Criciúma EC;América-MG;3.0;4.0
-Ceará SC;Fortaleza;3.0;4.0
-Vila Nova FC;EC Bahia;4.0;7.0
-Chapecoense;ABC FC;2.0;3.0
-Fortaleza;Ceará SC;4.0;4.0
-América-MG;Criciúma EC;1.0;4.0
-Avaí FC;Athletico-PR;3.0;2.0
-Corinthians;Retrô;2.0;4.0
+ABC FC;Chapecoense;3.0;3.0
+EC Bahia;Vila Nova FC;0.0;0.0
+Athletico-PR;Avaí FC;1.0;1.0
+Palmeiras;CRB;1.0;3.0
+Juazeirense;Cruzeiro;1.0;3.0
+Criciúma EC;América-MG;2.0;2.0
+Ceará SC;Fortaleza;6.0;7.0
+Vila Nova FC;EC Bahia;2.0;6.0
+Chapecoense;ABC FC;4.0;3.0
+Fortaleza;Ceará SC;2.0;4.0
+América-MG;Criciúma EC;2.0;2.0
+Avaí FC;Athletico-PR;2.0;4.0
+Corinthians;Retrô;1.0;1.0
 Luverdense;RB Bragantino;2.0;3.0
 Coritiba FC;Operário-PR;2.0;0.0
 Fortaleza;Ypiranga-RS;0.0;0.0
@@ -191,84 +191,84 @@ Palmas;Avaí FC;1.0;3.0
 Ypiranga-AP;Santa Cruz;4.0;3.0
 Jaraguá EC;Manaus FC;4.0;3.0
 Goianésia (GO);CRB;3.0;3.0
-Atlético-MG;Fortaleza;0.0;0.0
-Santos;Athletico-PR;1.0;3.0
-Atlético-MG;Fluminense;0.0;0.0
-Flamengo;Grêmio;1.0;0.0
-Athletico-PR;Santos;1.0;3.0
-Grêmio;Flamengo;5.0;3.0
-Fluminense;Criciúma EC;4.0;2.0
+Atlético-MG;Fortaleza;1.0;0.0
+Santos;Athletico-PR;2.0;6.0
+Atlético-MG;Fluminense;1.0;0.0
+Flamengo;Grêmio;0.0;0.0
+Athletico-PR;Santos;0.0;0.0
+Grêmio;Flamengo;6.0;6.0
+Fluminense;Criciúma EC;2.0;3.0
 Grêmio;EC Vitória;0.0;0.0
-EC Bahia;Atlético-MG;1.0;0.0
-Juazeirense;Santos;6.0;4.0
-ABC FC;Flamengo;3.0;6.0
-Criciúma EC;Fluminense;3.0;3.0
-Athletico-PR;Atlético-GO;1.0;0.0
+EC Bahia;Atlético-MG;3.0;3.0
+Juazeirense;Santos;4.0;3.0
+ABC FC;Flamengo;7.0;6.0
+Criciúma EC;Fluminense;4.0;3.0
+Athletico-PR;Atlético-GO;3.0;1.0
 Santos;Juazeirense;2.0;3.0
-São Paulo;Vasco da Gama;4.0;3.0
-Atlético-MG;EC Bahia;6.0;3.0
-Flamengo;ABC FC;3.0;3.0
-Santos;Cianorte;2.0;1.0
+São Paulo;Vasco da Gama;1.0;0.0
+Atlético-MG;EC Bahia;2.0;3.0
+Flamengo;ABC FC;0.0;0.0
+Santos;Cianorte;0.0;0.0
 RB Bragantino;Fluminense;3.0;3.0
-Atlético-GO;Corinthians;1.0;1.0
+Atlético-GO;Corinthians;4.0;4.0
 Brasiliense;Grêmio;2.0;4.0
 Internacional;EC Vitória;3.0;3.0
 Flamengo;Coritiba FC;0.0;0.0
-Grêmio;Brasiliense;2.0;3.0
-Fluminense;RB Bragantino;4.0;3.0
-Cruzeiro;Juazeirense;2.0;3.0
-EC Vitória;Internacional;1.0;3.0
-Athletico-PR;Atlético-MG;2.0;3.0
-CRB;Fortaleza;1.0;4.0
+Grêmio;Brasiliense;0.0;1.0
+Fluminense;RB Bragantino;2.0;3.0
+Cruzeiro;Juazeirense;1.0;3.0
+EC Vitória;Internacional;2.0;3.0
+Athletico-PR;Atlético-MG;6.0;6.0
+CRB;Fortaleza;3.0;6.0
 Atlético-GO;Athletico-PR;4.0;4.0
-Vasco da Gama;São Paulo;3.0;6.0
-EC Vitória;Grêmio;4.0;3.0
-Fortaleza;CRB;5.0;3.0
-São Paulo;4 de Julho;4.0;4.0
-Vasco da Gama;Boavista;3.0;4.0
-Atlético-MG;Remo;3.0;3.0
-Cianorte;Santos;4.0;6.0
-Boavista;Vasco da Gama;2.0;6.0
+Vasco da Gama;São Paulo;4.0;6.0
+EC Vitória;Grêmio;4.0;6.0
+Fortaleza;CRB;1.0;0.0
+São Paulo;4 de Julho;4.0;3.0
+Vasco da Gama;Boavista;1.0;1.0
+Atlético-MG;Remo;1.0;0.0
+Cianorte;Santos;3.0;6.0
+Boavista;Vasco da Gama;2.0;4.0
 CRB;Palmeiras;1.0;3.0
-Coritiba FC;Flamengo;4.0;6.0
-Fluminense;Atlético-MG;2.0;3.0
-4 de Julho;São Paulo;2.0;0.0
-Remo;Atlético-MG;3.0;6.0
-Corinthians;Atlético-GO;4.0;4.0
+Coritiba FC;Flamengo;3.0;6.0
+Fluminense;Atlético-MG;3.0;6.0
+4 de Julho;São Paulo;11.0;3.0
+Remo;Atlético-MG;4.0;6.0
+Corinthians;Atlético-GO;5.0;7.0
 América-MG;CSA;0.0;0.0
-Athletico-PR;Tocantinópolis;2.0;3.0
-Juazeirense;Palmeiras;3.0;6.0
-Ceará SC;Tombense;9.0;3.0
-Flamengo;Altos;2.0;3.0
-Vila Nova FC;Fluminense;4.0;7.0
-Corinthians;Portuguesa-RJ;0.0;0.0
-EC Vitória;Fortaleza;3.0;3.0
-São Paulo;Juventude;2.0;3.0
+Athletico-PR;Tocantinópolis;2.0;0.0
+Juazeirense;Palmeiras;4.0;6.0
+Ceará SC;Tombense;0.0;0.0
+Flamengo;Altos;1.0;0.0
+Vila Nova FC;Fluminense;5.0;6.0
+Corinthians;Portuguesa-RJ;1.0;1.0
+EC Vitória;Fortaleza;4.0;6.0
+São Paulo;Juventude;2.0;1.0
 Botafogo;Ceilândia;0.0;0.0
-Santos;Coritiba FC;1.0;0.0
+Santos;Coritiba FC;1.0;3.0
 Brasiliense;Atlético-MG;4.0;6.0
-CSA;América-MG;4.0;4.0
-EC Bahia;Azuriz;3.0;4.0
-Remo;Cruzeiro;3.0;1.0
+CSA;América-MG;5.0;6.0
+EC Bahia;Azuriz;1.0;2.0
+Remo;Cruzeiro;2.0;3.0
 Fluminense;Vila Nova FC;2.0;0.0
-Goiás;RB Bragantino;3.0;6.0
-Fortaleza;EC Vitória;3.0;3.0
-Atlético-MG;Brasiliense;2.0;3.0
-Tocantinópolis;Athletico-PR;6.0;4.0
-Coritiba FC;Santos;1.0;3.0
-Juventude;São Paulo;2.0;1.0
-Tombense;Ceará SC;2.0;3.0
-Portuguesa-RJ;Corinthians;1.0;1.0
-Ceilândia;Botafogo;3.0;3.0
-Atlético-GO;Cuiabá-MT;5.0;4.0
-Palmeiras;Juazeirense;4.0;3.0
+Goiás;RB Bragantino;2.0;3.0
+Fortaleza;EC Vitória;0.0;0.0
+Atlético-MG;Brasiliense;0.0;0.0
+Tocantinópolis;Athletico-PR;9.0;6.0
+Coritiba FC;Santos;3.0;3.0
+Juventude;São Paulo;4.0;4.0
+Tombense;Ceará SC;4.0;6.0
+Portuguesa-RJ;Corinthians;3.0;4.0
+Ceilândia;Botafogo;6.0;6.0
+Atlético-GO;Cuiabá-MT;1.0;2.0
+Palmeiras;Juazeirense;2.0;0.0
 Altos;Flamengo;4.0;6.0
-Azuriz;Mirassol-SP;2.0;3.0
-Avaí FC;Ceilândia;4.0;6.0
-Portuguesa-RJ;Sampaio Corrêa;3.0;3.0
-Ceará SC;Tuna Luso;0.0;1.0
-Atlético-GO;Nova Venécia;2.0;0.0
-Tuntum;Cruzeiro;5.0;6.0
+Azuriz;Mirassol-SP;0.0;0.0
+Avaí FC;Ceilândia;2.0;3.0
+Portuguesa-RJ;Sampaio Corrêa;0.0;0.0
+Ceará SC;Tuna Luso;0.0;0.0
+Atlético-GO;Nova Venécia;1.0;0.0
+Tuntum;Cruzeiro;3.0;3.0
 Tocantinópolis;FC Cascavel;0.0;0.0
 São Paulo;Manaus FC;0.0;0.0
 CSA;Paysandu;1.0;0.0
@@ -369,42 +369,42 @@ Real Ariquemes;Criciúma EC;3.0;3.0
 Iguatu;América-RN;0.0;0.0
 Maringá;Sampaio Corrêa;1.0;0.0
 Sergipe;Botafogo;1.0;1.0
-Corinthians;Flamengo;0.0;1.0
-Corinthians;Fluminense;0.0;0.0
-São Paulo;América-MG;0.0;0.0
-Cruzeiro;Fluminense;3.0;3.0
-Flamengo;Atlético-MG;0.0;0.0
-Santos;Corinthians;0.0;0.0
-Atlético-GO;Goiás;1.0;2.0
-Atlético-MG;Flamengo;5.0;3.0
-Corinthians;Santos;2.0;1.0
-São Paulo;Palmeiras;3.0;4.0
-América-MG;Botafogo;2.0;4.0
-Ypiranga-RS;RB Bragantino;5.0;3.0
-Fluminense;Corinthians;4.0;2.0
+Corinthians;Flamengo;1.0;2.0
+Corinthians;Fluminense;2.0;1.0
+São Paulo;América-MG;2.0;1.0
+Cruzeiro;Fluminense;5.0;6.0
+Flamengo;Atlético-MG;2.0;3.0
+Santos;Corinthians;4.0;3.0
+Atlético-GO;Goiás;0.0;1.0
+Atlético-MG;Flamengo;3.0;3.0
+Corinthians;Santos;1.0;3.0
+São Paulo;Palmeiras;2.0;3.0
+América-MG;Botafogo;0.0;0.0
+Ypiranga-RS;RB Bragantino;1.0;0.0
+Fluminense;Corinthians;5.0;4.0
 Fortaleza;Fluminense;3.0;4.0
-Athletico-PR;EC Bahia;3.0;3.0
-Goiás;Atlético-GO;6.0;7.0
-Botafogo;América-MG;4.0;6.0
-Fluminense;Cruzeiro;5.0;3.0
+Athletico-PR;EC Bahia;2.0;0.0
+Goiás;Atlético-GO;3.0;4.0
+Botafogo;América-MG;5.0;6.0
+Fluminense;Cruzeiro;1.0;0.0
 Fluminense;Fortaleza;2.0;1.0
 América-MG;São Paulo;3.0;4.0
 EC Bahia;Athletico-PR;4.0;6.0
-Flamengo;Corinthians;2.0;4.0
-Palmeiras;São Paulo;3.0;3.0
-Azuriz;EC Bahia;1.0;1.0
-Cuiabá-MT;Atlético-GO;0.0;1.0
-Cruzeiro;Remo;3.0;3.0
-RB Bragantino;Goiás;3.0;6.0
-Figueirense FC;Cuiabá-MT;4.0;2.0
-Fluminense-PI;Santos;2.0;1.0
-Juazeirense;Vasco da Gama;1.0;2.0
-Pouso Alegre;Coritiba FC;4.0;4.0
+Flamengo;Corinthians;1.0;2.0
+Palmeiras;São Paulo;2.0;3.0
+Azuriz;EC Bahia;1.0;2.0
+Cuiabá-MT;Atlético-GO;1.0;2.0
+Cruzeiro;Remo;2.0;3.0
+RB Bragantino;Goiás;2.0;3.0
+Figueirense FC;Cuiabá-MT;2.0;1.0
+Fluminense-PI;Santos;1.0;1.0
+Juazeirense;Vasco da Gama;1.0;1.0
+Pouso Alegre;Coritiba FC;1.0;1.0
 Guarani;Vila Nova FC;2.0;1.0
 ABC FC;Altos;1.0;1.0
-Moto Club;Tombense;2.0;4.0
-Globo;Brasiliense;3.0;4.0
-Coritiba FC;Criciúma EC;1.0;2.0
-Águia de Marabá;Goiás;1.0;4.0
-Ituano;Ceará SC;1.0;2.0
-Atlético-GO;Volta Redonda;2.0;2.0
+Moto Club;Tombense;1.0;1.0
+Globo;Brasiliense;1.0;1.0
+Coritiba FC;Criciúma EC;1.0;1.0
+Águia de Marabá;Goiás;0.0;1.0
+Ituano;Ceará SC;1.0;1.0
+Atlético-GO;Volta Redonda;1.0;1.0
