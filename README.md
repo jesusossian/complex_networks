@@ -50,7 +50,9 @@
 
 - https://www.kaggle.com/code/rahulgoel1106/network-centrality-using-networkx
 
+- https://www.kaggle.com/code/syphax93/diffusion-of-coronavirus-using-networkx
 
+- https://medium.com/@marc.jacobs012/graph-networks-for-epidemiology-b33f7d93a675
 
 ## Datasets
 
