@@ -54,6 +54,10 @@
 
 - https://medium.com/@marc.jacobs012/graph-networks-for-epidemiology-b33f7d93a675
 
+- https://memgraph.com/blog/community-detection-algorithms-with-python-networkx
+
+- https://graphsandnetworks.com/community-detection-using-networkx/
+
 ## Datasets
 
 - https://snap.stanford.edu/data/
@@ -67,8 +71,6 @@
 - https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=19e96c3f-c932-4e14-82e2-58e170454e3d
 
 - https://www.kaggle.com/datasets/stackoverflow/stack-overflow-tag-network
-
-
 
 - https://github.com/jfjelstul/englishfootball
 
