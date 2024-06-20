@@ -58,6 +58,12 @@
 
 - https://graphsandnetworks.com/community-detection-using-networkx/
 
+- https://www.kaggle.com/code/kevinvdsk/community-detection/notebook
+
+- https://perso.crans.org/aynaud/communities/
+
+- https://medium.com/smucs/girvan-newman-and-louvain-algorithms-for-community-detection-f3feb7c31908
+
 ## Datasets
 
 - https://snap.stanford.edu/data/
@@ -85,4 +91,6 @@
 - https://www.kaggle.com/datasets/lucmouneyres/ligue-1-saison-20202021?rvi=1
 
 - https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro
+
+- https://websites.umich.edu/~mejn/netdata/
 
