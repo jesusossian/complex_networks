@@ -1,4 +1,4 @@
-# complex_networks_2024_1
+# complex_networks
 
 ## Doc's examples
 
