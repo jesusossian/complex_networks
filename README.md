@@ -33,6 +33,7 @@
 - https://www.kaggle.com/code/kevinvdsk/community-detection/notebook
 - https://perso.crans.org/aynaud/communities/
 - https://medium.com/smucs/girvan-newman-and-louvain-algorithms-for-community-detection-f3feb7c31908
+- https://graph-tool.skewed.de/
 
 ## Datasets
 
@@ -55,4 +56,10 @@
 
 - https://panda.ime.usp.br/cc110/static/cc110/index.html
 - https://www.ime.usp.br/~pf/algoritmos_em_grafos/index.html
+
+## Conclave
+https://zenodo.org/records/15383307
+https://www.the-new-pope.org/about.html?utm_source=chatgpt.com
+https://www.the-new-pope.org/index.html
+https://www.unibocconi.it/en/news/network-conclave
 
