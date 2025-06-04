@@ -34,6 +34,7 @@
 - https://perso.crans.org/aynaud/communities/
 - https://medium.com/smucs/girvan-newman-and-louvain-algorithms-for-community-detection-f3feb7c31908
 - https://graph-tool.skewed.de/
+- https://gcol.readthedocs.io/en/latest/
 
 ## Datasets
 
@@ -51,6 +52,10 @@
 - https://www.kaggle.com/datasets/lucmouneyres/ligue-1-saison-20202021?rvi=1
 - https://www.kaggle.com/datasets/ricardomattos05/jogos-do-campeonato-brasileiro
 - https://websites.umich.edu/~mejn/netdata/
+- https://icon.colorado.edu/
+- https://www.weizmann.ac.il/mcb/alon/download/collection-complex-networks
+- https://networks.skewed.de/
+- https://networkrepository.com/index.php
 
 ## Tutoriais
 
