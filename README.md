@@ -61,6 +61,8 @@
 
 - https://panda.ime.usp.br/cc110/static/cc110/index.html
 - https://www.ime.usp.br/~pf/algoritmos_em_grafos/index.html
+- https://neo4j.com/docs/graph-data-science/current/algorithms/community/
+- https://asmithh.github.io/network-science-data-book/intro.html
 
 ## Conclave
 https://zenodo.org/records/15383307
