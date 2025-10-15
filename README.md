@@ -1,7 +1,6 @@
 # complex_networks
 
 ## Doc's examples
-
 - https://snap.stanford.edu/data/
 - https://networkx.org/
 - https://networkx.org/documentation/stable/auto_examples/index.html#examples-gallery
@@ -35,9 +34,10 @@
 - https://medium.com/smucs/girvan-newman-and-louvain-algorithms-for-community-detection-f3feb7c31908
 - https://graph-tool.skewed.de/
 - https://gcol.readthedocs.io/en/latest/
+- https://github.com/topics/community-detection?l=python
+- https://medium.com/@tushar_aggarwal/networkx-a-comprehensive-guide-to-mastering-network-analysis-with-python-fd7e5195f6a0
 
 ## Datasets
-
 - https://snap.stanford.edu/data/
 - https://www.kaggle.com/datasets
 - https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos
@@ -58,7 +58,6 @@
 - https://networkrepository.com/index.php
 
 ## Tutoriais
-
 - https://panda.ime.usp.br/cc110/static/cc110/index.html
 - https://www.ime.usp.br/~pf/algoritmos_em_grafos/index.html
 - https://neo4j.com/docs/graph-data-science/current/algorithms/community/
@@ -70,3 +69,5 @@ https://www.the-new-pope.org/about.html?utm_source=chatgpt.com
 https://www.the-new-pope.org/index.html
 https://www.unibocconi.it/en/news/network-conclave
 
+## Books
+- https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
